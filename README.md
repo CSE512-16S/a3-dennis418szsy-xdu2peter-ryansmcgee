@@ -8,7 +8,7 @@
 
 ## The spreading of SARS in 2003
 
-Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6\% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
+Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
 
 The data is from the WHO website, and it consist of SARS cases from March 17, 2003 to July 11, 2003 of about 30 different countries and area. Variables in the data are
 
@@ -55,7 +55,7 @@ Once we implemented the interface, we realized that we want the world map to be 
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch2.png)
 
-Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added, a title and external links about .
+Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added a title and external links about SARS.
 
 
 ## Development Process
