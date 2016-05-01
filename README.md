@@ -31,29 +31,29 @@ The data map is quite big so please view it on a large screen/window.
 
 In Tableau, we explored several designs of how to present the data. We think a map representation like this is appropriate.
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/storyboard/worldmap.png)
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldmap.png)
 
 Color is used to encode the number of current cases. Dark means a larger population of people having SARS. Tableau has this nice feature that enable you to play a video on how the map changes over time. There is also a slider that controls the date of the map. We think these are nice, and we decided to implement a slider in our interactive visualization. 
 
 To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. A scetch using data from the world looks like this,
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/storyboard/worldAreaChart.png)
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
 
 We also want to enable viewer to create area chart of individual country like this,
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/storyboard/ChinaAreaChart.png)
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/ChinaAreaChart.png)
 
 This will be another interactive feature, namely when the viewer click on a country on the map, the corresponding area chart will be drawn besides the world area chart.
 
 The basic overview of the interface is here:
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/storyboard/proposedNewSketch.png)
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch.png)
 
 ## Changes Between the Storyboard and the Final Visualization
 
 Once we implemented the interface, we realized that we want the world map to be as big as possible. Stacking the two area charts decreases the height of the map, so we put them side by side.
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/storyboard/proposedNewSketch2.png)
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch2.png)
 
 Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added, a title and external links about .
 
