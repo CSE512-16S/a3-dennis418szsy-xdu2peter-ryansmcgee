@@ -35,7 +35,7 @@ In Tableau, we explored several designs of how to present the data. We think a m
 
 Color is used to encode the number of current cases. Dark means a larger population of people having SARS. Tableau has this nice feature that enable you to play a video on how the map changes over time. There is also a slider that controls the date of the map. We think these are nice, and we decided to implement a slider in our interactive visualization. 
 
-To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. A scetch using data from the world looks like this,
+To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. Red, yellow and blue are the colors for different area, taking into consideration of Deuteranopia(red-green color blindness). A scetch using data from the world looks like this,
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
 
