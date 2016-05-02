@@ -94,9 +94,23 @@ We also added a title bar at the head of the page which includes external links 
 Our group delegated tasking on the major components of our visualization to the three members, but we spent a lot of time coding all together in the library. 
 
 ####Guanming's Tasking
-Summary How many hours? What took the most time?
-- [x] Task
- * sub task
+As for me, the first thing I need to do is learning JavaScript (including D3.js) and CSS because I have never used them before. I went through the scripts in the gallery of D3js.org, learned the API of D3.js, and read examples of CSS. Also, I learned connecting charts by reading the scripts created by other people.
+- [x] Storyboarding (~1 hr)
+ * Draw initial page layout by hand
+- [x] Data Collection and Data Cleaning (~3 hrs)
+ * Copy and paste data from the WHO website (~2.5 hrs)
+ * Extract data for area charts by using python script (~0.5 hrs)
+- [x] Implement index.html with Boostrap (~2 hrs)
+ * Implement page layout with HTML and Boostrap framework
+- [x] Implement style sheet for index.html (~6 hrs)
+ * Tuning parameters in CSS for a long long time (most of the color encoding jobs were done by Ryan)
+- [x] Implement the Area Charts (~4 hrs)
+ * Implement the area chart about the global SARS outbreak (~2.5 hrs)
+ * Implement the area chart about the SARS outbreak in specific country (~0.5 hrs)
+ * Connect country specific area chart to Data Map (~1 hr)
+- [x] Reconstruct Slider and Connect Slider to Data Map (~4 hrs)
+ * Reconstruct slider (~1.5 hrs)
+ * Connect slider to data map (~2.5 hrs)
  
 ####Ryan's Tasking
 I spent roughly 20 hrs working on this application overall. A fair amount of time involved getting more up to speed with javascript, D3, and CSS since I am new to these tools. Getting the map on the page was rather straightforward using the Datamap javascript library, but a lot of time was spent refining the display and behavior of the map for our purposes. Time was also spent tailoring the code used to update the map to minimize the time it took to redraw the map as it updated. A significant amount of time was also spent in fine tuning other components and overall layout.
@@ -138,5 +152,3 @@ I spent roughly 19 hrs working on this application overall. Reading slides and e
  * Connecting to the Update function in Map
  * Fine tuning of the font and format of the date
 - [x] Contributed to readme (~3 hrs)
-
- 
