@@ -24,8 +24,8 @@ body {
     body > .container-fluid {
         overflow-y: auto;
         overflow-x: auto; 
-        min-width: 1430px;
-        min-height: 800px;
+        min-width: 1400px;
+        min-height: 700px;
         padding: 0px;
         margin-top: 50px;
     }
@@ -56,53 +56,81 @@ body {
 
 .main {
     float: left;
-    width: 1100px;
-    height: 590px;
+    width: 1020px;
+    height: 460px;
     position: relative;
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 0px;
     background-color: white;
+    overflow: visible;
+    horizontal-align: middle;
+    vertical-align: middle;
 }
 
     .main > .top {
         position: relative;
         background-color: white;
         color: black;
-        padding: 10px;
-        height: 570px;
-        width: 1080px;
-        margin-bottom: 0px;
-        margin-top: 0px;
+        padding: 0px;
+        height: relative;
+        width: relative;
+        margin: auto;
+       /* margin-bottom: 0px;
+        margin-top: 0px;*/
         font-size: 15px;
+        overflow: visible;
+        horizontal-align: middle;
+        vertical-align: middle;
     }
 
         .main > .top > #datamap{
             display: block;
+            horizontal-align: middle;
             vertical-align: middle;
-            margin: 0 auto;
+            margin: auto;
             background-color: white;
-            position: absolute;
-            top: 5px;
-            bottom: 5px;
-            left: 5px;
-            right: 5px;
+            position: relative;
+            height: relative;
+            width: relative;
+            /*top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;*/
         }
 
         .main > .top > #datamap > svg{
             position: relative;
+            height: relative;
+            width: relative;
+            top: 0px;
+            /*margin: auto;*/
             margin-top: 0px;
             margin-bottom: 0px;
-            margin-left: 0px;
-            margin-right: 0px;
-            height: 550px;
-            overflow: hidden;
+            margin-left: 100px;
+            margin-right: 0px;            
+            overflow: visible;
+            horizontal-align: middle;
+            vertical-align: middle;
         }
 
-        .main > .top > #datamap > svg .datamaps-subunits{
+        /*.main > .top > #datamap > svg .datamaps-subunits{
             height: 100%;
-        }
+        }*/
+
+    .main > .bottom {
+        position: relative;
+        background-color: white;
+        color: black;
+        padding: 0px;
+        height: 50px;
+        width: 1000px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        margin-left: 75px;
+        font-size: 15px;
+    }
 
 /*
  * Sidebar
@@ -111,7 +139,7 @@ body {
 .sidebar {
     float: left;
     width: 330px;
-    height: 590px;
+    height: 450px;
     overflow-x: hidden;
     overflow-y: hidden;
     padding-top: 10px;
@@ -125,11 +153,11 @@ body {
         background-color: white;
         color: black;
         padding: 10px;
-        height: 460px;
+        height: 360px;
         width: 100%;
         margin-top: 0px;
         margin-bottom: 0px;
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .sidebar > .middle {
@@ -161,9 +189,9 @@ body {
 .left {
     float: left;
     width: 715px;
-    height: 360px;
-    overflow-x: auto;
-    overflow-y: auto;
+    height: 200px;
+    overflow-x: hidden;
+    overflow-y: hidden;
     padding-top: 0px;
     padding-left: 15px;
     padding-right: 0px;
@@ -181,6 +209,7 @@ body {
         width: 100%;
         margin-top: 0px;
         margin-bottom: 0px;
+        margin-left: 100px;
     }
 
         .left > .chart > #worldarea{
@@ -193,9 +222,9 @@ body {
 .right {
     float: left;
     width: 715px;
-    height: 360px;
-    overflow-x: auto;
-    overflow-y: auto;
+    height: 200px;
+    overflow-x: hidden;
+    overflow-y: hidden;
     padding-top: 0px;
     padding-left: 10px;
     padding-right: 10px;
