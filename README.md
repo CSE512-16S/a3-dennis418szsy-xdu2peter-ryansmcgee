@@ -21,7 +21,7 @@ The data is from the WHO website, and it consist of SARS cases from March 17, 20
 
 ## Running Instructions
 
-Access our visualization at [https://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/](https://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
+Access our visualization at [http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/](http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
 
 Major interactions include a slider that controls map of which day to be shown, and clicking of a contry to see the corresponding area chart. Some backgroud information is displayed on the left side, and external links of more information are at the top right cornor. 
 
@@ -31,32 +31,28 @@ The data map is quite big so please view it on a large screen/window.
 
 In Tableau, we explored several designs of how to present the data. We think a map representation like this is appropriate.
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/worldmap.png)
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldmap.png)
 
 Color is used to encode the number of current cases. Dark means a larger population of people having SARS. Tableau has this nice feature that enable you to play a video on how the map changes over time. There is also a slider that controls the date of the map. We think these are nice, and we decided to implement a slider in our interactive visualization. 
 
 To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. Red, yellow and blue are the colors for different area, taking into consideration of Deuteranopia(red-green color blindness). A scetch using data from the world looks like this,
 
-<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/worldAreaChart.png)
 
 We also want to enable viewer to create area chart of individual country like this,
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/ChinaAreaChart.png)
-=======
+
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
 
 We also want to enable viewer to create area chart of individual country like this,
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/ChinaAreaChart.png)
->>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 This will be another interactive feature, namely when the viewer click on a country on the map, the corresponding area chart will be drawn besides the world area chart.
 
 The basic overview of the interface is here:
 
-<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/newSketch.jpg)
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/proposedNewSketch.png)
