@@ -37,12 +37,6 @@ Color is used to encode the number of current cases. Dark means a larger populat
 
 To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. Red, yellow and blue are the colors for different area, taking into consideration of Deuteranopia(red-green color blindness). A scetch using data from the world looks like this,
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/worldAreaChart.png)
-
-We also want to enable viewer to create area chart of individual country like this,
-
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/ChinaAreaChart.png)
-
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
 
 We also want to enable viewer to create area chart of individual country like this,
@@ -52,8 +46,6 @@ We also want to enable viewer to create area chart of individual country like th
 This will be another interactive feature, namely when the viewer click on a country on the map, the corresponding area chart will be drawn besides the world area chart.
 
 The basic overview of the interface is here:
-
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/newSketch.jpg)
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch.png)
 
