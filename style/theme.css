@@ -188,7 +188,7 @@ body {
 
 .left {
     float: left;
-    width: 715px;
+    width: 675px;
     height: 200px;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -209,7 +209,7 @@ body {
         width: 100%;
         margin-top: 0px;
         margin-bottom: 0px;
-        margin-left: 100px;
+        margin-left: 0px;
     }
 
         .left > .chart > #worldarea{
@@ -221,12 +221,12 @@ body {
 
 .right {
     float: left;
-    width: 715px;
+    width: 675px;
     height: 200px;
     overflow-x: hidden;
     overflow-y: hidden;
     padding-top: 0px;
-    padding-left: 10px;
+    padding-left: 0px;
     padding-right: 10px;
     padding-bottom: 0px;
     background-color: white;
