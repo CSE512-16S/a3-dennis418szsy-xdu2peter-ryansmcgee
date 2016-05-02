@@ -1,0 +1,1172 @@
+[
+  {
+    "date": "03/17",
+    "year": 2003,
+    "month": 3,
+    "day": 17,
+    "cumulative_number_of_case": 167,
+    "number_of_death": 4,
+    "number_recovered": 0,
+    "current_case": 163
+  },
+  {
+    "date": "03/18",
+    "year": 2003,
+    "month": 3,
+    "day": 18,
+    "cumulative_number_of_case": 219,
+    "number_of_death": 4,
+    "number_recovered": 0,
+    "current_case": 215
+  },
+  {
+    "date": "03/19",
+    "year": 2003,
+    "month": 3,
+    "day": 19,
+    "cumulative_number_of_case": 264,
+    "number_of_death": 9,
+    "number_recovered": 0,
+    "current_case": 255
+  },
+  {
+    "date": "03/20",
+    "year": 2003,
+    "month": 3,
+    "day": 20,
+    "cumulative_number_of_case": 306,
+    "number_of_death": 10,
+    "number_recovered": 0,
+    "current_case": 296
+  },
+  {
+    "date": "03/21",
+    "year": 2003,
+    "month": 3,
+    "day": 21,
+    "cumulative_number_of_case": 350,
+    "number_of_death": 10,
+    "number_recovered": 0,
+    "current_case": 340
+  },
+  {
+    "date": "03/22",
+    "year": 2003,
+    "month": 3,
+    "day": 22,
+    "cumulative_number_of_case": 352,
+    "number_of_death": 11,
+    "number_recovered": 0,
+    "current_case": 341
+  },
+  {
+    "date": "03/23",
+    "year": 2003,
+    "month": 3,
+    "day": 23,
+    "cumulative_number_of_case": 352,
+    "number_of_death": 11,
+    "number_recovered": 0,
+    "current_case": 341
+  },
+  {
+    "date": "03/24",
+    "year": 2003,
+    "month": 3,
+    "day": 24,
+    "cumulative_number_of_case": 456,
+    "number_of_death": 17,
+    "number_recovered": 0,
+    "current_case": 439
+  },
+  {
+    "date": "03/25",
+    "year": 2003,
+    "month": 3,
+    "day": 25,
+    "cumulative_number_of_case": 487,
+    "number_of_death": 17,
+    "number_recovered": 0,
+    "current_case": 470
+  },
+  {
+    "date": "03/26",
+    "year": 2003,
+    "month": 3,
+    "day": 26,
+    "cumulative_number_of_case": 1323,
+    "number_of_death": 49,
+    "number_recovered": 0,
+    "current_case": 1274
+  },
+  {
+    "date": "03/27",
+    "year": 2003,
+    "month": 3,
+    "day": 27,
+    "cumulative_number_of_case": 1408,
+    "number_of_death": 53,
+    "number_recovered": 0,
+    "current_case": 1355
+  },
+  {
+    "date": "03/28",
+    "year": 2003,
+    "month": 3,
+    "day": 28,
+    "cumulative_number_of_case": 1485,
+    "number_of_death": 53,
+    "number_recovered": 0,
+    "current_case": 1432
+  },
+  {
+    "date": "03/29",
+    "year": 2003,
+    "month": 3,
+    "day": 29,
+    "cumulative_number_of_case": 1550,
+    "number_of_death": 54,
+    "number_recovered": 0,
+    "current_case": 1496
+  },
+  {
+    "date": "03/30",
+    "year": 2003,
+    "month": 3,
+    "day": 30,
+    "cumulative_number_of_case": 1550,
+    "number_of_death": 54,
+    "number_recovered": 0,
+    "current_case": 1496
+  },
+  {
+    "date": "03/31",
+    "year": 2003,
+    "month": 3,
+    "day": 31,
+    "cumulative_number_of_case": 1622,
+    "number_of_death": 58,
+    "number_recovered": 0,
+    "current_case": 1564
+  },
+  {
+    "date": "04/01",
+    "year": 2003,
+    "month": 4,
+    "day": 1,
+    "cumulative_number_of_case": 1804,
+    "number_of_death": 62,
+    "number_recovered": 0,
+    "current_case": 1742
+  },
+  {
+    "date": "04/02",
+    "year": 2003,
+    "month": 4,
+    "day": 2,
+    "cumulative_number_of_case": 2223,
+    "number_of_death": 78,
+    "number_recovered": 0,
+    "current_case": 2145
+  },
+  {
+    "date": "04/03",
+    "year": 2003,
+    "month": 4,
+    "day": 3,
+    "cumulative_number_of_case": 2270,
+    "number_of_death": 79,
+    "number_recovered": 0,
+    "current_case": 2191
+  },
+  {
+    "date": "04/04",
+    "year": 2003,
+    "month": 4,
+    "day": 4,
+    "cumulative_number_of_case": 2353,
+    "number_of_death": 84,
+    "number_recovered": 0,
+    "current_case": 2269
+  },
+  {
+    "date": "04/05",
+    "year": 2003,
+    "month": 4,
+    "day": 5,
+    "cumulative_number_of_case": 2416,
+    "number_of_death": 89,
+    "number_recovered": 0,
+    "current_case": 2327
+  },
+  {
+    "date": "04/06",
+    "year": 2003,
+    "month": 4,
+    "day": 6,
+    "cumulative_number_of_case": 2416,
+    "number_of_death": 89,
+    "number_recovered": 0,
+    "current_case": 2327
+  },
+  {
+    "date": "04/07",
+    "year": 2003,
+    "month": 4,
+    "day": 7,
+    "cumulative_number_of_case": 2601,
+    "number_of_death": 98,
+    "number_recovered": 0,
+    "current_case": 2503
+  },
+  {
+    "date": "04/08",
+    "year": 2003,
+    "month": 4,
+    "day": 8,
+    "cumulative_number_of_case": 2671,
+    "number_of_death": 103,
+    "number_recovered": 0,
+    "current_case": 2568
+  },
+  {
+    "date": "04/09",
+    "year": 2003,
+    "month": 4,
+    "day": 9,
+    "cumulative_number_of_case": 2722,
+    "number_of_death": 106,
+    "number_recovered": 0,
+    "current_case": 2616
+  },
+  {
+    "date": "04/10",
+    "year": 2003,
+    "month": 4,
+    "day": 10,
+    "cumulative_number_of_case": 2781,
+    "number_of_death": 111,
+    "number_recovered": 1337,
+    "current_case": 1333
+  },
+  {
+    "date": "04/11",
+    "year": 2003,
+    "month": 4,
+    "day": 11,
+    "cumulative_number_of_case": 2890,
+    "number_of_death": 116,
+    "number_recovered": 1373,
+    "current_case": 1401
+  },
+  {
+    "date": "04/12",
+    "year": 2003,
+    "month": 4,
+    "day": 12,
+    "cumulative_number_of_case": 2960,
+    "number_of_death": 119,
+    "number_recovered": 1425,
+    "current_case": 1416
+  },
+  {
+    "date": "04/13",
+    "year": 2003,
+    "month": 4,
+    "day": 13,
+    "cumulative_number_of_case": 2960,
+    "number_of_death": 119,
+    "number_recovered": 1425,
+    "current_case": 1416
+  },
+  {
+    "date": "04/14",
+    "year": 2003,
+    "month": 4,
+    "day": 14,
+    "cumulative_number_of_case": 3169,
+    "number_of_death": 144,
+    "number_recovered": 1499,
+    "current_case": 1526
+  },
+  {
+    "date": "04/15",
+    "year": 2003,
+    "month": 4,
+    "day": 15,
+    "cumulative_number_of_case": 3235,
+    "number_of_death": 154,
+    "number_recovered": 1515,
+    "current_case": 1566
+  },
+  {
+    "date": "04/16",
+    "year": 2003,
+    "month": 4,
+    "day": 16,
+    "cumulative_number_of_case": 3293,
+    "number_of_death": 159,
+    "number_recovered": 1548,
+    "current_case": 1586
+  },
+  {
+    "date": "04/17",
+    "year": 2003,
+    "month": 4,
+    "day": 17,
+    "cumulative_number_of_case": 3389,
+    "number_of_death": 165,
+    "number_recovered": 1597,
+    "current_case": 1627
+  },
+  {
+    "date": "04/18",
+    "year": 2003,
+    "month": 4,
+    "day": 18,
+    "cumulative_number_of_case": 3547,
+    "number_of_death": 182,
+    "number_recovered": 1749,
+    "current_case": 1616
+  },
+  {
+    "date": "04/19",
+    "year": 2003,
+    "month": 4,
+    "day": 19,
+    "cumulative_number_of_case": 3547,
+    "number_of_death": 182,
+    "number_recovered": 1749,
+    "current_case": 1616
+  },
+  {
+    "date": "04/20",
+    "year": 2003,
+    "month": 4,
+    "day": 20,
+    "cumulative_number_of_case": 3547,
+    "number_of_death": 182,
+    "number_recovered": 1749,
+    "current_case": 1616
+  },
+  {
+    "date": "04/21",
+    "year": 2003,
+    "month": 4,
+    "day": 21,
+    "cumulative_number_of_case": 3861,
+    "number_of_death": 217,
+    "number_recovered": 1873,
+    "current_case": 1771
+  },
+  {
+    "date": "04/22",
+    "year": 2003,
+    "month": 4,
+    "day": 22,
+    "cumulative_number_of_case": 3947,
+    "number_of_death": 229,
+    "number_recovered": 1935,
+    "current_case": 1783
+  },
+  {
+    "date": "04/23",
+    "year": 2003,
+    "month": 4,
+    "day": 23,
+    "cumulative_number_of_case": 4288,
+    "number_of_death": 251,
+    "number_recovered": 2032,
+    "current_case": 2005
+  },
+  {
+    "date": "04/24",
+    "year": 2003,
+    "month": 4,
+    "day": 24,
+    "cumulative_number_of_case": 4439,
+    "number_of_death": 263,
+    "number_recovered": 2117,
+    "current_case": 2059
+  },
+  {
+    "date": "04/25",
+    "year": 2003,
+    "month": 4,
+    "day": 25,
+    "cumulative_number_of_case": 4649,
+    "number_of_death": 274,
+    "number_recovered": 2206,
+    "current_case": 2169
+  },
+  {
+    "date": "04/26",
+    "year": 2003,
+    "month": 4,
+    "day": 26,
+    "cumulative_number_of_case": 4836,
+    "number_of_death": 293,
+    "number_recovered": 2239,
+    "current_case": 2304
+  },
+  {
+    "date": "04/27",
+    "year": 2003,
+    "month": 4,
+    "day": 27,
+    "cumulative_number_of_case": 4836,
+    "number_of_death": 293,
+    "number_recovered": 2239,
+    "current_case": 2304
+  },
+  {
+    "date": "04/28",
+    "year": 2003,
+    "month": 4,
+    "day": 28,
+    "cumulative_number_of_case": 5050,
+    "number_of_death": 321,
+    "number_recovered": 2342,
+    "current_case": 2387
+  },
+  {
+    "date": "04/29",
+    "year": 2003,
+    "month": 4,
+    "day": 29,
+    "cumulative_number_of_case": 5462,
+    "number_of_death": 353,
+    "number_recovered": 2427,
+    "current_case": 2682
+  },
+  {
+    "date": "04/30",
+    "year": 2003,
+    "month": 4,
+    "day": 30,
+    "cumulative_number_of_case": 5663,
+    "number_of_death": 372,
+    "number_recovered": 2470,
+    "current_case": 2821
+  },
+  {
+    "date": "05/01",
+    "year": 2003,
+    "month": 5,
+    "day": 1,
+    "cumulative_number_of_case": 5865,
+    "number_of_death": 391,
+    "number_recovered": 2563,
+    "current_case": 2911
+  },
+  {
+    "date": "05/02",
+    "year": 2003,
+    "month": 5,
+    "day": 2,
+    "cumulative_number_of_case": 6054,
+    "number_of_death": 417,
+    "number_recovered": 2643,
+    "current_case": 2994
+  },
+  {
+    "date": "05/03",
+    "year": 2003,
+    "month": 5,
+    "day": 3,
+    "cumulative_number_of_case": 6234,
+    "number_of_death": 435,
+    "number_recovered": 2702,
+    "current_case": 3097
+  },
+  {
+    "date": "05/04",
+    "year": 2003,
+    "month": 5,
+    "day": 4,
+    "cumulative_number_of_case": 6234,
+    "number_of_death": 435,
+    "number_recovered": 2702,
+    "current_case": 3097
+  },
+  {
+    "date": "05/05",
+    "year": 2003,
+    "month": 5,
+    "day": 5,
+    "cumulative_number_of_case": 6583,
+    "number_of_death": 461,
+    "number_recovered": 2764,
+    "current_case": 3358
+  },
+  {
+    "date": "05/06",
+    "year": 2003,
+    "month": 5,
+    "day": 6,
+    "cumulative_number_of_case": 6727,
+    "number_of_death": 478,
+    "number_recovered": 2826,
+    "current_case": 3423
+  },
+  {
+    "date": "05/07",
+    "year": 2003,
+    "month": 5,
+    "day": 7,
+    "cumulative_number_of_case": 6903,
+    "number_of_death": 495,
+    "number_recovered": 2885,
+    "current_case": 3523
+  },
+  {
+    "date": "05/08",
+    "year": 2003,
+    "month": 5,
+    "day": 8,
+    "cumulative_number_of_case": 7053,
+    "number_of_death": 506,
+    "number_recovered": 2959,
+    "current_case": 3588
+  },
+  {
+    "date": "05/09",
+    "year": 2003,
+    "month": 5,
+    "day": 9,
+    "cumulative_number_of_case": 7182,
+    "number_of_death": 514,
+    "number_recovered": 3023,
+    "current_case": 3645
+  },
+  {
+    "date": "05/10",
+    "year": 2003,
+    "month": 5,
+    "day": 10,
+    "cumulative_number_of_case": 7296,
+    "number_of_death": 526,
+    "number_recovered": 3087,
+    "current_case": 3683
+  },
+  {
+    "date": "05/11",
+    "year": 2003,
+    "month": 5,
+    "day": 11,
+    "cumulative_number_of_case": 7296,
+    "number_of_death": 526,
+    "number_recovered": 3087,
+    "current_case": 3683
+  },
+  {
+    "date": "05/12",
+    "year": 2003,
+    "month": 5,
+    "day": 12,
+    "cumulative_number_of_case": 7447,
+    "number_of_death": 552,
+    "number_recovered": 3195,
+    "current_case": 3700
+  },
+  {
+    "date": "05/13",
+    "year": 2003,
+    "month": 5,
+    "day": 13,
+    "cumulative_number_of_case": 7530,
+    "number_of_death": 573,
+    "number_recovered": 3298,
+    "current_case": 3659
+  },
+  {
+    "date": "05/14",
+    "year": 2003,
+    "month": 5,
+    "day": 14,
+    "cumulative_number_of_case": 7628,
+    "number_of_death": 587,
+    "number_recovered": 3397,
+    "current_case": 3644
+  },
+  {
+    "date": "05/15",
+    "year": 2003,
+    "month": 5,
+    "day": 15,
+    "cumulative_number_of_case": 7699,
+    "number_of_death": 598,
+    "number_recovered": 3484,
+    "current_case": 3617
+  },
+  {
+    "date": "05/16",
+    "year": 2003,
+    "month": 5,
+    "day": 16,
+    "cumulative_number_of_case": 7739,
+    "number_of_death": 611,
+    "number_recovered": 3590,
+    "current_case": 3538
+  },
+  {
+    "date": "05/17",
+    "year": 2003,
+    "month": 5,
+    "day": 17,
+    "cumulative_number_of_case": 7761,
+    "number_of_death": 623,
+    "number_recovered": 3674,
+    "current_case": 3464
+  },
+  {
+    "date": "05/18",
+    "year": 2003,
+    "month": 5,
+    "day": 18,
+    "cumulative_number_of_case": 7761,
+    "number_of_death": 623,
+    "number_recovered": 3674,
+    "current_case": 3464
+  },
+  {
+    "date": "05/19",
+    "year": 2003,
+    "month": 5,
+    "day": 19,
+    "cumulative_number_of_case": 7864,
+    "number_of_death": 640,
+    "number_recovered": 3847,
+    "current_case": 3377
+  },
+  {
+    "date": "05/20",
+    "year": 2003,
+    "month": 5,
+    "day": 20,
+    "cumulative_number_of_case": 7919,
+    "number_of_death": 662,
+    "number_recovered": 3984,
+    "current_case": 3273
+  },
+  {
+    "date": "05/21",
+    "year": 2003,
+    "month": 5,
+    "day": 21,
+    "cumulative_number_of_case": 7955,
+    "number_of_death": 666,
+    "number_recovered": 4085,
+    "current_case": 3204
+  },
+  {
+    "date": "05/22",
+    "year": 2003,
+    "month": 5,
+    "day": 22,
+    "cumulative_number_of_case": 8046,
+    "number_of_death": 682,
+    "number_recovered": 4210,
+    "current_case": 3154
+  },
+  {
+    "date": "05/23",
+    "year": 2003,
+    "month": 5,
+    "day": 23,
+    "cumulative_number_of_case": 8117,
+    "number_of_death": 689,
+    "number_recovered": 4326,
+    "current_case": 3102
+  },
+  {
+    "date": "05/24",
+    "year": 2003,
+    "month": 5,
+    "day": 24,
+    "cumulative_number_of_case": 8141,
+    "number_of_death": 696,
+    "number_recovered": 4438,
+    "current_case": 3007
+  },
+  {
+    "date": "05/25",
+    "year": 2003,
+    "month": 5,
+    "day": 25,
+    "cumulative_number_of_case": 8141,
+    "number_of_death": 696,
+    "number_recovered": 4438,
+    "current_case": 3007
+  },
+  {
+    "date": "05/26",
+    "year": 2003,
+    "month": 5,
+    "day": 26,
+    "cumulative_number_of_case": 8202,
+    "number_of_death": 725,
+    "number_recovered": 4662,
+    "current_case": 2815
+  },
+  {
+    "date": "05/27",
+    "year": 2003,
+    "month": 5,
+    "day": 27,
+    "cumulative_number_of_case": 8221,
+    "number_of_death": 735,
+    "number_recovered": 4787,
+    "current_case": 2699
+  },
+  {
+    "date": "05/28",
+    "year": 2003,
+    "month": 5,
+    "day": 28,
+    "cumulative_number_of_case": 8240,
+    "number_of_death": 745,
+    "number_recovered": 4891,
+    "current_case": 2604
+  },
+  {
+    "date": "05/29",
+    "year": 2003,
+    "month": 5,
+    "day": 29,
+    "cumulative_number_of_case": 8295,
+    "number_of_death": 750,
+    "number_recovered": 4994,
+    "current_case": 2551
+  },
+  {
+    "date": "05/30",
+    "year": 2003,
+    "month": 5,
+    "day": 30,
+    "cumulative_number_of_case": 8344,
+    "number_of_death": 754,
+    "number_recovered": 5129,
+    "current_case": 2461
+  },
+  {
+    "date": "05/31",
+    "year": 2003,
+    "month": 5,
+    "day": 31,
+    "cumulative_number_of_case": 8360,
+    "number_of_death": 764,
+    "number_recovered": 5264,
+    "current_case": 2332
+  },
+  {
+    "date": "06/01",
+    "year": 2003,
+    "month": 6,
+    "day": 1,
+    "cumulative_number_of_case": 8360,
+    "number_of_death": 764,
+    "number_recovered": 5264,
+    "current_case": 2332
+  },
+  {
+    "date": "06/02",
+    "year": 2003,
+    "month": 6,
+    "day": 2,
+    "cumulative_number_of_case": 8384,
+    "number_of_death": 770,
+    "number_recovered": 5402,
+    "current_case": 2212
+  },
+  {
+    "date": "06/03",
+    "year": 2003,
+    "month": 6,
+    "day": 3,
+    "cumulative_number_of_case": 8398,
+    "number_of_death": 772,
+    "number_recovered": 5475,
+    "current_case": 2151
+  },
+  {
+    "date": "06/04",
+    "year": 2003,
+    "month": 6,
+    "day": 4,
+    "cumulative_number_of_case": 8402,
+    "number_of_death": 772,
+    "number_recovered": 5746,
+    "current_case": 1884
+  },
+  {
+    "date": "06/05",
+    "year": 2003,
+    "month": 6,
+    "day": 5,
+    "cumulative_number_of_case": 8403,
+    "number_of_death": 775,
+    "number_recovered": 5830,
+    "current_case": 1798
+  },
+  {
+    "date": "06/06",
+    "year": 2003,
+    "month": 6,
+    "day": 6,
+    "cumulative_number_of_case": 8404,
+    "number_of_death": 779,
+    "number_recovered": 5937,
+    "current_case": 1688
+  },
+  {
+    "date": "06/07",
+    "year": 2003,
+    "month": 6,
+    "day": 7,
+    "cumulative_number_of_case": 8404,
+    "number_of_death": 779,
+    "number_recovered": 5937,
+    "current_case": 1688
+  },
+  {
+    "date": "06/08",
+    "year": 2003,
+    "month": 6,
+    "day": 8,
+    "cumulative_number_of_case": 8404,
+    "number_of_death": 779,
+    "number_recovered": 5937,
+    "current_case": 1688
+  },
+  {
+    "date": "06/09",
+    "year": 2003,
+    "month": 6,
+    "day": 9,
+    "cumulative_number_of_case": 8421,
+    "number_of_death": 784,
+    "number_recovered": 6280,
+    "current_case": 1357
+  },
+  {
+    "date": "06/10",
+    "year": 2003,
+    "month": 6,
+    "day": 10,
+    "cumulative_number_of_case": 8430,
+    "number_of_death": 789,
+    "number_recovered": 6457,
+    "current_case": 1184
+  },
+  {
+    "date": "06/11",
+    "year": 2003,
+    "month": 6,
+    "day": 11,
+    "cumulative_number_of_case": 8435,
+    "number_of_death": 789,
+    "number_recovered": 6581,
+    "current_case": 1065
+  },
+  {
+    "date": "06/12",
+    "year": 2003,
+    "month": 6,
+    "day": 12,
+    "cumulative_number_of_case": 8445,
+    "number_of_death": 790,
+    "number_recovered": 6670,
+    "current_case": 985
+  },
+  {
+    "date": "06/13",
+    "year": 2003,
+    "month": 6,
+    "day": 13,
+    "cumulative_number_of_case": 8454,
+    "number_of_death": 792,
+    "number_recovered": 6793,
+    "current_case": 869
+  },
+  {
+    "date": "06/14",
+    "year": 2003,
+    "month": 6,
+    "day": 14,
+    "cumulative_number_of_case": 8454,
+    "number_of_death": 792,
+    "number_recovered": 6793,
+    "current_case": 869
+  },
+  {
+    "date": "06/15",
+    "year": 2003,
+    "month": 6,
+    "day": 15,
+    "cumulative_number_of_case": 8454,
+    "number_of_death": 792,
+    "number_recovered": 6793,
+    "current_case": 869
+  },
+  {
+    "date": "06/16",
+    "year": 2003,
+    "month": 6,
+    "day": 16,
+    "cumulative_number_of_case": 8460,
+    "number_of_death": 799,
+    "number_recovered": 6989,
+    "current_case": 672
+  },
+  {
+    "date": "06/17",
+    "year": 2003,
+    "month": 6,
+    "day": 17,
+    "cumulative_number_of_case": 8464,
+    "number_of_death": 799,
+    "number_recovered": 7091,
+    "current_case": 574
+  },
+  {
+    "date": "06/18",
+    "year": 2003,
+    "month": 6,
+    "day": 18,
+    "cumulative_number_of_case": 8465,
+    "number_of_death": 801,
+    "number_recovered": 7148,
+    "current_case": 516
+  },
+  {
+    "date": "06/19",
+    "year": 2003,
+    "month": 6,
+    "day": 19,
+    "cumulative_number_of_case": 8462,
+    "number_of_death": 804,
+    "number_recovered": 7178,
+    "current_case": 480
+  },
+  {
+    "date": "06/20",
+    "year": 2003,
+    "month": 6,
+    "day": 20,
+    "cumulative_number_of_case": 8461,
+    "number_of_death": 804,
+    "number_recovered": 7218,
+    "current_case": 439
+  },
+  {
+    "date": "06/21",
+    "year": 2003,
+    "month": 6,
+    "day": 21,
+    "cumulative_number_of_case": 8461,
+    "number_of_death": 804,
+    "number_recovered": 7218,
+    "current_case": 439
+  },
+  {
+    "date": "06/22",
+    "year": 2003,
+    "month": 6,
+    "day": 22,
+    "cumulative_number_of_case": 8461,
+    "number_of_death": 804,
+    "number_recovered": 7218,
+    "current_case": 439
+  },
+  {
+    "date": "06/23",
+    "year": 2003,
+    "month": 6,
+    "day": 23,
+    "cumulative_number_of_case": 8459,
+    "number_of_death": 805,
+    "number_recovered": 7324,
+    "current_case": 330
+  },
+  {
+    "date": "06/24",
+    "year": 2003,
+    "month": 6,
+    "day": 24,
+    "cumulative_number_of_case": 8458,
+    "number_of_death": 807,
+    "number_recovered": 7348,
+    "current_case": 303
+  },
+  {
+    "date": "06/25",
+    "year": 2003,
+    "month": 6,
+    "day": 25,
+    "cumulative_number_of_case": 8460,
+    "number_of_death": 808,
+    "number_recovered": 7365,
+    "current_case": 287
+  },
+  {
+    "date": "06/26",
+    "year": 2003,
+    "month": 6,
+    "day": 26,
+    "cumulative_number_of_case": 8456,
+    "number_of_death": 809,
+    "number_recovered": 7371,
+    "current_case": 276
+  },
+  {
+    "date": "06/27",
+    "year": 2003,
+    "month": 6,
+    "day": 27,
+    "cumulative_number_of_case": 8450,
+    "number_of_death": 810,
+    "number_recovered": 7401,
+    "current_case": 239
+  },
+  {
+    "date": "06/28",
+    "year": 2003,
+    "month": 6,
+    "day": 28,
+    "cumulative_number_of_case": 8450,
+    "number_of_death": 810,
+    "number_recovered": 7401,
+    "current_case": 239
+  },
+  {
+    "date": "06/29",
+    "year": 2003,
+    "month": 6,
+    "day": 29,
+    "cumulative_number_of_case": 8450,
+    "number_of_death": 810,
+    "number_recovered": 7401,
+    "current_case": 239
+  },
+  {
+    "date": "06/30",
+    "year": 2003,
+    "month": 6,
+    "day": 30,
+    "cumulative_number_of_case": 8447,
+    "number_of_death": 811,
+    "number_recovered": 7417,
+    "current_case": 219
+  },
+  {
+    "date": "07/01",
+    "year": 2003,
+    "month": 7,
+    "day": 1,
+    "cumulative_number_of_case": 8445,
+    "number_of_death": 812,
+    "number_recovered": 7422,
+    "current_case": 211
+  },
+  {
+    "date": "07/02",
+    "year": 2003,
+    "month": 7,
+    "day": 2,
+    "cumulative_number_of_case": 8442,
+    "number_of_death": 812,
+    "number_recovered": 7424,
+    "current_case": 206
+  },
+  {
+    "date": "07/03",
+    "year": 2003,
+    "month": 7,
+    "day": 3,
+    "cumulative_number_of_case": 8439,
+    "number_of_death": 812,
+    "number_recovered": 7427,
+    "current_case": 200
+  },
+  {
+    "date": "07/04",
+    "year": 2003,
+    "month": 7,
+    "day": 4,
+    "cumulative_number_of_case": 8439,
+    "number_of_death": 812,
+    "number_recovered": 7431,
+    "current_case": 196
+  },
+  {
+    "date": "07/05",
+    "year": 2003,
+    "month": 7,
+    "day": 5,
+    "cumulative_number_of_case": 8439,
+    "number_of_death": 812,
+    "number_recovered": 7431,
+    "current_case": 196
+  },
+  {
+    "date": "07/06",
+    "year": 2003,
+    "month": 7,
+    "day": 6,
+    "cumulative_number_of_case": 8439,
+    "number_of_death": 812,
+    "number_recovered": 7431,
+    "current_case": 196
+  },
+  {
+    "date": "07/07",
+    "year": 2003,
+    "month": 7,
+    "day": 7,
+    "cumulative_number_of_case": 8439,
+    "number_of_death": 812,
+    "number_recovered": 7431,
+    "current_case": 196
+  },
+  {
+    "date": "07/08",
+    "year": 2003,
+    "month": 7,
+    "day": 8,
+    "cumulative_number_of_case": 8436,
+    "number_of_death": 812,
+    "number_recovered": 7433,
+    "current_case": 191
+  },
+  {
+    "date": "07/09",
+    "year": 2003,
+    "month": 7,
+    "day": 9,
+    "cumulative_number_of_case": 8436,
+    "number_of_death": 812,
+    "number_recovered": 7443,
+    "current_case": 181
+  },
+  {
+    "date": "07/10",
+    "year": 2003,
+    "month": 7,
+    "day": 10,
+    "cumulative_number_of_case": 8437,
+    "number_of_death": 812,
+    "number_recovered": 7449,
+    "current_case": 176
+  },
+  {
+    "date": "07/11",
+    "year": 2003,
+    "month": 7,
+    "day": 11,
+    "cumulative_number_of_case": 8437,
+    "number_of_death": 813,
+    "number_recovered": 7452,
+    "current_case": 172
+  }
+]

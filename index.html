@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+	<!--meta-->
+	<meta charset="utf-8">
+	<title>SARS Outbreak in 2003</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--style-->
+	<link href="/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="/libs/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+	<link href="/style/theme.css" rel="stylesheet" type="text/css">
+	<!--script-->
+	<script src="libs/d3/d3.min.js"></script>
+	<script src="libs/topojson/topojson.min.js"></script>
+	<script src="libs/datamaps/datamaps.world.hires.min.js"></script>
+	<script src="libs/underscore/underscore-min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="libs/bootstrap/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">SARS Global Outbreak in 2003</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="https://en.wikipedia.org/wiki/Timeline_of_the_SARS_outbreak">Timeline</a></li>
+					<li><a href="http://www.guokr.com/article/436812/">Real Story</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome">Wiki</a></li>
+					<li><a href="http://www.who.int/csr/sars/country/en/">Data Source</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<div class="container-fluid">
+		<div class="sidebar">
+			<div class="top">
+				<h3>SARS</h3>
+				<h5>Severe Acute Respiratory Syndrome</h5>
+				<p>
+					SARS appeared during the winter of 2002 in Canton, China. It spread worldwide via Metropark Hotel Kowloon in Hong Kong. No known transmission has occurred since 2004. SARS is a virus transmitted through droplets that enter the air when someone with the disease coughs, sneezes, or talks. Fever, dry cough, headache, muscle aches, and difficulty breathing are symptoms. No treatment exists except supportive care.
+				</p>
+				<!-- Modal One -->
+				<div id="myModal" class="modal fade" role="dialog">
+					<div class="modal-dialog">
+						<!-- Modal content-->
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+								<h4 class="modal-title">Metropark Hotel Kowloon</h4>
+							</div>
+							<div class="modal-body">
+								<center><img src="pic/hotel.jpg" width = "400" height = "286"></center>
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div id="slider"></div>
+			</div>
+		</div>
+		<div class="main">
+			<div class="top">
+				<div id="datamap"></div>
+			</div>
+		</div>
+		<div class="left">
+			<div class="chart">
+				<div id="worldarea">
+				</div>
+			</div>
+		</div>
+		<div class="right">
+			<div class="chart">
+				<div id="countryarea">
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!--script-->
+	<script src="src/slider.js" type="text/javascript"></script>
+	<script src="src/countryCodeLookup.js" type="text/javascript"></script>
+	<script src="src/countryNameLookup.js" type="text/javascript"></script>
+	<script src="src/datamap.js" type="text/javascript"></script>
+	<script src="src/worldarea.js" type="text/javascript"></script>
+	<script src="src/countryarea.js" type="text/javascript"></script>
+	<script src="src/main.js" type="text/javascript"></script>
+
+
+</body>
+</html>

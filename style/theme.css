@@ -1,0 +1,236 @@
+/*
+ * Base structure
+ */
+
+html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    font-family: 'Open Sans', 'Segoe UI', Helvetica, Verdana, Arial, sans-serif;
+    font-weight: 300;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #777;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+    body > .container-fluid {
+        overflow-y: auto;
+        overflow-x: auto; 
+        min-width: 1430px;
+        min-height: 800px;
+        padding: 0px;
+        margin-top: 50px;
+    }
+
+/*
+ * Top navigation
+ */
+
+.navbar {
+    color: white;
+    margin-bottom: 0px;
+}
+
+    .navbar .navbar-brand {
+        font-size: 30px;
+        padding-top: 15px;
+        padding-left: 15px;
+        color: white;
+    }
+
+.navbar-fixed-top {
+    border: 0px;
+}
+
+/*
+ * Main content
+ */
+
+.main {
+    float: left;
+    width: 1100px;
+    height: 590px;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    background-color: white;
+}
+
+    .main > .top {
+        position: relative;
+        background-color: white;
+        color: black;
+        padding: 10px;
+        height: 570px;
+        width: 1080px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        font-size: 15px;
+    }
+
+        .main > .top > #datamap{
+            display: block;
+            vertical-align: middle;
+            margin: 0 auto;
+            background-color: white;
+            position: absolute;
+            top: 5px;
+            bottom: 5px;
+            left: 5px;
+            right: 5px;
+        }
+
+        .main > .top > #datamap > svg{
+            position: relative;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            height: 550px;
+            overflow: hidden;
+        }
+
+        .main > .top > #datamap > svg .datamaps-subunits{
+            height: 100%;
+        }
+
+/*
+ * Sidebar
+ */
+
+.sidebar {
+    float: left;
+    width: 330px;
+    height: 590px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    background-color: white;
+}
+
+    .sidebar > .top {
+        background-color: white;
+        color: black;
+        padding: 10px;
+        height: 460px;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+    }
+
+    .sidebar > .middle {
+        background-color: white;
+        color: black;
+        padding: 10px;
+        height: 100px;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        font-size: 15px;
+    }
+
+    .sidebar > .bottom {
+        background-color: white;
+        color: black;
+        padding: 10px;
+        height: 100px;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        font-size: 15px;
+    }
+
+/*
+ * Additional content
+ */
+
+.left {
+    float: left;
+    width: 715px;
+    height: 360px;
+    overflow-x: auto;
+    overflow-y: auto;
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    background-color: white;
+    position: relative;
+}
+
+    .left > .chart{
+        position: relative;
+        background-color: white;
+        color: black;
+        padding: 0px;
+        height: 330px;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+        .left > .chart > #worldarea{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+        }
+
+.right {
+    float: left;
+    width: 715px;
+    height: 360px;
+    overflow-x: auto;
+    overflow-y: auto;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    background-color: white;
+    position: relative;
+}
+
+    .right > .chart{
+        position: relative;
+        background-color: white;
+        color: black;
+        padding: 0px;
+        height: 330px;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+        .right > .chart > #countryarea{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0px;
+            left: 0px;
+        }
+
+/*
+** Modal
+*/
+
+
+
+
+
+
+
+

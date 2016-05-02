@@ -1,0 +1,4096 @@
+date,country,CumulativeCase,DeadCase,RecoveredCase,CurrentCase
+3/17,United States,0,0,0,0
+3/17,Australia,0,0,0,0
+3/17,Belgium,0,0,0,0
+3/17,Brazil,0,0,0,0
+3/17,Bulgaria,0,0,0,0
+3/17,Canada,8,2,0,6
+3/17,China,95,1,0,94
+3/17,Colombia,0,0,0,0
+3/17,Finland,0,0,0,0
+3/17,France,0,0,0,0
+3/17,Germany,1,0,0,1
+3/17,India,0,0,0,0
+3/17,Indonesia,0,0,0,0
+3/17,Italy,0,0,0,0
+3/17,Japan,0,0,0,0
+3/17,Kuwait,0,0,0,0
+3/17,Malaysia,0,0,0,0
+3/17,Mongolia,0,0,0,0
+3/17,New Zealand,0,0,0,0
+3/17,Philippines,0,0,0,0
+3/17,Poland,0,0,0,0
+3/17,Republic of Ireland,0,0,0,0
+3/17,Republic of Korea,0,0,0,0
+3/17,Romania,0,0,0,0
+3/17,Russian Federation,0,0,0,0
+3/17,Singapore,20,0,0,20
+3/17,Slovenia,0,0,0,0
+3/17,South Africa,0,0,0,0
+3/17,Spain,0,0,0,0
+3/17,Sweden,0,0,0,0
+3/17,Switzerland,2,0,0,2
+3/17,Taiwan,0,0,0,0
+3/17,Thailand,1,0,0,1
+3/17,United Kingdom,0,0,0,0
+3/17,Viet Nam,40,1,0,39
+3/18,United States,0,0,0,0
+3/18,Australia,0,0,0,0
+3/18,Belgium,0,0,0,0
+3/18,Brazil,0,0,0,0
+3/18,Bulgaria,0,0,0,0
+3/18,Canada,8,2,0,6
+3/18,China,123,1,0,122
+3/18,Colombia,0,0,0,0
+3/18,Finland,0,0,0,0
+3/18,France,0,0,0,0
+3/18,Germany,2,0,0,2
+3/18,India,0,0,0,0
+3/18,Indonesia,0,0,0,0
+3/18,Italy,0,0,0,0
+3/18,Japan,0,0,0,0
+3/18,Kuwait,0,0,0,0
+3/18,Malaysia,0,0,0,0
+3/18,Mongolia,0,0,0,0
+3/18,New Zealand,0,0,0,0
+3/18,Philippines,0,0,0,0
+3/18,Poland,0,0,0,0
+3/18,Republic of Ireland,0,0,0,0
+3/18,Republic of Korea,0,0,0,0
+3/18,Romania,0,0,0,0
+3/18,Russian Federation,0,0,0,0
+3/18,Singapore,23,0,0,23
+3/18,Slovenia,1,0,0,1
+3/18,South Africa,0,0,0,0
+3/18,Spain,0,0,0,0
+3/18,Sweden,0,0,0,0
+3/18,Switzerland,7,0,0,7
+3/18,Taiwan,3,0,0,3
+3/18,Thailand,1,0,0,1
+3/18,United Kingdom,1,0,0,1
+3/18,Viet Nam,57,1,0,56
+3/19,Belgium,0,0,0,0
+3/19,Viet Nam,56,2,0,54
+3/19,United States,11,0,0,11
+3/19,United Kingdom,1,0,0,1
+3/19,Thailand,1,0,0,1
+3/19,Taiwan,3,0,0,3
+3/19,Switzerland,7,0,0,7
+3/19,Sweden,0,0,0,0
+3/19,Spain,1,0,0,1
+3/19,South Africa,0,0,0,0
+3/19,Slovenia,1,0,0,1
+3/19,Singapore,31,0,0,31
+3/19,Russian Federation,0,0,0,0
+3/19,Romania,0,0,0,0
+3/19,Republic of Korea,0,0,0,0
+3/19,Republic of Ireland,0,0,0,0
+3/19,Poland,0,0,0,0
+3/19,Philippines,0,0,0,0
+3/19,New Zealand,0,0,0,0
+3/19,Mongolia,0,0,0,0
+3/19,Malaysia,0,0,0,0
+3/19,Kuwait,0,0,0,0
+3/19,Japan,0,0,0,0
+3/19,Italy,0,0,0,0
+3/19,Indonesia,0,0,0,0
+3/19,India,0,0,0,0
+3/19,Germany,1,0,0,1
+3/19,France,0,0,0,0
+3/19,Finland,0,0,0,0
+3/19,Colombia,0,0,0,0
+3/19,China,150,5,0,145
+3/19,Canada,8,2,0,6
+3/19,Bulgaria,0,0,0,0
+3/19,Brazil,0,0,0,0
+3/19,Australia,0,0,0,0
+3/20,Viet Nam,62,2,0,60
+3/20,Australia,0,0,0,0
+3/20,Belgium,0,0,0,0
+3/20,Brazil,0,0,0,0
+3/20,Bulgaria,0,0,0,0
+3/20,Canada,9,2,0,7
+3/20,China,173,6,0,167
+3/20,Colombia,0,0,0,0
+3/20,Finland,0,0,0,0
+3/20,France,0,0,0,0
+3/20,Germany,1,0,0,1
+3/20,India,0,0,0,0
+3/20,Indonesia,0,0,0,0
+3/20,Italy,0,0,0,0
+3/20,Japan,0,0,0,0
+3/20,Kuwait,0,0,0,0
+3/20,Malaysia,0,0,0,0
+3/20,Mongolia,0,0,0,0
+3/20,New Zealand,0,0,0,0
+3/20,Philippines,0,0,0,0
+3/20,Poland,0,0,0,0
+3/20,Republic of Ireland,0,0,0,0
+3/20,Republic of Korea,0,0,0,0
+3/20,Romania,0,0,0,0
+3/20,Russian Federation,0,0,0,0
+3/20,Singapore,34,0,0,34
+3/20,Slovenia,1,0,0,1
+3/20,South Africa,0,0,0,0
+3/20,Spain,1,0,0,1
+3/20,Sweden,0,0,0,0
+3/20,Switzerland,7,0,0,7
+3/20,Taiwan,4,0,0,4
+3/20,Thailand,1,0,0,1
+3/20,United Kingdom,2,0,0,2
+3/20,United States,11,0,0,11
+3/21,United States,13,0,0,13
+3/21,Brazil,0,0,0,0
+3/21,Australia,0,0,0,0
+3/21,Viet Nam,62,2,0,60
+3/21,Bulgaria,0,0,0,0
+3/21,Canada,9,2,0,7
+3/21,China,203,6,0,197
+3/21,Colombia,0,0,0,0
+3/21,Finland,0,0,0,0
+3/21,France,0,0,0,0
+3/21,Germany,1,0,0,1
+3/21,India,0,0,0,0
+3/21,Indonesia,0,0,0,0
+3/21,Italy,1,0,0,1
+3/21,Japan,0,0,0,0
+3/21,Kuwait,0,0,0,0
+3/21,Malaysia,0,0,0,0
+3/21,Mongolia,0,0,0,0
+3/21,New Zealand,0,0,0,0
+3/21,Philippines,0,0,0,0
+3/21,Poland,0,0,0,0
+3/21,Republic of Ireland,1,0,0,1
+3/21,Republic of Korea,0,0,0,0
+3/21,Romania,0,0,0,0
+3/21,Russian Federation,0,0,0,0
+3/21,Singapore,39,0,0,39
+3/21,Slovenia,1,0,0,1
+3/21,South Africa,0,0,0,0
+3/21,Spain,1,0,0,1
+3/21,Sweden,0,0,0,0
+3/21,Switzerland,7,0,0,7
+3/21,Taiwan,6,0,0,6
+3/21,Thailand,4,0,0,4
+3/21,United Kingdom,2,0,0,2
+3/21,Belgium,0,0,0,0
+3/22,Taiwan,6,0,0,6
+3/22,United Kingdom,2,0,0,2
+3/22,United States,22,0,0,22
+3/22,Viet Nam,63,2,0,61
+3/22,Australia,0,0,0,0
+3/22,Belgium,0,0,0,0
+3/22,Brazil,0,0,0,0
+3/22,Bulgaria,0,0,0,0
+3/22,Canada,9,2,0,7
+3/22,China,222,7,0,215
+3/22,Colombia,0,0,0,0
+3/22,Finland,0,0,0,0
+3/22,France,0,0,0,0
+3/22,Germany,2,0,0,2
+3/22,India,0,0,0,0
+3/22,Indonesia,0,0,0,0
+3/22,Italy,2,0,0,2
+3/22,Japan,0,0,0,0
+3/22,Kuwait,0,0,0,0
+3/22,Malaysia,0,0,0,0
+3/22,Mongolia,0,0,0,0
+3/22,New Zealand,0,0,0,0
+3/22,Philippines,0,0,0,0
+3/22,Poland,0,0,0,0
+3/22,Republic of Ireland,1,0,0,1
+3/22,Republic of Korea,0,0,0,0
+3/22,Romania,0,0,0,0
+3/22,Russian Federation,0,0,0,0
+3/22,Singapore,4,0,0,4
+3/22,Slovenia,0,0,0,0
+3/22,South Africa,0,0,0,0
+3/22,Spain,1,0,0,1
+3/22,Sweden,0,0,0,0
+3/22,Switzerland,7,0,0,7
+3/22,Thailand,4,0,0,4
+3/23,United Kingdom,2,0,0,2
+3/23,Viet Nam,63,2,0,61
+3/23,Belgium,0,0,0,0
+3/23,Australia,0,0,0,0
+3/23,Brazil,0,0,0,0
+3/23,Bulgaria,0,0,0,0
+3/23,Canada,9,2,0,7
+3/23,China,222,7,0,215
+3/23,Colombia,0,0,0,0
+3/23,Finland,0,0,0,0
+3/23,France,0,0,0,0
+3/23,Germany,2,0,0,2
+3/23,India,0,0,0,0
+3/23,Indonesia,0,0,0,0
+3/23,Italy,2,0,0,2
+3/23,Japan,0,0,0,0
+3/23,Kuwait,0,0,0,0
+3/23,Malaysia,0,0,0,0
+3/23,Mongolia,0,0,0,0
+3/23,New Zealand,0,0,0,0
+3/23,Philippines,0,0,0,0
+3/23,Poland,0,0,0,0
+3/23,Republic of Ireland,1,0,0,1
+3/23,Republic of Korea,0,0,0,0
+3/23,Romania,0,0,0,0
+3/23,Russian Federation,0,0,0,0
+3/23,Singapore,4,0,0,4
+3/23,Slovenia,0,0,0,0
+3/23,South Africa,0,0,0,0
+3/23,Spain,1,0,0,1
+3/23,Sweden,0,0,0,0
+3/23,Switzerland,7,0,0,7
+3/23,Taiwan,6,0,0,6
+3/23,Thailand,4,0,0,4
+3/23,United States,22,0,0,22
+3/24,Republic of Ireland,1,0,0,1
+3/24,Australia,0,0,0,0
+3/24,Belgium,0,0,0,0
+3/24,Brazil,0,0,0,0
+3/24,Bulgaria,0,0,0,0
+3/24,Canada,11,3,0,8
+3/24,China,260,10,0,250
+3/24,Colombia,0,0,0,0
+3/24,Finland,0,0,0,0
+3/24,France,1,0,0,1
+3/24,Germany,4,0,0,4
+3/24,India,0,0,0,0
+3/24,Indonesia,0,0,0,0
+3/24,Italy,2,0,0,2
+3/24,Japan,0,0,0,0
+3/24,Kuwait,0,0,0,0
+3/24,Malaysia,0,0,0,0
+3/24,Mongolia,0,0,0,0
+3/24,New Zealand,0,0,0,0
+3/24,Philippines,0,0,0,0
+3/24,Poland,0,0,0,0
+3/24,Republic of Korea,0,0,0,0
+3/24,Romania,0,0,0,0
+3/24,Russian Federation,0,0,0,0
+3/24,Singapore,65,0,0,65
+3/24,Slovenia,0,0,0,0
+3/24,South Africa,0,0,0,0
+3/24,Spain,1,0,0,1
+3/24,Sweden,0,0,0,0
+3/24,Switzerland,2,0,0,2
+3/24,Taiwan,6,0,0,6
+3/24,Thailand,5,0,0,5
+3/24,United Kingdom,3,0,0,3
+3/24,United States,37,0,0,37
+3/24,Viet Nam,58,4,0,54
+3/25,Australia,0,0,0,0
+3/25,Viet Nam,58,4,0,54
+3/25,United Kingdom,3,0,0,3
+3/25,Thailand,5,0,0,5
+3/25,Taiwan,6,0,0,6
+3/25,Switzerland,2,0,0,2
+3/25,Sweden,0,0,0,0
+3/25,Spain,0,0,0,0
+3/25,South Africa,0,0,0,0
+3/25,Slovenia,0,0,0,0
+3/25,Singapore,69,0,0,69
+3/25,Russian Federation,0,0,0,0
+3/25,Romania,0,0,0,0
+3/25,Republic of Korea,0,0,0,0
+3/25,Republic of Ireland,1,0,0,1
+3/25,Poland,0,0,0,0
+3/25,Philippines,0,0,0,0
+3/25,New Zealand,0,0,0,0
+3/25,Mongolia,0,0,0,0
+3/25,Malaysia,0,0,0,0
+3/25,Kuwait,0,0,0,0
+3/25,Japan,0,0,0,0
+3/25,Italy,2,0,0,2
+3/25,Indonesia,0,0,0,0
+3/25,India,0,0,0,0
+3/25,Germany,4,0,0,4
+3/25,France,1,0,0,1
+3/25,Finland,0,0,0,0
+3/25,Colombia,0,0,0,0
+3/25,China,286,10,0,276
+3/25,Canada,11,3,0,8
+3/25,Bulgaria,0,0,0,0
+3/25,Brazil,0,0,0,0
+3/25,Belgium,0,0,0,0
+3/25,United States,39,0,0,39
+3/26,Switzerland,2,0,0,2
+3/26,Australia,0,0,0,0
+3/26,Belgium,0,0,0,0
+3/26,Brazil,0,0,0,0
+3/26,Bulgaria,0,0,0,0
+3/26,Canada,19,3,0,16
+3/26,China,1108,41,0,1067
+3/26,Colombia,0,0,0,0
+3/26,Finland,0,0,0,0
+3/26,France,1,0,0,1
+3/26,Germany,4,0,0,4
+3/26,India,0,0,0,0
+3/26,Indonesia,0,0,0,0
+3/26,Italy,3,0,0,3
+3/26,Japan,0,0,0,0
+3/26,Kuwait,0,0,0,0
+3/26,Malaysia,0,0,0,0
+3/26,Mongolia,0,0,0,0
+3/26,New Zealand,0,0,0,0
+3/26,Philippines,0,0,0,0
+3/26,Poland,0,0,0,0
+3/26,Republic of Ireland,2,0,0,2
+3/26,Republic of Korea,0,0,0,0
+3/26,Romania,0,0,0,0
+3/26,Russian Federation,0,0,0,0
+3/26,Singapore,74,1,0,73
+3/26,Slovenia,0,0,0,0
+3/26,South Africa,0,0,0,0
+3/26,Spain,0,0,0,0
+3/26,Sweden,0,0,0,0
+3/26,Taiwan,6,0,0,6
+3/26,Thailand,3,0,0,3
+3/26,United Kingdom,3,0,0,3
+3/26,United States,40,0,0,40
+3/26,Viet Nam,58,4,0,54
+3/27,United Kingdom,3,0,0,3
+3/27,Australia,0,0,0,0
+3/27,Belgium,0,0,0,0
+3/27,Brazil,0,0,0,0
+3/27,Bulgaria,0,0,0,0
+3/27,Canada,28,3,0,25
+3/27,China,1173,44,0,1129
+3/27,Colombia,0,0,0,0
+3/27,Finland,0,0,0,0
+3/27,France,1,0,0,1
+3/27,Germany,4,0,0,4
+3/27,India,0,0,0,0
+3/27,Indonesia,0,0,0,0
+3/27,Italy,2,0,0,2
+3/27,Japan,0,0,0,0
+3/27,Kuwait,0,0,0,0
+3/27,Malaysia,0,0,0,0
+3/27,Mongolia,0,0,0,0
+3/27,New Zealand,0,0,0,0
+3/27,Philippines,0,0,0,0
+3/27,Poland,0,0,0,0
+3/27,Republic of Ireland,2,0,0,2
+3/27,Republic of Korea,0,0,0,0
+3/27,Romania,3,0,0,3
+3/27,Russian Federation,0,0,0,0
+3/27,Singapore,78,2,0,76
+3/27,Slovenia,0,0,0,0
+3/27,South Africa,0,0,0,0
+3/27,Spain,0,0,0,0
+3/27,Sweden,0,0,0,0
+3/27,Viet Nam,58,4,0,54
+3/27,Switzerland,2,0,0,2
+3/27,Taiwan,6,0,0,6
+3/27,Thailand,3,0,0,3
+3/27,United States,45,0,0,45
+3/28,New Zealand,0,0,0,0
+3/28,Viet Nam,58,4,0,54
+3/28,United States,51,0,0,51
+3/28,United Kingdom,3,0,0,3
+3/28,Thailand,3,0,0,3
+3/28,Taiwan,10,0,0,10
+3/28,Switzerland,2,0,0,2
+3/28,Sweden,0,0,0,0
+3/28,Spain,0,0,0,0
+3/28,South Africa,0,0,0,0
+3/28,Slovenia,0,0,0,0
+3/28,Singapore,86,2,0,84
+3/28,Russian Federation,0,0,0,0
+3/28,Romania,3,0,0,3
+3/28,Republic of Korea,0,0,0,0
+3/28,Republic of Ireland,2,0,0,2
+3/28,Poland,0,0,0,0
+3/28,Philippines,0,0,0,0
+3/28,Mongolia,0,0,0,0
+3/28,Malaysia,0,0,0,0
+3/28,Kuwait,0,0,0,0
+3/28,Japan,0,0,0,0
+3/28,Italy,2,0,0,2
+3/28,Indonesia,0,0,0,0
+3/28,India,0,0,0,0
+3/28,Germany,4,0,0,4
+3/28,France,1,0,0,1
+3/28,Finland,0,0,0,0
+3/28,Colombia,0,0,0,0
+3/28,China,1231,44,0,1187
+3/28,Canada,29,3,0,26
+3/28,Bulgaria,0,0,0,0
+3/28,Brazil,0,0,0,0
+3/28,Belgium,0,0,0,0
+3/28,Australia,0,0,0,0
+3/29,United States,59,0,0,59
+3/29,Australia,0,0,0,0
+3/29,Belgium,0,0,0,0
+3/29,Brazil,0,0,0,0
+3/29,Bulgaria,0,0,0,0
+3/29,Canada,37,3,0,34
+3/29,China,1276,44,0,1232
+3/29,Colombia,0,0,0,0
+3/29,Finland,0,0,0,0
+3/29,France,1,0,0,1
+3/29,Germany,4,0,0,4
+3/29,India,0,0,0,0
+3/29,Indonesia,0,0,0,0
+3/29,Italy,2,0,0,2
+3/29,Japan,0,0,0,0
+3/29,Kuwait,0,0,0,0
+3/29,Malaysia,0,0,0,0
+3/29,Mongolia,0,0,0,0
+3/29,New Zealand,0,0,0,0
+3/29,Philippines,0,0,0,0
+3/29,Poland,0,0,0,0
+3/29,Republic of Ireland,2,0,0,2
+3/29,Republic of Korea,0,0,0,0
+3/29,Romania,3,0,0,3
+3/29,Russian Federation,0,0,0,0
+3/29,Singapore,89,2,0,87
+3/29,Slovenia,0,0,0,0
+3/29,South Africa,0,0,0,0
+3/29,Spain,0,0,0,0
+3/29,Sweden,0,0,0,0
+3/29,Switzerland,3,0,0,3
+3/29,Taiwan,10,0,0,10
+3/29,Thailand,3,1,0,2
+3/29,United Kingdom,3,0,0,3
+3/29,Viet Nam,58,4,0,54
+3/30,Viet Nam,58,4,0,54
+3/30,Australia,0,0,0,0
+3/30,Belgium,0,0,0,0
+3/30,Brazil,0,0,0,0
+3/30,Bulgaria,0,0,0,0
+3/30,Canada,37,3,0,34
+3/30,China,1276,44,0,1232
+3/30,Colombia,0,0,0,0
+3/30,Finland,0,0,0,0
+3/30,France,1,0,0,1
+3/30,Germany,4,0,0,4
+3/30,India,0,0,0,0
+3/30,Indonesia,0,0,0,0
+3/30,Italy,2,0,0,2
+3/30,Japan,0,0,0,0
+3/30,Kuwait,0,0,0,0
+3/30,Malaysia,0,0,0,0
+3/30,Mongolia,0,0,0,0
+3/30,New Zealand,0,0,0,0
+3/30,Philippines,0,0,0,0
+3/30,Poland,0,0,0,0
+3/30,Republic of Ireland,2,0,0,2
+3/30,Republic of Korea,0,0,0,0
+3/30,Romania,3,0,0,3
+3/30,Russian Federation,0,0,0,0
+3/30,Singapore,89,2,0,87
+3/30,Slovenia,0,0,0,0
+3/30,South Africa,0,0,0,0
+3/30,Spain,0,0,0,0
+3/30,Sweden,0,0,0,0
+3/30,Switzerland,3,0,0,3
+3/30,Taiwan,10,0,0,10
+3/30,Thailand,3,1,0,2
+3/30,United Kingdom,3,0,0,3
+3/30,United States,59,0,0,59
+3/31,Australia,0,0,0,0
+3/31,United States,59,0,0,59
+3/31,United Kingdom,3,0,0,3
+3/31,Thailand,5,1,0,4
+3/31,Taiwan,10,0,0,10
+3/31,Switzerland,3,0,0,3
+3/31,Sweden,0,0,0,0
+3/31,Spain,0,0,0,0
+3/31,South Africa,0,0,0,0
+3/31,Slovenia,0,0,0,0
+3/31,Singapore,91,2,0,89
+3/31,Russian Federation,0,0,0,0
+3/31,Romania,3,0,0,3
+3/31,Republic of Korea,0,0,0,0
+3/31,Republic of Ireland,2,0,0,2
+3/31,Poland,0,0,0,0
+3/31,Philippines,0,0,0,0
+3/31,New Zealand,0,0,0,0
+3/31,Mongolia,0,0,0,0
+3/31,Malaysia,0,0,0,0
+3/31,Kuwait,0,0,0,0
+3/31,Japan,0,0,0,0
+3/31,Italy,2,0,0,2
+3/31,Indonesia,0,0,0,0
+3/31,India,0,0,0,0
+3/31,Germany,5,0,0,5
+3/31,France,1,0,0,1
+3/31,Finland,0,0,0,0
+3/31,Colombia,0,0,0,0
+3/31,China,1336,47,0,1289
+3/31,Canada,44,4,0,40
+3/31,Bulgaria,0,0,0,0
+3/31,Brazil,0,0,0,0
+3/31,Belgium,0,0,0,0
+3/31,Viet Nam,58,4,0,54
+4/01,South Africa,0,0,0,0
+4/01,Belgium,1,0,0,1
+4/01,Brazil,0,0,0,0
+4/01,Bulgaria,0,0,0,0
+4/01,Canada,53,4,0,49
+4/01,China,1491,50,0,1441
+4/01,Colombia,0,0,0,0
+4/01,Finland,0,0,0,0
+4/01,France,1,0,0,1
+4/01,Germany,5,0,0,5
+4/01,India,0,0,0,0
+4/01,Indonesia,0,0,0,0
+4/01,Italy,3,0,0,3
+4/01,Japan,0,0,0,0
+4/01,Kuwait,0,0,0,0
+4/01,Malaysia,0,0,0,0
+4/01,Mongolia,0,0,0,0
+4/01,New Zealand,0,0,0,0
+4/01,Philippines,0,0,0,0
+4/01,Poland,0,0,0,0
+4/01,Republic of Ireland,2,0,0,2
+4/01,Republic of Korea,0,0,0,0
+4/01,Romania,3,0,0,3
+4/01,Russian Federation,0,0,0,0
+4/01,Singapore,92,3,0,89
+4/01,Slovenia,0,0,0,0
+4/01,Spain,0,0,0,0
+4/01,Sweden,0,0,0,0
+4/01,Switzerland,3,0,0,3
+4/01,Taiwan,13,0,0,13
+4/01,Thailand,6,1,0,5
+4/01,United Kingdom,3,0,0,3
+4/01,United States,69,0,0,69
+4/01,Viet Nam,58,4,0,54
+4/01,Australia,1,0,0,1
+4/02,Australia,1,0,0,1
+4/02,Brazil,0,0,0,0
+4/02,Bulgaria,0,0,0,0
+4/02,Canada,58,6,0,52
+4/02,China,1898,62,0,1836
+4/02,Colombia,0,0,0,0
+4/02,Finland,0,0,0,0
+4/02,France,1,0,0,1
+4/02,Germany,5,0,0,5
+4/02,India,0,0,0,0
+4/02,Indonesia,0,0,0,0
+4/02,Italy,3,0,0,3
+4/02,Japan,0,0,0,0
+4/02,Kuwait,0,0,0,0
+4/02,Malaysia,0,0,0,0
+4/02,Mongolia,0,0,0,0
+4/02,New Zealand,0,0,0,0
+4/02,Philippines,0,0,0,0
+4/02,Poland,0,0,0,0
+4/02,Republic of Ireland,2,0,0,2
+4/02,Republic of Korea,0,0,0,0
+4/02,Romania,3,0,0,3
+4/02,Russian Federation,0,0,0,0
+4/02,Singapore,95,4,0,91
+4/02,Slovenia,0,0,0,0
+4/02,South Africa,0,0,0,0
+4/02,Spain,1,0,0,1
+4/02,Sweden,0,0,0,0
+4/02,Switzerland,2,0,0,2
+4/02,Taiwan,13,0,0,13
+4/02,Thailand,7,2,0,5
+4/02,United Kingdom,3,0,0,3
+4/02,United States,72,0,0,72
+4/02,Viet Nam,58,4,0,54
+4/02,Belgium,1,0,0,1
+4/03,Australia,1,0,0,1
+4/03,Viet Nam,59,4,0,55
+4/03,United States,85,0,0,85
+4/03,United Kingdom,3,0,0,3
+4/03,Thailand,7,2,0,5
+4/03,Taiwan,14,0,0,14
+4/03,Switzerland,2,0,0,2
+4/03,Sweden,0,0,0,0
+4/03,Spain,0,0,0,0
+4/03,South Africa,0,0,0,0
+4/03,Slovenia,0,0,0,0
+4/03,Singapore,98,4,0,94
+4/03,Russian Federation,0,0,0,0
+4/03,Romania,1,0,0,1
+4/03,Republic of Korea,0,0,0,0
+4/03,Republic of Ireland,1,0,0,1
+4/03,Poland,0,0,0,0
+4/03,Philippines,0,0,0,0
+4/03,New Zealand,0,0,0,0
+4/03,Mongolia,0,0,0,0
+4/03,Malaysia,0,0,0,0
+4/03,Kuwait,0,0,0,0
+4/03,Japan,0,0,0,0
+4/03,Italy,3,0,0,3
+4/03,Indonesia,0,0,0,0
+4/03,India,0,0,0,0
+4/03,Germany,5,0,0,5
+4/03,France,3,0,0,3
+4/03,Finland,0,0,0,0
+4/03,Colombia,0,0,0,0
+4/03,China,1924,63,0,1861
+4/03,Canada,62,6,0,56
+4/03,Bulgaria,0,0,0,0
+4/03,Brazil,1,0,0,1
+4/03,Belgium,1,0,0,1
+4/04,United States,100,0,0,100
+4/04,Belgium,1,0,0,1
+4/04,Australia,1,0,0,1
+4/04,United Kingdom,3,0,0,3
+4/04,Thailand,7,2,0,5
+4/04,Taiwan,15,0,0,15
+4/04,Switzerland,2,0,0,2
+4/04,Sweden,0,0,0,0
+4/04,Spain,1,0,0,1
+4/04,South Africa,0,0,0,0
+4/04,Slovenia,0,0,0,0
+4/04,Singapore,100,5,0,95
+4/04,Russian Federation,0,0,0,0
+4/04,Romania,1,0,0,1
+4/04,Republic of Korea,0,0,0,0
+4/04,Republic of Ireland,1,0,0,1
+4/04,Poland,0,0,0,0
+4/04,Philippines,0,0,0,0
+4/04,New Zealand,0,0,0,0
+4/04,Mongolia,0,0,0,0
+4/04,Malaysia,0,0,0,0
+4/04,Kuwait,0,0,0,0
+4/04,Japan,0,0,0,0
+4/04,Italy,3,0,0,3
+4/04,Indonesia,0,0,0,0
+4/04,India,0,0,0,0
+4/04,Germany,5,0,0,5
+4/04,France,3,0,0,3
+4/04,Finland,0,0,0,0
+4/04,Colombia,0,0,0,0
+4/04,China,1981,66,0,1915
+4/04,Canada,69,7,0,62
+4/04,Bulgaria,0,0,0,0
+4/04,Viet Nam,59,4,0,55
+4/04,Brazil,1,0,0,1
+4/05,United Kingdom,4,0,0,4
+4/05,Viet Nam,59,4,0,55
+4/05,United States,115,0,0,115
+4/05,Australia,1,0,0,1
+4/05,Belgium,1,0,0,1
+4/05,Brazil,1,0,0,1
+4/05,Bulgaria,0,0,0,0
+4/05,Canada,74,7,0,67
+4/05,China,2020,69,0,1951
+4/05,Colombia,0,0,0,0
+4/05,Finland,0,0,0,0
+4/05,France,3,0,0,3
+4/05,Germany,5,0,0,5
+4/05,India,0,0,0,0
+4/05,Indonesia,0,0,0,0
+4/05,Italy,3,0,0,3
+4/05,Japan,0,0,0,0
+4/05,Kuwait,0,0,0,0
+4/05,Malaysia,1,1,0,0
+4/05,Mongolia,0,0,0,0
+4/05,New Zealand,0,0,0,0
+4/05,Philippines,0,0,0,0
+4/05,Poland,0,0,0,0
+4/05,Republic of Ireland,1,0,0,1
+4/05,Republic of Korea,0,0,0,0
+4/05,Romania,1,0,0,1
+4/05,Russian Federation,0,0,0,0
+4/05,Singapore,101,6,0,95
+4/05,Slovenia,0,0,0,0
+4/05,South Africa,0,0,0,0
+4/05,Spain,1,0,0,1
+4/05,Sweden,0,0,0,0
+4/05,Switzerland,1,0,0,1
+4/05,Taiwan,17,0,0,17
+4/05,Thailand,7,2,0,5
+4/06,Switzerland,1,0,0,1
+4/06,Thailand,7,2,0,5
+4/06,Viet Nam,59,4,0,55
+4/06,United Kingdom,4,0,0,4
+4/06,United States,115,0,0,115
+4/06,Australia,1,0,0,1
+4/06,Belgium,1,0,0,1
+4/06,Brazil,1,0,0,1
+4/06,Bulgaria,0,0,0,0
+4/06,Canada,74,7,0,67
+4/06,China,2020,69,0,1951
+4/06,Colombia,0,0,0,0
+4/06,Finland,0,0,0,0
+4/06,France,3,0,0,3
+4/06,Germany,5,0,0,5
+4/06,India,0,0,0,0
+4/06,Indonesia,0,0,0,0
+4/06,Italy,3,0,0,3
+4/06,Japan,0,0,0,0
+4/06,Kuwait,0,0,0,0
+4/06,Malaysia,1,1,0,0
+4/06,Mongolia,0,0,0,0
+4/06,New Zealand,0,0,0,0
+4/06,Philippines,0,0,0,0
+4/06,Poland,0,0,0,0
+4/06,Republic of Ireland,1,0,0,1
+4/06,Republic of Korea,0,0,0,0
+4/06,Romania,1,0,0,1
+4/06,Russian Federation,0,0,0,0
+4/06,Singapore,101,6,0,95
+4/06,Slovenia,0,0,0,0
+4/06,South Africa,0,0,0,0
+4/06,Spain,1,0,0,1
+4/06,Sweden,0,0,0,0
+4/06,Taiwan,17,0,0,17
+4/07,South Africa,0,0,0,0
+4/07,Australia,1,0,0,1
+4/07,Belgium,0,0,0,0
+4/07,Brazil,1,0,0,1
+4/07,Bulgaria,0,0,0,0
+4/07,Canada,90,9,0,81
+4/07,China,2151,76,0,2075
+4/07,Colombia,0,0,0,0
+4/07,Finland,0,0,0,0
+4/07,France,3,0,0,3
+4/07,Germany,5,0,0,5
+4/07,India,0,0,0,0
+4/07,Indonesia,0,0,0,0
+4/07,Italy,3,0,0,3
+4/07,Japan,0,0,0,0
+4/07,Kuwait,0,0,0,0
+4/07,Malaysia,1,1,0,0
+4/07,Mongolia,0,0,0,0
+4/07,Viet Nam,62,4,0,58
+4/07,New Zealand,0,0,0,0
+4/07,Philippines,0,0,0,0
+4/07,Poland,0,0,0,0
+4/07,Republic of Ireland,1,0,0,1
+4/07,Republic of Korea,0,0,0,0
+4/07,Romania,1,0,0,1
+4/07,Russian Federation,0,0,0,0
+4/07,Singapore,106,6,0,100
+4/07,Slovenia,0,0,0,0
+4/07,Spain,1,0,0,1
+4/07,Sweden,0,0,0,0
+4/07,Switzerland,1,0,0,1
+4/07,Taiwan,21,0,0,21
+4/07,Thailand,7,2,0,5
+4/07,United Kingdom,5,0,0,5
+4/07,United States,141,0,0,141
+4/08,Brazil,1,0,0,1
+4/08,Bulgaria,0,0,0,0
+4/08,Australia,1,0,0,1
+4/08,Canada,91,10,0,81
+4/08,China,2207,78,0,2129
+4/08,Colombia,0,0,0,0
+4/08,Finland,0,0,0,0
+4/08,France,4,0,0,4
+4/08,Germany,5,0,0,5
+4/08,India,0,0,0,0
+4/08,Indonesia,0,0,0,0
+4/08,Italy,3,0,0,3
+4/08,Japan,0,0,0,0
+4/08,Kuwait,0,0,0,0
+4/08,Malaysia,1,1,0,0
+4/08,Mongolia,0,0,0,0
+4/08,New Zealand,0,0,0,0
+4/08,Philippines,0,0,0,0
+4/08,Poland,0,0,0,0
+4/08,Republic of Ireland,1,0,0,1
+4/08,Republic of Korea,0,0,0,0
+4/08,Romania,1,0,0,1
+4/08,Russian Federation,0,0,0,0
+4/08,Singapore,113,8,0,105
+4/08,Slovenia,0,0,0,0
+4/08,South Africa,0,0,0,0
+4/08,Spain,1,0,0,1
+4/08,Sweden,0,0,0,0
+4/08,Switzerland,1,0,0,1
+4/08,Taiwan,19,0,0,19
+4/08,Thailand,7,2,0,5
+4/08,United Kingdom,5,0,0,5
+4/08,United States,148,0,0,148
+4/08,Viet Nam,62,4,0,58
+4/08,Belgium,0,0,0,0
+4/09,Belgium,0,0,0,0
+4/09,Viet Nam,62,4,0,58
+4/09,Australia,0,0,0,0
+4/09,United States,149,0,0,149
+4/09,United Kingdom,5,0,0,5
+4/09,Thailand,7,2,0,5
+4/09,Taiwan,19,0,0,19
+4/09,Switzerland,1,0,0,1
+4/09,Sweden,0,0,0,0
+4/09,Spain,1,0,0,1
+4/09,South Africa,0,0,0,0
+4/09,Slovenia,0,0,0,0
+4/09,Singapore,118,9,0,109
+4/09,Russian Federation,0,0,0,0
+4/09,Romania,1,0,0,1
+4/09,Republic of Korea,0,0,0,0
+4/09,Republic of Ireland,1,0,0,1
+4/09,Poland,0,0,0,0
+4/09,Philippines,0,0,0,0
+4/09,New Zealand,0,0,0,0
+4/09,Mongolia,0,0,0,0
+4/09,Malaysia,1,1,0,0
+4/09,Kuwait,0,0,0,0
+4/09,Japan,0,0,0,0
+4/09,Italy,3,0,0,3
+4/09,Indonesia,0,0,0,0
+4/09,India,0,0,0,0
+4/09,Germany,5,0,0,5
+4/09,France,4,0,0,4
+4/09,Finland,0,0,0,0
+4/09,Colombia,0,0,0,0
+4/09,China,2250,80,0,2170
+4/09,Canada,94,10,0,84
+4/09,Bulgaria,0,0,0,0
+4/09,Brazil,1,0,0,1
+4/10,Brazil,2,0,0,2
+4/10,Viet Nam,62,4,43,15
+4/10,Australia,0,0,0,0
+4/10,United States,154,0,0,154
+4/10,United Kingdom,5,0,3,2
+4/10,Thailand,7,2,5,0
+4/10,Taiwan,19,0,5,14
+4/10,Switzerland,1,0,1,0
+4/10,Sweden,0,0,0,0
+4/10,Spain,1,0,0,1
+4/10,South Africa,0,0,0,0
+4/10,Slovenia,0,0,0,0
+4/10,Singapore,126,9,75,42
+4/10,Russian Federation,0,0,0,0
+4/10,Romania,1,0,0,1
+4/10,Republic of Korea,0,0,0,0
+4/10,Republic of Ireland,1,0,1,0
+4/10,Poland,0,0,0,0
+4/10,Philippines,0,0,0,0
+4/10,New Zealand,0,0,0,0
+4/10,Mongolia,0,0,0,0
+4/10,Malaysia,3,1,0,2
+4/10,Kuwait,1,0,0,1
+4/10,Japan,0,0,0,0
+4/10,Italy,3,0,1,2
+4/10,Indonesia,0,0,0,0
+4/10,India,0,0,0,0
+4/10,Germany,6,0,2,4
+4/10,France,4,0,0,4
+4/10,Finland,0,0,0,0
+4/10,Colombia,0,0,0,0
+4/10,China,2288,85,1179,1024
+4/10,Canada,97,10,22,65
+4/10,Bulgaria,0,0,0,0
+4/10,Belgium,0,0,0,0
+4/11,Mongolia,0,0,0,0
+4/11,Australia,0,0,0,0
+4/11,Belgium,0,0,0,0
+4/11,Brazil,2,0,0,2
+4/11,Bulgaria,0,0,0,0
+4/11,Canada,98,10,25,63
+4/11,China,2368,90,1206,1072
+4/11,Colombia,0,0,0,0
+4/11,Finland,0,0,0,0
+4/11,France,5,0,0,5
+4/11,Germany,6,0,4,2
+4/11,India,0,0,0,0
+4/11,Indonesia,0,0,0,0
+4/11,Italy,3,0,2,1
+4/11,Japan,4,0,0,4
+4/11,Kuwait,1,0,0,1
+4/11,Malaysia,4,1,0,3
+4/11,New Zealand,0,0,0,0
+4/11,Philippines,0,0,0,0
+4/11,Poland,0,0,0,0
+4/11,Republic of Ireland,1,0,1,0
+4/11,Republic of Korea,0,0,0,0
+4/11,Romania,1,0,0,1
+4/11,Russian Federation,0,0,0,0
+4/11,Singapore,133,9,77,47
+4/11,Slovenia,0,0,0,0
+4/11,South Africa,1,0,0,1
+4/11,Spain,1,0,0,1
+4/11,Sweden,0,0,0,0
+4/11,Switzerland,1,0,1,0
+4/11,Taiwan,21,0,6,15
+4/11,Thailand,7,2,5,0
+4/11,United Kingdom,5,0,3,2
+4/11,United States,166,0,0,166
+4/11,Viet Nam,62,4,43,15
+4/12,Viet Nam,62,4,46,12
+4/12,Australia,0,0,0,0
+4/12,Belgium,0,0,0,0
+4/12,Brazil,2,0,0,2
+4/12,Bulgaria,0,0,0,0
+4/12,Canada,101,10,26,65
+4/12,China,2417,93,1252,1072
+4/12,Colombia,0,0,0,0
+4/12,Finland,0,0,0,0
+4/12,France,5,0,1,4
+4/12,Germany,6,0,4,2
+4/12,India,0,0,0,0
+4/12,Indonesia,0,0,0,0
+4/12,Italy,3,0,2,1
+4/12,Japan,4,0,0,4
+4/12,Kuwait,1,0,0,1
+4/12,Malaysia,4,1,0,3
+4/12,Mongolia,0,0,0,0
+4/12,New Zealand,0,0,0,0
+4/12,Philippines,0,0,0,0
+4/12,Poland,0,0,0,0
+4/12,Republic of Ireland,1,0,1,0
+4/12,Republic of Korea,0,0,0,0
+4/12,Romania,1,0,0,1
+4/12,Russian Federation,0,0,0,0
+4/12,Singapore,147,9,77,61
+4/12,Slovenia,0,0,0,0
+4/12,South Africa,1,0,0,1
+4/12,Spain,1,0,0,1
+4/12,Sweden,0,0,0,0
+4/12,Switzerland,1,0,1,0
+4/12,Taiwan,23,0,7,16
+4/12,Thailand,8,2,5,1
+4/12,United Kingdom,6,0,3,3
+4/12,United States,166,0,0,166
+4/13,Australia,0,0,0,0
+4/13,United States,166,0,0,166
+4/13,United Kingdom,6,0,3,3
+4/13,Thailand,8,2,5,1
+4/13,Taiwan,23,0,7,16
+4/13,Switzerland,1,0,1,0
+4/13,Sweden,0,0,0,0
+4/13,Spain,1,0,0,1
+4/13,South Africa,1,0,0,1
+4/13,Slovenia,0,0,0,0
+4/13,Singapore,147,9,77,61
+4/13,Russian Federation,0,0,0,0
+4/13,Romania,1,0,0,1
+4/13,Republic of Korea,0,0,0,0
+4/13,Republic of Ireland,1,0,1,0
+4/13,Poland,0,0,0,0
+4/13,Philippines,0,0,0,0
+4/13,New Zealand,0,0,0,0
+4/13,Mongolia,0,0,0,0
+4/13,Malaysia,4,1,0,3
+4/13,Kuwait,1,0,0,1
+4/13,Japan,4,0,0,4
+4/13,Italy,3,0,2,1
+4/13,Indonesia,0,0,0,0
+4/13,India,0,0,0,0
+4/13,Germany,6,0,4,2
+4/13,France,5,0,1,4
+4/13,Finland,0,0,0,0
+4/13,Colombia,0,0,0,0
+4/13,China,2417,93,1252,1072
+4/13,Canada,101,10,26,65
+4/13,Bulgaria,0,0,0,0
+4/13,Brazil,2,0,0,2
+4/13,Belgium,0,0,0,0
+4/13,Viet Nam,62,4,46,12
+4/14,Australia,0,0,0,0
+4/14,Viet Nam,63,5,46,12
+4/14,United States,174,0,0,174
+4/14,United Kingdom,6,0,3,3
+4/14,Thailand,8,2,5,1
+4/14,Taiwan,23,0,7,16
+4/14,Switzerland,1,0,1,0
+4/14,Sweden,1,0,0,1
+4/14,Spain,1,0,0,1
+4/14,South Africa,1,0,0,1
+4/14,Slovenia,0,0,0,0
+4/14,Singapore,158,12,84,62
+4/14,Russian Federation,0,0,0,0
+4/14,Romania,1,0,0,1
+4/14,Republic of Korea,0,0,0,0
+4/14,Republic of Ireland,1,0,1,0
+4/14,Poland,0,0,0,0
+4/14,Philippines,1,0,1,0
+4/14,New Zealand,0,0,0,0
+4/14,Mongolia,0,0,0,0
+4/14,Malaysia,4,1,0,3
+4/14,Kuwait,1,0,0,1
+4/14,Japan,0,0,0,0
+4/14,Italy,3,0,2,1
+4/14,Indonesia,1,0,0,1
+4/14,India,0,0,0,0
+4/14,Germany,6,0,4,2
+4/14,France,5,0,1,4
+4/14,Finland,0,0,0,0
+4/14,Colombia,0,0,0,0
+4/14,China,2608,111,1317,1180
+4/14,Canada,100,13,27,60
+4/14,Bulgaria,0,0,0,0
+4/14,Brazil,2,0,0,2
+4/14,Belgium,0,0,0,0
+4/15,Australia,0,0,0,0
+4/15,United States,193,0,0,193
+4/15,United Kingdom,6,0,3,3
+4/15,Thailand,8,2,5,1
+4/15,Taiwan,23,0,7,16
+4/15,Switzerland,1,0,1,0
+4/15,Sweden,1,0,0,1
+4/15,Spain,1,0,0,1
+4/15,South Africa,1,0,0,1
+4/15,Slovenia,0,0,0,0
+4/15,Singapore,162,13,85,64
+4/15,Russian Federation,0,0,0,0
+4/15,Romania,1,0,1,0
+4/15,Republic of Korea,0,0,0,0
+4/15,Republic of Ireland,1,0,1,0
+4/15,Poland,0,0,0,0
+4/15,Philippines,1,0,1,0
+4/15,New Zealand,0,0,0,0
+4/15,Mongolia,0,0,0,0
+4/15,Malaysia,4,1,0,3
+4/15,Kuwait,1,0,0,1
+4/15,Japan,1,0,0,1
+4/15,Italy,3,0,2,1
+4/15,Indonesia,1,0,0,1
+4/15,India,0,0,0,0
+4/15,Germany,6,0,4,2
+4/15,France,5,0,1,4
+4/15,Finland,0,0,0,0
+4/15,Colombia,0,0,0,0
+4/15,China,2650,120,1331,1199
+4/15,Canada,100,13,27,60
+4/15,Bulgaria,0,0,0,0
+4/15,Brazil,2,0,0,2
+4/15,Belgium,0,0,0,0
+4/15,Viet Nam,63,5,46,12
+4/16,Viet Nam,63,5,46,12
+4/16,United States,193,0,0,193
+4/16,United Kingdom,6,0,3,3
+4/16,Thailand,8,2,5,1
+4/16,Taiwan,27,0,10,17
+4/16,Switzerland,1,0,1,0
+4/16,Sweden,1,0,0,1
+4/16,Spain,1,0,0,1
+4/16,South Africa,1,0,0,1
+4/16,Slovenia,0,0,0,0
+4/16,Singapore,162,13,85,64
+4/16,Russian Federation,0,0,0,0
+4/16,Romania,1,0,1,0
+4/16,Republic of Korea,0,0,0,0
+4/16,Republic of Ireland,1,0,1,0
+4/16,Poland,0,0,0,0
+4/16,Philippines,1,0,1,0
+4/16,New Zealand,0,0,0,0
+4/16,Mongolia,0,0,0,0
+4/16,Malaysia,5,1,0,4
+4/16,Kuwait,1,0,0,1
+4/16,Japan,1,0,0,1
+4/16,Italy,3,0,2,1
+4/16,Indonesia,1,0,0,1
+4/16,India,0,0,0,0
+4/16,Germany,6,0,4,2
+4/16,France,5,0,1,4
+4/16,Finland,0,0,0,0
+4/16,Colombia,0,0,0,0
+4/16,China,2700,125,1351,1224
+4/16,Canada,103,13,37,53
+4/16,Bulgaria,0,0,0,0
+4/16,Brazil,2,0,0,2
+4/16,Belgium,0,0,0,0
+4/16,Australia,0,0,0,0
+4/17,United States,199,0,0,199
+4/17,Australia,3,0,3,0
+4/17,Belgium,0,0,0,0
+4/17,Brazil,2,0,0,2
+4/17,Bulgaria,0,0,0,0
+4/17,Canada,126,12,46,68
+4/17,China,2754,130,1379,1245
+4/17,Colombia,0,0,0,0
+4/17,Finland,0,0,0,0
+4/17,France,5,0,1,4
+4/17,Germany,6,0,4,2
+4/17,India,1,0,0,1
+4/17,Indonesia,1,0,0,1
+4/17,Italy,3,0,2,1
+4/17,Japan,2,0,0,2
+4/17,Kuwait,1,0,0,1
+4/17,Malaysia,5,1,0,4
+4/17,Mongolia,3,0,3,0
+4/17,New Zealand,0,0,0,0
+4/17,Philippines,1,0,1,0
+4/17,Poland,0,0,0,0
+4/17,Republic of Ireland,1,0,1,0
+4/17,Republic of Korea,0,0,0,0
+4/17,Romania,1,0,1,0
+4/17,Russian Federation,0,0,0,0
+4/17,Singapore,167,15,91,61
+4/17,Slovenia,0,0,0,0
+4/17,South Africa,1,0,0,1
+4/17,Spain,1,0,0,1
+4/17,Sweden,1,0,0,1
+4/17,Switzerland,1,0,1,0
+4/17,Taiwan,27,0,10,17
+4/17,Thailand,8,2,5,1
+4/17,United Kingdom,6,0,3,3
+4/17,Viet Nam,63,5,46,12
+4/18,South Africa,1,0,0,1
+4/18,Belgium,0,0,0,0
+4/18,Brazil,2,0,0,2
+4/18,Bulgaria,0,0,0,0
+4/18,Canada,132,12,54,66
+4/18,China,2870,146,1503,1221
+4/18,Colombia,0,0,0,0
+4/18,Finland,0,0,0,0
+4/18,France,5,0,1,4
+4/18,Germany,6,0,4,2
+4/18,India,1,0,1,0
+4/18,Indonesia,1,0,0,1
+4/18,Italy,3,0,2,1
+4/18,Japan,4,0,0,4
+4/18,Kuwait,1,0,0,1
+4/18,Malaysia,5,1,0,4
+4/18,Mongolia,3,0,3,0
+4/18,New Zealand,0,0,0,0
+4/18,Philippines,1,0,1,0
+4/18,Poland,0,0,0,0
+4/18,Republic of Ireland,1,0,1,0
+4/18,Republic of Korea,0,0,0,0
+4/18,Romania,1,0,1,0
+4/18,Russian Federation,0,0,0,0
+4/18,Singapore,177,16,100,61
+4/18,Slovenia,0,0,0,0
+4/18,Australia,3,0,3,0
+4/18,Spain,1,0,0,1
+4/18,Sweden,3,0,0,3
+4/18,Switzerland,1,0,1,0
+4/18,Taiwan,29,0,17,12
+4/18,Thailand,7,2,6,0
+4/18,United Kingdom,6,0,5,1
+4/18,United States,220,0,0,220
+4/18,Viet Nam,63,5,46,12
+4/19,Australia,3,0,3,0
+4/19,Brazil,2,0,0,2
+4/19,Bulgaria,0,0,0,0
+4/19,Canada,132,12,54,66
+4/19,China,2870,146,1503,1221
+4/19,Colombia,0,0,0,0
+4/19,Finland,0,0,0,0
+4/19,France,5,0,1,4
+4/19,Germany,6,0,4,2
+4/19,India,1,0,1,0
+4/19,Indonesia,1,0,0,1
+4/19,Italy,3,0,2,1
+4/19,Japan,4,0,0,4
+4/19,Kuwait,1,0,0,1
+4/19,Malaysia,5,1,0,4
+4/19,Mongolia,3,0,3,0
+4/19,New Zealand,0,0,0,0
+4/19,Philippines,1,0,1,0
+4/19,Poland,0,0,0,0
+4/19,Republic of Ireland,1,0,1,0
+4/19,Republic of Korea,0,0,0,0
+4/19,Romania,1,0,1,0
+4/19,Russian Federation,0,0,0,0
+4/19,Singapore,177,16,100,61
+4/19,Slovenia,0,0,0,0
+4/19,South Africa,1,0,0,1
+4/19,Spain,1,0,0,1
+4/19,Sweden,3,0,0,3
+4/19,Switzerland,1,0,1,0
+4/19,Taiwan,29,0,17,12
+4/19,Thailand,7,2,6,0
+4/19,United Kingdom,6,0,5,1
+4/19,United States,220,0,0,220
+4/19,Viet Nam,63,5,46,12
+4/19,Belgium,0,0,0,0
+4/20,Thailand,7,2,6,0
+4/20,Australia,3,0,3,0
+4/20,Belgium,0,0,0,0
+4/20,Brazil,2,0,0,2
+4/20,Bulgaria,0,0,0,0
+4/20,Canada,132,12,54,66
+4/20,China,2870,146,1503,1221
+4/20,Colombia,0,0,0,0
+4/20,Finland,0,0,0,0
+4/20,France,5,0,1,4
+4/20,Germany,6,0,4,2
+4/20,India,1,0,1,0
+4/20,Indonesia,1,0,0,1
+4/20,Italy,3,0,2,1
+4/20,Japan,4,0,0,4
+4/20,Kuwait,1,0,0,1
+4/20,Malaysia,5,1,0,4
+4/20,Mongolia,3,0,3,0
+4/20,New Zealand,0,0,0,0
+4/20,Philippines,1,0,1,0
+4/20,Poland,0,0,0,0
+4/20,Republic of Ireland,1,0,1,0
+4/20,Republic of Korea,0,0,0,0
+4/20,Romania,1,0,1,0
+4/20,Russian Federation,0,0,0,0
+4/20,Singapore,177,16,100,61
+4/20,Slovenia,0,0,0,0
+4/20,South Africa,1,0,0,1
+4/20,Spain,1,0,0,1
+4/20,Sweden,3,0,0,3
+4/20,Switzerland,1,0,1,0
+4/20,Taiwan,29,0,17,12
+4/20,United Kingdom,6,0,5,1
+4/20,United States,220,0,0,220
+4/20,Viet Nam,63,5,46,12
+4/21,Brazil,2,0,0,2
+4/21,Belgium,0,0,0,0
+4/21,United States,39,0,0,39
+4/21,United Kingdom,6,0,5,1
+4/21,Thailand,7,2,5,0
+4/21,Taiwan,29,0,17,12
+4/21,Switzerland,1,0,1,0
+4/21,Sweden,3,0,0,3
+4/21,Spain,1,0,0,1
+4/21,South Africa,1,0,0,1
+4/21,Slovenia,0,0,0,0
+4/21,Singapore,178,16,104,58
+4/21,Russian Federation,0,0,0,0
+4/21,Romania,1,0,1,0
+4/21,Republic of Korea,0,0,0,0
+4/21,Republic of Ireland,1,0,1,0
+4/21,Poland,0,0,0,0
+4/21,Philippines,2,1,1,0
+4/21,New Zealand,0,0,0,0
+4/21,Mongolia,3,0,3,0
+4/21,Malaysia,6,1,0,5
+4/21,Kuwait,1,0,1,0
+4/21,Japan,5,0,0,5
+4/21,Italy,3,0,2,1
+4/21,Indonesia,1,0,0,1
+4/21,India,1,0,1,0
+4/21,Germany,6,0,4,2
+4/21,France,5,0,1,4
+4/21,Australia,3,0,3,0
+4/21,Finland,0,0,0,0
+4/21,Colombia,0,0,0,0
+4/21,China,3361,180,1623,1558
+4/21,Canada,132,12,54,66
+4/21,Bulgaria,0,0,0,0
+4/21,Viet Nam,63,5,46,12
+4/22,Viet Nam,63,5,46,12
+4/22,Australia,3,0,3,0
+4/22,Belgium,0,0,0,0
+4/22,Brazil,2,0,0,2
+4/22,Bulgaria,0,0,0,0
+4/22,Canada,139,13,65,61
+4/22,China,3435,191,1662,1582
+4/22,Colombia,0,0,0,0
+4/22,Finland,0,0,0,0
+4/22,France,5,0,1,4
+4/22,Germany,7,0,6,1
+4/22,India,1,0,1,0
+4/22,Indonesia,1,0,0,1
+4/22,Italy,3,0,2,1
+4/22,Japan,2,0,0,2
+4/22,Kuwait,1,0,1,0
+4/22,Malaysia,6,1,0,5
+4/22,Mongolia,3,0,3,0
+4/22,New Zealand,0,0,0,0
+4/22,Philippines,2,1,1,0
+4/22,Poland,0,0,0,0
+4/22,Republic of Ireland,1,0,1,0
+4/22,Republic of Korea,0,0,0,0
+4/22,Romania,1,0,1,0
+4/22,Russian Federation,0,0,0,0
+4/22,Singapore,186,16,110,60
+4/22,Slovenia,0,0,0,0
+4/22,South Africa,1,0,0,1
+4/22,Spain,1,0,0,1
+4/22,Sweden,3,0,0,3
+4/22,Switzerland,1,0,1,0
+4/22,Taiwan,29,0,21,8
+4/22,Thailand,7,2,5,0
+4/22,United Kingdom,6,0,5,1
+4/22,United States,38,0,0,38
+4/23,Brazil,2,0,0,2
+4/23,Australia,4,0,3,1
+4/23,Viet Nam,63,5,46,12
+4/23,United States,39,0,0,39
+4/23,United Kingdom,6,0,5,1
+4/23,Thailand,7,2,5,0
+4/23,Taiwan,37,0,21,16
+4/23,Switzerland,1,0,1,0
+4/23,Sweden,3,0,0,3
+4/23,Spain,1,0,0,1
+4/23,South Africa,1,0,0,1
+4/23,Slovenia,0,0,0,0
+4/23,Singapore,189,17,114,58
+4/23,Russian Federation,0,0,0,0
+4/23,Romania,1,0,1,0
+4/23,Republic of Korea,0,0,0,0
+4/23,Republic of Ireland,1,0,1,0
+4/23,Poland,0,0,0,0
+4/23,Philippines,2,1,1,0
+4/23,New Zealand,0,0,0,0
+4/23,Mongolia,3,0,3,0
+4/23,Malaysia,5,2,2,1
+4/23,Kuwait,1,0,1,0
+4/23,Japan,2,0,0,2
+4/23,Italy,3,0,2,1
+4/23,Indonesia,1,0,0,1
+4/23,India,1,0,1,0
+4/23,Germany,7,0,6,1
+4/23,France,5,0,1,4
+4/23,Finland,0,0,0,0
+4/23,Colombia,0,0,0,0
+4/23,China,3763,211,1753,1799
+4/23,Canada,140,13,65,62
+4/23,Bulgaria,0,0,0,0
+4/23,Belgium,0,0,0,0
+4/24,Spain,1,0,1,0
+4/24,Viet Nam,63,5,49,9
+4/24,United States,37,0,0,37
+4/24,United Kingdom,6,0,6,0
+4/24,Thailand,8,2,5,1
+4/24,Taiwan,37,0,21,16
+4/24,Switzerland,1,0,1,0
+4/24,Sweden,3,0,2,1
+4/24,South Africa,1,0,0,1
+4/24,Slovenia,0,0,0,0
+4/24,Singapore,192,19,118,55
+4/24,Russian Federation,0,0,0,0
+4/24,Romania,1,0,1,0
+4/24,Republic of Korea,0,0,0,0
+4/24,Republic of Ireland,1,0,1,0
+4/24,Poland,0,0,0,0
+4/24,Philippines,2,1,1,0
+4/24,New Zealand,0,0,0,0
+4/24,Mongolia,3,0,3,0
+4/24,Malaysia,5,2,2,1
+4/24,Kuwait,1,0,1,0
+4/24,Japan,2,0,0,2
+4/24,Italy,4,0,3,1
+4/24,Indonesia,1,0,1,0
+4/24,India,1,0,1,0
+4/24,Germany,7,0,6,1
+4/24,France,5,0,1,4
+4/24,Finland,0,0,0,0
+4/24,Colombia,0,0,0,0
+4/24,China,3910,219,1821,1870
+4/24,Canada,140,15,67,58
+4/24,Bulgaria,1,0,0,1
+4/24,Brazil,2,0,2,0
+4/24,Belgium,0,0,0,0
+4/24,Australia,4,0,3,1
+4/25,Belgium,0,0,0,0
+4/25,United States,39,0,0,39
+4/25,United Kingdom,6,0,6,0
+4/25,Thailand,8,2,5,1
+4/25,Taiwan,41,0,21,20
+4/25,Switzerland,1,0,1,0
+4/25,Sweden,3,0,2,1
+4/25,Spain,1,0,1,0
+4/25,South Africa,1,0,0,1
+4/25,Slovenia,0,0,0,0
+4/25,Singapore,195,19,126,50
+4/25,Russian Federation,0,0,0,0
+4/25,Romania,1,0,1,0
+4/25,Republic of Korea,0,0,0,0
+4/25,Republic of Ireland,1,0,1,0
+4/25,Poland,0,0,0,0
+4/25,Philippines,2,1,1,0
+4/25,New Zealand,0,0,0,0
+4/25,Mongolia,3,0,3,0
+4/25,Malaysia,5,2,2,1
+4/25,Kuwait,1,0,1,0
+4/25,Japan,2,0,0,2
+4/25,Australia,4,0,3,1
+4/25,Italy,4,0,3,1
+4/25,Indonesia,1,0,1,0
+4/25,India,1,0,1,0
+4/25,Germany,7,0,6,1
+4/25,France,5,0,1,4
+4/25,Finland,0,0,0,0
+4/25,Colombia,0,0,0,0
+4/25,China,4111,230,1891,1990
+4/25,Canada,140,15,74,51
+4/25,Bulgaria,1,0,0,1
+4/25,Brazil,2,0,2,0
+4/25,Viet Nam,63,5,53,5
+4/26,Germany,7,0,6,1
+4/26,Viet Nam,63,5,53,5
+4/26,United States,41,0,0,41
+4/26,United Kingdom,6,0,6,0
+4/26,Thailand,7,2,5,0
+4/26,Taiwan,49,0,25,24
+4/26,Switzerland,1,0,1,0
+4/26,Sweden,3,0,2,1
+4/26,Spain,1,0,1,0
+4/26,South Africa,1,0,0,1
+4/26,Slovenia,0,0,0,0
+4/26,Singapore,198,21,126,51
+4/26,Russian Federation,0,0,0,0
+4/26,Romania,1,0,1,0
+4/26,Republic of Korea,0,0,0,0
+4/26,Republic of Ireland,1,0,1,0
+4/26,Poland,0,0,0,0
+4/26,Philippines,4,2,1,1
+4/26,New Zealand,0,0,0,0
+4/26,Mongolia,5,0,3,2
+4/26,Malaysia,5,2,2,1
+4/26,Kuwait,1,0,1,0
+4/26,Japan,2,0,0,2
+4/26,Italy,4,0,3,1
+4/26,Indonesia,1,0,1,0
+4/26,India,1,0,1,0
+4/26,Australia,4,0,3,1
+4/26,France,5,0,1,4
+4/26,Finland,0,0,0,0
+4/26,Colombia,0,0,0,0
+4/26,China,4280,243,1917,2120
+4/26,Canada,142,18,77,47
+4/26,Bulgaria,1,0,0,1
+4/26,Brazil,2,0,2,0
+4/26,Belgium,0,0,0,0
+4/27,Viet Nam,63,5,53,5
+4/27,Brazil,2,0,2,0
+4/27,Bulgaria,1,0,0,1
+4/27,Canada,142,18,77,47
+4/27,China,4280,243,1917,2120
+4/27,Colombia,0,0,0,0
+4/27,Finland,0,0,0,0
+4/27,France,5,0,1,4
+4/27,Germany,7,0,6,1
+4/27,Belgium,0,0,0,0
+4/27,India,1,0,1,0
+4/27,Indonesia,1,0,1,0
+4/27,Italy,4,0,3,1
+4/27,Japan,2,0,0,2
+4/27,Kuwait,1,0,1,0
+4/27,Malaysia,5,2,2,1
+4/27,Mongolia,5,0,3,2
+4/27,New Zealand,0,0,0,0
+4/27,Philippines,4,2,1,1
+4/27,Poland,0,0,0,0
+4/27,Republic of Ireland,1,0,1,0
+4/27,Republic of Korea,0,0,0,0
+4/27,Romania,1,0,1,0
+4/27,Russian Federation,0,0,0,0
+4/27,Singapore,198,21,126,51
+4/27,Slovenia,0,0,0,0
+4/27,South Africa,1,0,0,1
+4/27,Spain,1,0,1,0
+4/27,Sweden,3,0,2,1
+4/27,Switzerland,1,0,1,0
+4/27,Taiwan,49,0,25,24
+4/27,Thailand,7,2,5,0
+4/27,United Kingdom,6,0,6,0
+4/27,United States,41,0,0,41
+4/27,Australia,4,0,3,1
+4/28,Germany,7,0,6,1
+4/28,Australia,4,0,3,1
+4/28,Belgium,0,0,0,0
+4/28,Brazil,2,0,2,0
+4/28,Bulgaria,1,0,0,1
+4/28,Canada,142,18,77,47
+4/28,China,4471,269,2009,2193
+4/28,Colombia,0,0,0,0
+4/28,Finland,0,0,0,0
+4/28,France,5,0,1,4
+4/28,India,1,0,1,0
+4/28,Indonesia,1,0,1,0
+4/28,Italy,8,0,3,5
+4/28,Japan,2,0,0,2
+4/28,Kuwait,1,0,1,0
+4/28,Malaysia,6,2,2,2
+4/28,Mongolia,5,0,3,2
+4/28,New Zealand,0,0,0,0
+4/28,Philippines,4,2,1,1
+4/28,Poland,0,0,0,0
+4/28,Republic of Ireland,1,0,1,0
+4/28,Republic of Korea,0,0,0,0
+4/28,Romania,1,0,1,0
+4/28,Russian Federation,0,0,0,0
+4/28,Singapore,199,23,137,39
+4/28,Slovenia,0,0,0,0
+4/28,South Africa,1,0,0,1
+4/28,Spain,1,0,1,0
+4/28,Sweden,3,0,2,1
+4/28,Switzerland,1,0,1,0
+4/28,Taiwan,66,0,25,41
+4/28,Thailand,7,2,5,0
+4/28,United Kingdom,6,0,6,0
+4/28,United States,41,0,0,41
+4/28,Viet Nam,63,5,53,5
+4/29,Australia,4,0,3,1
+4/29,Brazil,2,0,2,0
+4/29,Bulgaria,1,0,0,1
+4/29,Canada,146,20,86,40
+4/29,China,4875,298,2081,2496
+4/29,Colombia,0,0,0,0
+4/29,Finland,0,0,0,0
+4/29,France,5,0,1,4
+4/29,Germany,7,0,6,1
+4/29,India,1,0,1,0
+4/29,Indonesia,1,0,1,0
+4/29,Italy,9,0,4,5
+4/29,Japan,2,0,0,2
+4/29,Kuwait,1,0,1,0
+4/29,Malaysia,6,2,3,1
+4/29,Mongolia,5,0,3,2
+4/29,New Zealand,0,0,0,0
+4/29,Philippines,4,2,1,1
+4/29,Poland,0,0,0,0
+4/29,Republic of Ireland,1,0,1,0
+4/29,Republic of Korea,1,0,0,1
+4/29,Romania,1,0,1,0
+4/29,Russian Federation,0,0,0,0
+4/29,Singapore,201,24,139,38
+4/29,Slovenia,0,0,0,0
+4/29,South Africa,1,0,0,1
+4/29,Spain,1,0,1,0
+4/29,Sweden,3,0,2,1
+4/29,Switzerland,1,0,1,0
+4/29,Taiwan,66,0,25,41
+4/29,Thailand,7,2,5,0
+4/29,United Kingdom,6,0,6,0
+4/29,United States,41,0,0,41
+4/29,Viet Nam,63,5,53,5
+4/29,Belgium,0,0,0,0
+4/30,Belgium,0,0,0,0
+4/30,Australia,4,0,3,1
+4/30,Viet Nam,63,5,53,5
+4/30,United States,52,0,0,52
+4/30,United Kingdom,6,0,6,0
+4/30,Thailand,7,2,5,0
+4/30,Taiwan,78,1,25,52
+4/30,Switzerland,1,0,1,0
+4/30,Sweden,3,0,2,1
+4/30,Spain,1,0,1,0
+4/30,South Africa,1,0,0,1
+4/30,Slovenia,0,0,0,0
+4/30,Singapore,201,24,139,38
+4/30,Russian Federation,0,0,0,0
+4/30,Romania,1,0,1,0
+4/30,Republic of Korea,1,0,0,1
+4/30,Republic of Ireland,1,0,1,0
+4/30,Poland,0,0,0,0
+4/30,Philippines,4,2,1,1
+4/30,New Zealand,0,0,0,0
+4/30,Mongolia,6,0,3,3
+4/30,Malaysia,6,2,3,1
+4/30,Kuwait,1,0,1,0
+4/30,Japan,2,0,0,2
+4/30,Italy,9,0,4,5
+4/30,Indonesia,2,0,1,1
+4/30,India,0,0,0,0
+4/30,Germany,7,0,7,0
+4/30,France,5,0,1,4
+4/30,Finland,0,0,0,0
+4/30,Colombia,0,0,0,0
+4/30,China,5050,316,2123,2611
+4/30,Canada,148,20,87,41
+4/30,Bulgaria,1,0,0,1
+4/30,Brazil,2,0,2,0
+5/01,Italy,9,0,4,5
+5/01,Australia,4,0,4,0
+5/01,Belgium,0,0,0,0
+5/01,Brazil,2,0,2,0
+5/01,Bulgaria,1,0,0,1
+5/01,Canada,147,20,87,40
+5/01,China,5239,332,2185,2722
+5/01,Colombia,0,0,0,0
+5/01,Finland,0,0,0,0
+5/01,France,5,0,1,4
+5/01,Germany,7,0,7,0
+5/01,India,0,0,0,0
+5/01,Indonesia,2,0,1,1
+5/01,Japan,2,0,0,2
+5/01,Kuwait,1,0,1,0
+5/01,Malaysia,6,2,3,1
+5/01,Mongolia,6,0,3,3
+5/01,New Zealand,0,0,0,0
+5/01,Philippines,4,2,1,1
+5/01,Poland,1,0,0,1
+5/01,Republic of Ireland,1,0,1,0
+5/01,Republic of Korea,1,0,0,1
+5/01,Romania,1,0,1,0
+5/01,Russian Federation,0,0,0,0
+5/01,Singapore,201,25,143,33
+5/01,Slovenia,0,0,0,0
+5/01,South Africa,1,0,0,1
+5/01,Spain,1,0,1,0
+5/01,Sweden,3,0,2,1
+5/01,Switzerland,1,0,1,0
+5/01,Taiwan,89,3,25,61
+5/01,Thailand,7,2,5,0
+5/01,United Kingdom,6,0,6,0
+5/01,United States,54,0,23,31
+5/01,Viet Nam,63,5,56,2
+5/02,Belgium,0,0,0,0
+5/02,Viet Nam,63,5,56,2
+5/02,United States,56,0,24,32
+5/02,United Kingdom,6,0,6,0
+5/02,Thailand,7,2,5,0
+5/02,Taiwan,100,8,25,67
+5/02,Switzerland,1,0,1,0
+5/02,Sweden,3,0,2,1
+5/02,Spain,1,0,1,0
+5/02,South Africa,1,0,0,1
+5/02,Slovenia,0,0,0,0
+5/02,Singapore,203,25,146,32
+5/02,Russian Federation,0,0,0,0
+5/02,Romania,1,0,1,0
+5/02,Republic of Korea,1,0,0,1
+5/02,Republic of Ireland,1,0,1,0
+5/02,Poland,1,0,0,1
+5/02,Philippines,3,2,1,0
+5/02,New Zealand,1,0,1,0
+5/02,Mongolia,8,0,4,4
+5/02,Malaysia,6,2,3,1
+5/02,Kuwait,1,0,1,0
+5/02,Japan,0,0,0,0
+5/02,Italy,9,0,4,5
+5/02,Indonesia,2,0,1,1
+5/02,India,0,0,0,0
+5/02,Germany,7,0,7,0
+5/02,France,5,0,4,1
+5/02,Finland,0,0,0,0
+5/02,Colombia,0,0,0,0
+5/02,China,5411,351,2250,2810
+5/02,Canada,149,22,93,34
+5/02,Bulgaria,1,0,0,1
+5/02,Brazil,2,0,2,0
+5/02,Australia,4,0,4,0
+5/03,Belgium,0,0,0,0
+5/03,Viet Nam,63,5,58,0
+5/03,United States,54,0,24,30
+5/03,United Kingdom,6,0,6,0
+5/03,Thailand,7,2,5,0
+5/03,Taiwan,100,8,25,67
+5/03,Switzerland,1,0,1,0
+5/03,Sweden,3,0,2,1
+5/03,Spain,1,0,1,0
+5/03,South Africa,1,0,1,0
+5/03,Slovenia,0,0,0,0
+5/03,Singapore,203,25,147,31
+5/03,Russian Federation,0,0,0,0
+5/03,Romania,1,0,1,0
+5/03,Republic of Korea,1,0,0,1
+5/03,Republic of Ireland,1,0,1,0
+5/03,Poland,1,0,0,1
+5/03,Philippines,3,2,1,0
+5/03,New Zealand,1,0,1,0
+5/03,Mongolia,8,0,4,4
+5/03,Malaysia,6,2,3,1
+5/03,Kuwait,1,0,1,0
+5/03,Japan,0,0,0,0
+5/03,Italy,9,0,4,5
+5/03,Indonesia,2,0,1,1
+5/03,India,0,0,0,0
+5/03,Germany,7,0,7,0
+5/03,France,5,0,4,1
+5/03,Finland,0,0,0,0
+5/03,Colombia,0,0,0,0
+5/03,China,5593,369,2304,2920
+5/03,Canada,149,22,94,33
+5/03,Bulgaria,1,0,0,1
+5/03,Brazil,2,0,2,0
+5/03,Australia,4,0,4,0
+5/04,Belgium,0,0,0,0
+5/04,Brazil,2,0,2,0
+5/04,Viet Nam,63,5,58,0
+5/04,United States,54,0,24,30
+5/04,United Kingdom,6,0,6,0
+5/04,Thailand,7,2,5,0
+5/04,Taiwan,100,8,25,67
+5/04,Switzerland,1,0,1,0
+5/04,Sweden,3,0,2,1
+5/04,Spain,1,0,1,0
+5/04,South Africa,1,0,1,0
+5/04,Slovenia,0,0,0,0
+5/04,Singapore,203,25,147,31
+5/04,Russian Federation,0,0,0,0
+5/04,Romania,1,0,1,0
+5/04,Republic of Korea,1,0,0,1
+5/04,Republic of Ireland,1,0,1,0
+5/04,Poland,1,0,0,1
+5/04,Philippines,3,2,1,0
+5/04,New Zealand,1,0,1,0
+5/04,Mongolia,8,0,4,4
+5/04,Malaysia,6,2,3,1
+5/04,Kuwait,1,0,1,0
+5/04,Japan,0,0,0,0
+5/04,Italy,9,0,4,5
+5/04,Indonesia,2,0,1,1
+5/04,India,0,0,0,0
+5/04,Germany,7,0,7,0
+5/04,France,5,0,4,1
+5/04,Finland,0,0,0,0
+5/04,Colombia,0,0,0,0
+5/04,China,5593,369,2304,2920
+5/04,Canada,149,22,94,33
+5/04,Bulgaria,1,0,0,1
+5/04,Australia,4,0,4,0
+5/05,Belgium,0,0,0,0
+5/05,Australia,4,0,4,0
+5/05,Viet Nam,63,5,58,0
+5/05,United States,61,0,26,35
+5/05,United Kingdom,6,0,6,0
+5/05,Thailand,7,2,5,0
+5/05,Taiwan,116,8,25,83
+5/05,Switzerland,1,0,1,0
+5/05,Sweden,3,0,2,1
+5/05,Spain,1,0,1,0
+5/05,South Africa,1,1,0,0
+5/05,Slovenia,0,0,0,0
+5/05,Singapore,204,26,149,29
+5/05,Russian Federation,0,0,0,0
+5/05,Romania,1,0,1,0
+5/05,Republic of Korea,1,0,0,1
+5/05,Republic of Ireland,1,0,1,0
+5/05,Poland,1,0,0,1
+5/05,Philippines,3,2,1,0
+5/05,New Zealand,1,0,1,0
+5/05,Mongolia,8,0,4,4
+5/05,Malaysia,7,2,4,1
+5/05,Kuwait,1,0,1,0
+5/05,Japan,0,0,0,0
+5/05,Italy,9,0,4,5
+5/05,Indonesia,2,0,1,1
+5/05,India,0,0,0,0
+5/05,Germany,7,0,7,0
+5/05,France,5,0,4,1
+5/05,Finland,0,0,0,0
+5/05,Colombia,0,0,0,0
+5/05,China,5918,393,2363,3162
+5/05,Canada,148,22,93,33
+5/05,Bulgaria,1,0,0,1
+5/05,Brazil,2,0,2,0
+5/06,Republic of Ireland,1,0,1,0
+5/06,Viet Nam,63,5,58,0
+5/06,United States,65,0,32,33
+5/06,United Kingdom,6,0,6,0
+5/06,Thailand,7,2,5,0
+5/06,Taiwan,116,10,25,81
+5/06,Switzerland,1,0,1,0
+5/06,Sweden,3,0,2,1
+5/06,Spain,1,0,1,0
+5/06,South Africa,1,1,0,0
+5/06,Slovenia,0,0,0,0
+5/06,Singapore,204,27,149,28
+5/06,Russian Federation,0,0,0,0
+5/06,Romania,1,0,1,0
+5/06,Republic of Korea,1,0,0,1
+5/06,Poland,1,0,0,1
+5/06,Philippines,3,2,1,0
+5/06,New Zealand,1,0,1,0
+5/06,Mongolia,8,0,4,4
+5/06,Malaysia,7,2,4,1
+5/06,Kuwait,1,0,1,0
+5/06,Japan,0,0,0,0
+5/06,Italy,9,0,4,5
+5/06,Indonesia,2,0,1,1
+5/06,India,1,0,0,1
+5/06,Germany,7,0,7,0
+5/06,France,5,0,4,1
+5/06,Finland,0,0,0,0
+5/06,Colombia,1,0,1,0
+5/06,China,6056,407,2418,3231
+5/06,Canada,148,22,93,33
+5/06,Bulgaria,1,0,0,1
+5/06,Brazil,2,0,2,0
+5/06,Australia,4,0,4,0
+5/06,Belgium,0,0,0,0
+5/07,United States,65,0,32,33
+5/07,Australia,4,0,4,0
+5/07,Bulgaria,1,0,0,1
+5/07,Canada,146,22,93,31
+5/07,Brazil,2,0,2,0
+5/07,China,6215,423,2471,3321
+5/07,Colombia,1,0,1,0
+5/07,Finland,0,0,0,0
+5/07,France,6,0,4,2
+5/07,Germany,8,0,7,1
+5/07,India,1,0,0,1
+5/07,Indonesia,2,0,1,1
+5/07,Italy,9,0,5,4
+5/07,Japan,0,0,0,0
+5/07,Kuwait,1,0,1,0
+5/07,Malaysia,7,2,4,1
+5/07,Belgium,0,0,0,0
+5/07,Mongolia,9,0,6,3
+5/07,New Zealand,1,0,1,0
+5/07,Philippines,10,2,2,6
+5/07,Poland,1,0,0,1
+5/07,Republic of Ireland,1,0,1,0
+5/07,Republic of Korea,1,0,0,1
+5/07,Romania,1,0,1,0
+5/07,Russian Federation,0,0,0,0
+5/07,Singapore,204,27,150,27
+5/07,Slovenia,0,0,0,0
+5/07,South Africa,1,1,0,0
+5/07,Spain,1,0,1,0
+5/07,Sweden,3,0,2,1
+5/07,Switzerland,1,0,1,0
+5/07,Taiwan,125,11,26,88
+5/07,Thailand,7,2,5,0
+5/07,United Kingdom,6,0,6,0
+5/07,Viet Nam,63,5,58,0
+5/08,Belgium,0,0,0,0
+5/08,Australia,4,0,4,0
+5/08,Brazil,2,0,2,0
+5/08,Bulgaria,1,0,0,1
+5/08,Canada,146,22,95,29
+5/08,China,6360,432,2537,3391
+5/08,Colombia,1,0,1,0
+5/08,Finland,1,0,0,1
+5/08,France,6,0,4,2
+5/08,Germany,8,0,7,1
+5/08,India,1,0,0,1
+5/08,Indonesia,2,0,1,1
+5/08,Italy,9,0,6,3
+5/08,Japan,0,0,0,0
+5/08,Kuwait,1,0,1,0
+5/08,Malaysia,7,2,4,1
+5/08,Mongolia,9,0,6,3
+5/08,New Zealand,1,0,1,0
+5/08,Philippines,10,2,2,6
+5/08,Poland,1,0,0,1
+5/08,Republic of Ireland,1,0,1,0
+5/08,Republic of Korea,1,0,1,0
+5/08,Romania,1,0,1,0
+5/08,Russian Federation,0,0,0,0
+5/08,Singapore,204,27,153,24
+5/08,Slovenia,0,0,0,0
+5/08,South Africa,1,1,0,0
+5/08,Spain,1,0,1,0
+5/08,Sweden,3,0,2,1
+5/08,Switzerland,1,0,1,0
+5/08,Taiwan,131,13,26,92
+5/08,Thailand,7,2,5,0
+5/08,United Kingdom,6,0,6,0
+5/08,United States,63,0,33,30
+5/08,Viet Nam,63,5,58,0
+5/09,Viet Nam,63,5,58,0
+5/09,Belgium,0,0,0,0
+5/09,Brazil,2,0,2,0
+5/09,Bulgaria,1,0,0,1
+5/09,Canada,145,22,94,29
+5/09,China,6472,440,2597,3435
+5/09,Colombia,1,0,1,0
+5/09,Finland,1,0,0,1
+5/09,France,6,0,4,2
+5/09,Germany,9,0,9,0
+5/09,India,1,0,0,1
+5/09,Indonesia,2,0,1,1
+5/09,Italy,9,0,9,0
+5/09,Japan,0,0,0,0
+5/09,Kuwait,1,0,1,0
+5/09,Malaysia,6,2,4,0
+5/09,Mongolia,9,0,6,3
+5/09,New Zealand,1,0,1,0
+5/09,Philippines,10,2,2,6
+5/09,Poland,1,0,0,1
+5/09,Republic of Ireland,1,0,1,0
+5/09,Republic of Korea,1,0,1,0
+5/09,Romania,1,0,1,0
+5/09,Russian Federation,0,0,0,0
+5/09,Singapore,204,27,153,24
+5/09,Slovenia,0,0,0,0
+5/09,South Africa,1,1,0,0
+5/09,Spain,1,0,1,0
+5/09,Sweden,3,0,2,1
+5/09,Switzerland,1,0,1,0
+5/09,Taiwan,149,13,26,110
+5/09,Thailand,7,2,5,0
+5/09,United Kingdom,6,0,6,0
+5/09,United States,63,0,33,30
+5/09,Australia,4,0,4,0
+5/10,Viet Nam,63,5,58,0
+5/10,United States,64,0,34,30
+5/10,United Kingdom,6,0,6,0
+5/10,Thailand,7,2,5,0
+5/10,Taiwan,172,18,26,128
+5/10,Switzerland,1,0,1,0
+5/10,Sweden,3,0,2,1
+5/10,Spain,1,0,1,0
+5/10,South Africa,1,1,0,0
+5/10,Slovenia,0,0,0,0
+5/10,Singapore,205,27,155,23
+5/10,Russian Federation,0,0,0,0
+5/10,Romania,1,0,1,0
+5/10,Republic of Korea,1,0,1,0
+5/10,Republic of Ireland,1,0,1,0
+5/10,Poland,1,0,0,1
+5/10,Philippines,10,2,2,6
+5/10,New Zealand,1,0,1,0
+5/10,Mongolia,9,0,6,3
+5/10,Malaysia,7,2,4,1
+5/10,Kuwait,1,0,1,0
+5/10,Japan,0,0,0,0
+5/10,Italy,9,0,9,0
+5/10,Indonesia,2,0,1,1
+5/10,India,1,0,0,1
+5/10,Germany,9,0,9,0
+5/10,France,7,0,4,3
+5/10,Finland,1,0,0,1
+5/10,Colombia,1,0,1,0
+5/10,China,6559,447,2655,3457
+5/10,Canada,145,22,97,26
+5/10,Bulgaria,1,0,0,1
+5/10,Brazil,2,0,2,0
+5/10,Belgium,0,0,0,0
+5/10,Australia,4,0,4,0
+5/11,Malaysia,7,2,4,1
+5/11,Australia,4,0,4,0
+5/11,Belgium,0,0,0,0
+5/11,Brazil,2,0,2,0
+5/11,Bulgaria,1,0,0,1
+5/11,Canada,145,22,97,26
+5/11,China,6559,447,2655,3457
+5/11,Colombia,1,0,1,0
+5/11,Finland,1,0,0,1
+5/11,France,7,0,4,3
+5/11,Germany,9,0,9,0
+5/11,India,1,0,0,1
+5/11,Indonesia,2,0,1,1
+5/11,Italy,9,0,9,0
+5/11,Japan,0,0,0,0
+5/11,Kuwait,1,0,1,0
+5/11,Mongolia,9,0,6,3
+5/11,New Zealand,1,0,1,0
+5/11,Philippines,10,2,2,6
+5/11,Poland,1,0,0,1
+5/11,Republic of Ireland,1,0,1,0
+5/11,Republic of Korea,1,0,1,0
+5/11,Romania,1,0,1,0
+5/11,Russian Federation,0,0,0,0
+5/11,Singapore,205,27,155,23
+5/11,Slovenia,0,0,0,0
+5/11,South Africa,1,1,0,0
+5/11,Spain,1,0,1,0
+5/11,Sweden,3,0,2,1
+5/11,Switzerland,1,0,1,0
+5/11,Taiwan,172,18,26,128
+5/11,Thailand,7,2,5,0
+5/11,United Kingdom,6,0,6,0
+5/11,United States,64,0,34,30
+5/11,Viet Nam,63,5,58,0
+5/12,Belgium,0,0,0,0
+5/12,United States,64,0,34,30
+5/12,United Kingdom,6,0,6,0
+5/12,Thailand,7,2,5,0
+5/12,Taiwan,184,20,26,138
+5/12,Switzerland,1,0,1,0
+5/12,Sweden,3,0,2,1
+5/12,Spain,1,0,1,0
+5/12,South Africa,1,1,0,0
+5/12,Slovenia,0,0,0,0
+5/12,Singapore,205,28,156,21
+5/12,Russian Federation,0,0,0,0
+5/12,Romania,1,0,1,0
+5/12,Republic of Korea,2,0,1,1
+5/12,Republic of Ireland,1,0,1,0
+5/12,Poland,1,0,0,1
+5/12,Australia,6,0,6,0
+5/12,Philippines,10,2,3,5
+5/12,New Zealand,1,0,1,0
+5/12,Mongolia,9,0,6,3
+5/12,Malaysia,7,2,4,1
+5/12,Kuwait,1,0,1,0
+5/12,Japan,0,0,0,0
+5/12,Italy,9,0,8,1
+5/12,Indonesia,2,0,1,1
+5/12,India,1,0,0,1
+5/12,Germany,9,0,9,0
+5/12,France,7,0,4,3
+5/12,Finland,1,0,0,1
+5/12,Colombia,1,0,1,0
+5/12,China,6697,470,2759,3468
+5/12,Canada,143,22,98,23
+5/12,Bulgaria,1,0,0,1
+5/12,Brazil,2,0,2,0
+5/12,Viet Nam,63,5,58,0
+5/13,Republic of Korea,2,0,1,1
+5/13,Australia,6,0,6,0
+5/13,Belgium,0,0,0,0
+5/13,Brazil,2,0,2,0
+5/13,Bulgaria,1,0,0,1
+5/13,Canada,143,22,99,22
+5/13,China,6758,487,2855,3416
+5/13,Colombia,1,0,1,0
+5/13,Finland,1,0,0,1
+5/13,France,7,0,4,3
+5/13,Germany,9,0,9,0
+5/13,India,3,0,0,3
+5/13,Indonesia,2,0,1,1
+5/13,Italy,9,0,9,0
+5/13,Japan,0,0,0,0
+5/13,Kuwait,1,0,1,0
+5/13,Malaysia,7,2,4,1
+5/13,Mongolia,9,0,6,3
+5/13,New Zealand,1,0,1,0
+5/13,Philippines,10,2,3,5
+5/13,Poland,0,0,0,0
+5/13,Republic of Ireland,1,0,1,0
+5/13,Romania,1,0,1,0
+5/13,Russian Federation,0,0,0,0
+5/13,Singapore,205,28,157,20
+5/13,Slovenia,0,0,0,0
+5/13,South Africa,1,1,0,0
+5/13,Spain,1,0,1,0
+5/13,Sweden,3,0,3,0
+5/13,Switzerland,1,0,1,0
+5/13,Taiwan,207,24,30,153
+5/13,Thailand,7,2,5,0
+5/13,United Kingdom,4,0,4,0
+5/13,United States,64,0,35,29
+5/13,Viet Nam,63,5,58,0
+5/14,Belgium,0,0,0,0
+5/14,Bulgaria,1,0,0,1
+5/14,Canada,143,23,104,16
+5/14,China,6823,494,2939,3390
+5/14,Colombia,1,0,1,0
+5/14,Finland,1,0,0,1
+5/14,France,7,0,4,3
+5/14,Germany,9,0,9,0
+5/14,India,3,0,0,3
+5/14,Indonesia,2,0,2,0
+5/14,Italy,9,0,9,0
+5/14,Japan,0,0,0,0
+5/14,Kuwait,1,0,1,0
+5/14,Malaysia,7,2,5,0
+5/14,Mongolia,9,0,6,3
+5/14,New Zealand,1,0,1,0
+5/14,Australia,6,0,6,0
+5/14,Philippines,10,2,3,5
+5/14,Poland,0,0,0,0
+5/14,Republic of Ireland,1,0,1,0
+5/14,Republic of Korea,3,0,1,2
+5/14,Romania,1,0,1,0
+5/14,Russian Federation,0,0,0,0
+5/14,Singapore,205,28,157,20
+5/14,Slovenia,0,0,0,0
+5/14,South Africa,1,1,0,0
+5/14,Spain,1,0,1,0
+5/14,Sweden,3,0,3,0
+5/14,Switzerland,1,0,1,0
+5/14,Taiwan,238,30,38,170
+5/14,Thailand,8,2,5,1
+5/14,United Kingdom,4,0,4,0
+5/14,United States,64,0,35,29
+5/14,Viet Nam,63,5,58,0
+5/14,Brazil,2,0,2,0
+5/15,Australia,6,0,6,0
+5/15,Viet Nam,63,5,58,0
+5/15,United States,64,0,35,29
+5/15,United Kingdom,4,0,4,0
+5/15,Thailand,8,2,5,1
+5/15,Taiwan,264,30,38,196
+5/15,Switzerland,1,0,1,0
+5/15,Sweden,3,0,3,0
+5/15,Spain,1,0,1,0
+5/15,South Africa,1,1,0,0
+5/15,Slovenia,0,0,0,0
+5/15,Singapore,205,28,157,20
+5/15,Russian Federation,0,0,0,0
+5/15,Romania,1,0,1,0
+5/15,Republic of Korea,3,0,1,2
+5/15,Republic of Ireland,1,0,1,0
+5/15,Poland,0,0,0,0
+5/15,Philippines,12,2,4,6
+5/15,New Zealand,1,0,1,0
+5/15,Mongolia,9,0,7,2
+5/15,Malaysia,7,2,5,0
+5/15,Kuwait,1,0,1,0
+5/15,Japan,0,0,0,0
+5/15,Italy,9,0,9,0
+5/15,Indonesia,2,0,2,0
+5/15,India,3,0,3,0
+5/15,Germany,9,0,9,0
+5/15,France,7,0,4,3
+5/15,Finland,1,0,0,1
+5/15,Colombia,1,0,1,0
+5/15,China,6867,505,3018,3344
+5/15,Canada,142,23,107,12
+5/15,Bulgaria,1,0,0,1
+5/15,Brazil,2,0,2,0
+5/15,Belgium,0,0,0,0
+5/16,New Zealand,1,0,1,0
+5/16,Viet Nam,63,5,58,0
+5/16,United States,65,0,34,31
+5/16,United Kingdom,4,0,4,0
+5/16,Thailand,8,2,5,1
+5/16,Taiwan,274,35,46,193
+5/16,Switzerland,1,0,1,0
+5/16,Sweden,3,0,3,0
+5/16,Spain,1,0,1,0
+5/16,South Africa,1,1,0,0
+5/16,Slovenia,0,0,0,0
+5/16,Singapore,205,28,157,20
+5/16,Russian Federation,0,0,0,0
+5/16,Romania,1,0,1,0
+5/16,Republic of Korea,3,0,1,2
+5/16,Republic of Ireland,1,0,1,0
+5/16,Poland,0,0,0,0
+5/16,Philippines,12,2,4,6
+5/16,Mongolia,9,0,7,2
+5/16,Malaysia,7,2,5,0
+5/16,Kuwait,1,0,1,0
+5/16,Japan,0,0,0,0
+5/16,Italy,9,0,9,0
+5/16,Indonesia,2,0,2,0
+5/16,India,3,0,3,0
+5/16,Germany,9,0,9,0
+5/16,France,7,0,4,3
+5/16,Finland,1,0,0,1
+5/16,Colombia,1,0,1,0
+5/16,China,6898,513,3118,3267
+5/16,Canada,140,23,106,11
+5/16,Bulgaria,1,0,0,1
+5/16,Brazil,2,0,2,0
+5/16,Belgium,0,0,0,0
+5/16,Australia,6,0,6,0
+5/17,Belgium,0,0,0,0
+5/17,United States,66,0,34,32
+5/17,United Kingdom,4,0,4,0
+5/17,Thailand,8,2,5,1
+5/17,Taiwan,274,35,46,193
+5/17,Switzerland,1,0,1,0
+5/17,Sweden,3,0,3,0
+5/17,Spain,1,0,1,0
+5/17,South Africa,1,1,0,0
+5/17,Slovenia,0,0,0,0
+5/17,Singapore,205,28,157,20
+5/17,Russian Federation,0,0,0,0
+5/17,Romania,1,0,1,0
+5/17,Republic of Korea,3,0,1,2
+5/17,Republic of Ireland,1,0,1,0
+5/17,Poland,0,0,0,0
+5/17,Philippines,12,2,4,6
+5/17,New Zealand,1,0,1,0
+5/17,Mongolia,9,0,7,2
+5/17,Malaysia,7,2,5,0
+5/17,Kuwait,1,0,1,0
+5/17,Japan,0,0,0,0
+5/17,Australia,6,0,6,0
+5/17,Italy,9,0,9,0
+5/17,Indonesia,2,0,2,0
+5/17,India,3,0,3,0
+5/17,Germany,9,0,9,0
+5/17,France,7,0,6,1
+5/17,Finland,1,0,0,1
+5/17,Colombia,1,0,1,0
+5/17,China,6920,525,3200,3195
+5/17,Canada,140,23,106,11
+5/17,Bulgaria,0,0,0,0
+5/17,Brazil,2,0,2,0
+5/17,Viet Nam,63,5,58,0
+5/18,Viet Nam,63,5,58,0
+5/18,Belgium,0,0,0,0
+5/18,Brazil,2,0,2,0
+5/18,Bulgaria,0,0,0,0
+5/18,Canada,140,23,106,11
+5/18,China,6920,525,3200,3195
+5/18,Colombia,1,0,1,0
+5/18,Finland,1,0,0,1
+5/18,France,7,0,6,1
+5/18,Germany,9,0,9,0
+5/18,India,3,0,3,0
+5/18,Indonesia,2,0,2,0
+5/18,Italy,9,0,9,0
+5/18,Japan,0,0,0,0
+5/18,Kuwait,1,0,1,0
+5/18,Malaysia,7,2,5,0
+5/18,Mongolia,9,0,7,2
+5/18,New Zealand,1,0,1,0
+5/18,Philippines,12,2,4,6
+5/18,Poland,0,0,0,0
+5/18,Republic of Ireland,1,0,1,0
+5/18,Republic of Korea,3,0,1,2
+5/18,Romania,1,0,1,0
+5/18,Russian Federation,0,0,0,0
+5/18,Singapore,205,28,157,20
+5/18,Slovenia,0,0,0,0
+5/18,South Africa,1,1,0,0
+5/18,Spain,1,0,1,0
+5/18,Sweden,3,0,3,0
+5/18,Switzerland,1,0,1,0
+5/18,Taiwan,274,35,46,193
+5/18,Thailand,8,2,5,1
+5/18,United Kingdom,4,0,4,0
+5/18,United States,66,0,34,32
+5/18,Australia,6,0,6,0
+5/19,Belgium,0,0,0,0
+5/19,Viet Nam,63,5,58,0
+5/19,United States,67,0,34,33
+5/19,United Kingdom,4,0,4,0
+5/19,Thailand,8,2,5,1
+5/19,Taiwan,344,40,50,254
+5/19,Switzerland,1,0,1,0
+5/19,Sweden,3,0,3,0
+5/19,Spain,1,0,1,0
+5/19,South Africa,1,1,0,0
+5/19,Slovenia,0,0,0,0
+5/19,Singapore,206,28,160,18
+5/19,Russian Federation,0,0,0,0
+5/19,Romania,1,0,1,0
+5/19,Republic of Korea,3,0,1,2
+5/19,Republic of Ireland,1,0,1,0
+5/19,Poland,0,0,0,0
+5/19,Philippines,12,2,8,2
+5/19,New Zealand,1,0,1,0
+5/19,Mongolia,9,0,8,1
+5/19,Malaysia,7,2,5,0
+5/19,Kuwait,1,0,1,0
+5/19,Japan,0,0,0,0
+5/19,Italy,9,0,9,0
+5/19,Indonesia,2,0,2,0
+5/19,India,3,0,3,0
+5/19,Germany,9,0,9,0
+5/19,France,7,0,6,1
+5/19,Finland,1,0,0,1
+5/19,Colombia,1,0,1,0
+5/19,China,6951,537,3361,3053
+5/19,Canada,140,23,106,11
+5/19,Bulgaria,0,0,0,0
+5/19,Brazil,2,0,2,0
+5/19,Australia,6,0,6,0
+5/20,Belgium,0,0,0,0
+5/20,Australia,6,0,6,0
+5/20,Brazil,2,0,2,0
+5/20,Bulgaria,0,0,0,0
+5/20,Canada,140,23,106,11
+5/20,China,6967,547,3483,2937
+5/20,Colombia,1,0,1,0
+5/20,Finland,1,0,0,1
+5/20,France,7,0,6,1
+5/20,Germany,9,0,9,0
+5/20,India,3,0,3,0
+5/20,Indonesia,2,0,2,0
+5/20,Italy,9,0,9,0
+5/20,Japan,0,0,0,0
+5/20,Kuwait,1,0,1,0
+5/20,Malaysia,7,2,5,0
+5/20,Mongolia,9,0,8,1
+5/20,New Zealand,1,0,1,0
+5/20,Philippines,12,2,8,2
+5/20,Poland,0,0,0,0
+5/20,Republic of Ireland,1,0,1,0
+5/20,Republic of Korea,3,0,2,1
+5/20,Romania,1,0,1,0
+5/20,Russian Federation,0,0,0,0
+5/20,Singapore,206,28,161,17
+5/20,Slovenia,0,0,0,0
+5/20,South Africa,1,1,0,0
+5/20,Spain,1,0,1,0
+5/20,Sweden,3,0,3,0
+5/20,Switzerland,1,0,1,0
+5/20,Taiwan,383,52,63,268
+5/20,Thailand,8,2,5,1
+5/20,United Kingdom,4,0,4,0
+5/20,United States,67,0,34,33
+5/20,Viet Nam,63,5,58,0
+5/21,Viet Nam,63,5,58,0
+5/21,Belgium,0,0,0,0
+5/21,Brazil,2,0,2,0
+5/21,Bulgaria,0,0,0,0
+5/21,Canada,140,23,108,9
+5/21,China,6968,551,3572,2845
+5/21,Colombia,1,0,1,0
+5/21,Finland,1,0,1,0
+5/21,France,7,0,6,1
+5/21,Germany,9,0,9,0
+5/21,India,3,0,3,0
+5/21,Indonesia,2,0,2,0
+5/21,Italy,9,0,9,0
+5/21,Japan,0,0,0,0
+5/21,Kuwait,1,0,1,0
+5/21,Malaysia,8,2,5,1
+5/21,Mongolia,9,0,8,1
+5/21,New Zealand,1,0,1,0
+5/21,Philippines,12,2,10,0
+5/21,Poland,0,0,0,0
+5/21,Republic of Ireland,1,0,1,0
+5/21,Republic of Korea,3,0,2,1
+5/21,Romania,1,0,1,0
+5/21,Russian Federation,0,0,0,0
+5/21,Singapore,206,28,161,17
+5/21,Slovenia,0,0,0,0
+5/21,South Africa,1,1,0,0
+5/21,Spain,1,0,1,0
+5/21,Sweden,3,0,3,0
+5/21,Switzerland,1,0,1,0
+5/21,Taiwan,418,52,71,295
+5/21,Thailand,8,2,5,1
+5/21,United Kingdom,4,0,4,0
+5/21,United States,66,0,33,33
+5/21,Australia,6,0,6,0
+5/22,Australia,6,0,6,0
+5/22,Belgium,0,0,0,0
+5/22,Brazil,2,0,2,0
+5/22,Bulgaria,0,0,0,0
+5/22,Canada,140,23,109,8
+5/22,China,6995,558,3692,2745
+5/22,Colombia,1,0,1,0
+5/22,Finland,1,0,1,0
+5/22,France,7,0,6,1
+5/22,Germany,9,0,9,0
+5/22,India,3,0,3,0
+5/22,Indonesia,2,0,2,0
+5/22,Italy,9,0,9,0
+5/22,Japan,0,0,0,0
+5/22,Kuwait,1,0,1,0
+5/22,Malaysia,8,2,5,1
+5/22,Mongolia,9,0,8,1
+5/22,New Zealand,1,0,1,0
+5/22,Philippines,12,2,10,0
+5/22,Poland,0,0,0,0
+5/22,Republic of Ireland,1,0,1,0
+5/22,Republic of Korea,3,0,2,1
+5/22,Romania,1,0,1,0
+5/22,Russian Federation,0,0,0,0
+5/22,Singapore,206,29,162,15
+5/22,Slovenia,0,0,0,0
+5/22,South Africa,1,1,0,0
+5/22,Spain,1,0,1,0
+5/22,Sweden,3,0,3,0
+5/22,Switzerland,1,0,1,0
+5/22,Taiwan,483,60,74,349
+5/22,Thailand,8,2,5,1
+5/22,United Kingdom,4,0,4,0
+5/22,United States,65,0,33,32
+5/22,Viet Nam,63,5,58,0
+5/23,Philippines,12,2,10,0
+5/23,Viet Nam,63,5,58,0
+5/23,United States,65,0,33,32
+5/23,United Kingdom,4,0,4,0
+5/23,Thailand,8,2,5,1
+5/23,Taiwan,538,60,82,396
+5/23,Switzerland,1,0,1,0
+5/23,Sweden,3,0,3,0
+5/23,Spain,1,0,1,0
+5/23,South Africa,1,1,0,0
+5/23,Slovenia,0,0,0,0
+5/23,Singapore,206,31,163,12
+5/23,Russian Federation,0,0,0,0
+5/23,Romania,1,0,1,0
+5/23,Republic of Korea,3,0,2,1
+5/23,Republic of Ireland,1,0,1,0
+5/23,Poland,0,0,0,0
+5/23,New Zealand,1,0,1,0
+5/23,Mongolia,9,0,8,1
+5/23,Malaysia,8,2,5,1
+5/23,Kuwait,1,0,1,0
+5/23,Japan,0,0,0,0
+5/23,Italy,9,0,9,0
+5/23,Indonesia,2,0,2,0
+5/23,India,3,0,3,0
+5/23,Germany,9,0,9,0
+5/23,France,7,0,6,1
+5/23,Finland,1,0,1,0
+5/23,Colombia,1,0,1,0
+5/23,China,7011,563,3799,2649
+5/23,Canada,140,23,109,8
+5/23,Bulgaria,0,0,0,0
+5/23,Brazil,2,0,2,0
+5/23,Belgium,0,0,0,0
+5/23,Australia,6,0,6,0
+5/24,Viet Nam,63,5,58,0
+5/24,Australia,6,0,6,0
+5/24,Belgium,0,0,0,0
+5/24,Brazil,2,0,2,0
+5/24,Bulgaria,0,0,0,0
+5/24,Canada,140,23,109,8
+5/24,China,7035,570,3911,2554
+5/24,Colombia,1,0,1,0
+5/24,Finland,1,0,1,0
+5/24,France,7,0,6,1
+5/24,Germany,9,0,9,0
+5/24,India,3,0,3,0
+5/24,Indonesia,2,0,2,0
+5/24,Italy,9,0,9,0
+5/24,Japan,0,0,0,0
+5/24,Kuwait,1,0,1,0
+5/24,Malaysia,8,2,5,1
+5/24,Mongolia,9,0,8,1
+5/24,New Zealand,1,0,1,0
+5/24,Philippines,12,2,10,0
+5/24,Poland,0,0,0,0
+5/24,Republic of Ireland,1,0,1,0
+5/24,Republic of Korea,3,0,2,1
+5/24,Romania,1,0,1,0
+5/24,Russian Federation,0,0,0,0
+5/24,Singapore,206,31,163,12
+5/24,Slovenia,0,0,0,0
+5/24,South Africa,1,1,0,0
+5/24,Spain,1,0,1,0
+5/24,Sweden,3,0,3,0
+5/24,Switzerland,1,0,1,0
+5/24,Taiwan,538,60,82,396
+5/24,Thailand,8,2,5,1
+5/24,United Kingdom,4,0,4,0
+5/24,United States,65,0,33,32
+5/25,Australia,6,0,6,0
+5/25,United Kingdom,4,0,4,0
+5/25,Thailand,8,2,5,1
+5/25,Taiwan,538,60,82,396
+5/25,Switzerland,1,0,1,0
+5/25,Sweden,3,0,3,0
+5/25,Spain,1,0,1,0
+5/25,South Africa,1,1,0,0
+5/25,Slovenia,0,0,0,0
+5/25,Singapore,206,31,163,12
+5/25,Russian Federation,0,0,0,0
+5/25,Romania,1,0,1,0
+5/25,Republic of Korea,3,0,2,1
+5/25,Republic of Ireland,1,0,1,0
+5/25,Poland,0,0,0,0
+5/25,Philippines,12,2,10,0
+5/25,New Zealand,1,0,1,0
+5/25,Viet Nam,63,5,58,0
+5/25,Mongolia,9,0,8,1
+5/25,Malaysia,8,2,5,1
+5/25,Kuwait,1,0,1,0
+5/25,Japan,0,0,0,0
+5/25,Italy,9,0,9,0
+5/25,Indonesia,2,0,2,0
+5/25,India,3,0,3,0
+5/25,Germany,9,0,9,0
+5/25,France,7,0,6,1
+5/25,Finland,1,0,1,0
+5/25,Colombia,1,0,1,0
+5/25,China,7035,570,3911,2554
+5/25,Canada,140,23,109,8
+5/25,Bulgaria,0,0,0,0
+5/25,Brazil,2,0,2,0
+5/25,Belgium,0,0,0,0
+5/25,United States,65,0,33,32
+5/26,New Zealand,1,0,1,0
+5/26,Australia,6,0,6,0
+5/26,Belgium,0,0,0,0
+5/26,Brazil,2,0,2,0
+5/26,Bulgaria,0,0,0,0
+5/26,Canada,148,26,110,12
+5/26,China,7044,584,4105,2355
+5/26,Colombia,1,0,1,0
+5/26,Finland,1,0,1,0
+5/26,France,7,0,6,1
+5/26,Germany,9,0,9,0
+5/26,India,3,0,3,0
+5/26,Indonesia,2,0,2,0
+5/26,Italy,9,0,9,0
+5/26,Japan,0,0,0,0
+5/26,Kuwait,1,0,1,0
+5/26,Malaysia,5,2,3,0
+5/26,Mongolia,9,0,8,1
+5/26,Philippines,12,2,10,0
+5/26,Poland,0,0,0,0
+5/26,Republic of Ireland,1,0,1,0
+5/26,Republic of Korea,3,0,2,1
+5/26,Romania,1,0,1,0
+5/26,Russian Federation,0,0,0,0
+5/26,Singapore,206,31,163,12
+5/26,Slovenia,0,0,0,0
+5/26,South Africa,1,1,0,0
+5/26,Spain,1,0,1,0
+5/26,Sweden,3,0,3,0
+5/26,Switzerland,1,0,1,0
+5/26,Taiwan,585,72,112,401
+5/26,Thailand,8,2,6,0
+5/26,United Kingdom,4,0,4,0
+5/26,United States,65,0,33,32
+5/26,Viet Nam,63,5,58,0
+5/27,Belgium,0,0,0,0
+5/27,United States,65,0,32,33
+5/27,United Kingdom,4,0,4,0
+5/27,Thailand,8,2,6,0
+5/27,Taiwan,596,76,112,408
+5/27,Switzerland,1,0,1,0
+5/27,Sweden,3,0,3,0
+5/27,Spain,1,0,1,0
+5/27,South Africa,1,1,0,0
+5/27,Slovenia,0,0,0,0
+5/27,Singapore,206,31,163,12
+5/27,Russian Federation,0,0,0,0
+5/27,Romania,1,0,1,0
+5/27,Republic of Korea,3,0,2,1
+5/27,Republic of Ireland,1,0,1,0
+5/27,Poland,0,0,0,0
+5/27,Philippines,12,2,10,0
+5/27,Australia,6,0,6,0
+5/27,New Zealand,1,0,1,0
+5/27,Mongolia,9,0,9,0
+5/27,Malaysia,5,2,3,0
+5/27,Kuwait,1,0,1,0
+5/27,Japan,0,0,0,0
+5/27,Italy,9,0,9,0
+5/27,Indonesia,2,0,2,0
+5/27,India,3,0,3,0
+5/27,Germany,9,0,9,0
+5/27,France,7,0,6,1
+5/27,Finland,1,0,1,0
+5/27,Colombia,1,0,1,0
+5/27,China,7052,590,4229,2233
+5/27,Canada,148,26,111,11
+5/27,Bulgaria,0,0,0,0
+5/27,Brazil,2,0,2,0
+5/27,Viet Nam,63,5,58,0
+5/28,South Africa,1,1,0,0
+5/28,Australia,6,0,6,0
+5/28,Belgium,0,0,0,0
+5/28,Brazil,2,0,2,0
+5/28,Bulgaria,0,0,0,0
+5/28,Canada,149,26,111,12
+5/28,China,7055,595,4331,2129
+5/28,Colombia,1,0,1,0
+5/28,Finland,1,0,1,0
+5/28,France,7,0,6,1
+5/28,Germany,9,0,9,0
+5/28,India,3,0,3,0
+5/28,Indonesia,2,0,2,0
+5/28,Italy,9,0,9,0
+5/28,Japan,0,0,0,0
+5/28,Kuwait,1,0,1,0
+5/28,Malaysia,5,2,3,0
+5/28,Mongolia,9,0,9,0
+5/28,New Zealand,1,0,1,0
+5/28,Philippines,12,2,10,0
+5/28,Poland,0,0,0,0
+5/28,Republic of Ireland,1,0,1,0
+5/28,Republic of Korea,3,0,2,1
+5/28,Romania,1,0,1,0
+5/28,Russian Federation,0,0,0,0
+5/28,Singapore,206,31,165,10
+5/28,Slovenia,0,0,0,0
+5/28,Spain,1,0,1,0
+5/28,Sweden,3,0,3,0
+5/28,Switzerland,1,0,1,0
+5/28,Taiwan,610,81,112,417
+5/28,Thailand,8,2,6,0
+5/28,United Kingdom,4,0,4,0
+5/28,United States,66,0,32,34
+5/28,Viet Nam,63,5,58,0
+5/29,Viet Nam,63,5,58,0
+5/29,Belgium,0,0,0,0
+5/29,Brazil,2,0,2,0
+5/29,Bulgaria,0,0,0,0
+5/29,Canada,151,26,112,13
+5/29,China,7058,600,4423,2035
+5/29,Colombia,1,0,1,0
+5/29,Finland,1,0,1,0
+5/29,France,7,0,6,1
+5/29,Australia,6,0,6,0
+5/29,Germany,9,0,9,0
+5/29,India,3,0,3,0
+5/29,Indonesia,2,0,2,0
+5/29,Italy,9,0,9,0
+5/29,Japan,0,0,0,0
+5/29,Kuwait,1,0,1,0
+5/29,Malaysia,5,2,3,0
+5/29,Mongolia,9,0,9,0
+5/29,New Zealand,1,0,1,0
+5/29,Philippines,12,2,10,0
+5/29,Poland,0,0,0,0
+5/29,Republic of Ireland,1,0,1,0
+5/29,Republic of Korea,3,0,2,1
+5/29,Romania,1,0,1,0
+5/29,Russian Federation,0,0,0,0
+5/29,Singapore,206,31,165,10
+5/29,Slovenia,0,0,0,0
+5/29,South Africa,1,1,0,0
+5/29,Spain,1,0,1,0
+5/29,Sweden,3,0,3,0
+5/29,Switzerland,1,0,1,0
+5/29,Taiwan,660,81,122,457
+5/29,Thailand,8,2,6,0
+5/29,United Kingdom,4,0,4,0
+5/29,United States,66,0,32,34
+5/30,Brazil,2,0,2,0
+5/30,Australia,6,0,6,0
+5/30,Viet Nam,63,5,58,0
+5/30,United States,66,0,32,34
+5/30,United Kingdom,4,0,4,0
+5/30,Thailand,8,2,6,0
+5/30,Taiwan,667,81,125,461
+5/30,Switzerland,1,0,1,0
+5/30,Sweden,3,0,3,0
+5/30,Spain,1,0,1,0
+5/30,South Africa,1,1,0,0
+5/30,Slovenia,0,0,0,0
+5/30,Singapore,206,31,165,10
+5/30,Russian Federation,0,0,0,0
+5/30,Romania,1,0,1,0
+5/30,Republic of Korea,3,0,3,0
+5/30,Republic of Ireland,1,0,1,0
+5/30,Poland,0,0,0,0
+5/30,Philippines,12,2,10,0
+5/30,New Zealand,1,0,1,0
+5/30,Mongolia,9,0,9,0
+5/30,Malaysia,5,2,3,0
+5/30,Kuwait,1,0,1,0
+5/30,Japan,0,0,0,0
+5/30,Italy,9,0,9,0
+5/30,Indonesia,2,0,2,0
+5/30,India,3,0,3,0
+5/30,Germany,9,0,9,0
+5/30,France,7,0,6,1
+5/30,Finland,1,0,1,0
+5/30,Colombia,1,0,1,0
+5/30,China,7092,602,4554,1936
+5/30,Canada,159,28,112,19
+5/30,Bulgaria,0,0,0,0
+5/30,Belgium,0,0,0,0
+5/31,Brazil,2,0,2,0
+5/31,Australia,6,0,6,0
+5/31,Viet Nam,63,5,58,0
+5/31,United States,66,0,32,34
+5/31,United Kingdom,4,0,4,0
+5/31,Thailand,8,2,6,0
+5/31,Taiwan,676,81,129,466
+5/31,Switzerland,1,0,1,0
+5/31,Sweden,3,0,3,0
+5/31,Spain,1,0,1,0
+5/31,South Africa,1,1,0,0
+5/31,Slovenia,0,0,0,0
+5/31,Singapore,206,31,165,10
+5/31,Russian Federation,1,0,0,1
+5/31,Romania,1,0,1,0
+5/31,Republic of Korea,3,0,3,0
+5/31,Republic of Ireland,1,0,1,0
+5/31,Poland,0,0,0,0
+5/31,Philippines,12,2,10,0
+5/31,New Zealand,1,0,1,0
+5/31,Mongolia,9,0,9,0
+5/31,Malaysia,5,2,3,0
+5/31,Kuwait,1,0,1,0
+5/31,Japan,0,0,0,0
+5/31,Italy,9,0,9,0
+5/31,Indonesia,2,0,2,0
+5/31,India,3,0,3,0
+5/31,Germany,10,0,9,1
+5/31,France,7,0,6,1
+5/31,Finland,1,0,1,0
+5/31,Colombia,1,0,1,0
+5/31,China,7068,610,4681,1777
+5/31,Canada,188,30,116,42
+5/31,Bulgaria,0,0,0,0
+5/31,Belgium,0,0,0,0
+6/01,Belgium,0,0,0,0
+6/01,Canada,188,30,116,42
+6/01,China,7068,610,4681,1777
+6/01,Colombia,1,0,1,0
+6/01,Finland,1,0,1,0
+6/01,France,7,0,6,1
+6/01,Germany,10,0,9,1
+6/01,India,3,0,3,0
+6/01,Indonesia,2,0,2,0
+6/01,Italy,9,0,9,0
+6/01,Japan,0,0,0,0
+6/01,Kuwait,1,0,1,0
+6/01,Malaysia,5,2,3,0
+6/01,Mongolia,9,0,9,0
+6/01,New Zealand,1,0,1,0
+6/01,Philippines,12,2,10,0
+6/01,Poland,0,0,0,0
+6/01,Republic of Ireland,1,0,1,0
+6/01,Republic of Korea,3,0,3,0
+6/01,Romania,1,0,1,0
+6/01,Russian Federation,1,0,0,1
+6/01,Singapore,206,31,165,10
+6/01,Slovenia,0,0,0,0
+6/01,South Africa,1,1,0,0
+6/01,Spain,1,0,1,0
+6/01,Sweden,3,0,3,0
+6/01,Switzerland,1,0,1,0
+6/01,Taiwan,676,81,129,466
+6/01,Thailand,8,2,6,0
+6/01,United Kingdom,4,0,4,0
+6/01,United States,66,0,32,34
+6/01,Viet Nam,63,5,58,0
+6/01,Brazil,2,0,2,0
+6/01,Australia,6,0,6,0
+6/01,Bulgaria,0,0,0,0
+6/02,Spain,1,0,1,0
+6/02,Belgium,0,0,0,0
+6/02,Australia,5,0,5,0
+6/02,Brazil,2,0,2,0
+6/02,Bulgaria,0,0,0,0
+6/02,Canada,198,30,116,52
+6/02,China,7075,616,4815,1644
+6/02,Colombia,1,0,1,0
+6/02,Finland,1,0,1,0
+6/02,France,7,0,6,1
+6/02,Germany,10,0,9,1
+6/02,India,3,0,3,0
+6/02,Indonesia,2,0,2,0
+6/02,Italy,9,0,9,0
+6/02,Japan,0,0,0,0
+6/02,Kuwait,1,0,1,0
+6/02,Malaysia,5,2,3,0
+6/02,Mongolia,9,0,9,0
+6/02,New Zealand,1,0,1,0
+6/02,Philippines,12,2,10,0
+6/02,Poland,0,0,0,0
+6/02,Republic of Ireland,1,0,1,0
+6/02,Republic of Korea,3,0,3,0
+6/02,Romania,1,0,1,0
+6/02,Russian Federation,1,0,0,1
+6/02,Singapore,206,31,165,10
+6/02,Slovenia,0,0,0,0
+6/02,South Africa,1,1,0,0
+6/02,Viet Nam,63,5,58,0
+6/02,Sweden,3,0,3,0
+6/02,Switzerland,1,0,1,0
+6/02,Taiwan,684,81,134,469
+6/02,Thailand,8,2,6,0
+6/02,United States,66,0,32,34
+6/02,United Kingdom,4,0,4,0
+6/03,Canada,213,31,116,66
+6/03,Viet Nam,63,5,58,0
+6/03,United States,68,0,33,35
+6/03,United Kingdom,4,0,4,0
+6/03,Thailand,8,2,6,0
+6/03,Taiwan,679,81,136,462
+6/03,Switzerland,1,0,1,0
+6/03,Sweden,3,0,3,0
+6/03,Spain,1,0,1,0
+6/03,South Africa,1,1,0,0
+6/03,Slovenia,0,0,0,0
+6/03,Singapore,206,31,165,10
+6/03,Russian Federation,1,0,0,1
+6/03,Romania,1,0,1,0
+6/03,Republic of Korea,3,0,3,0
+6/03,Republic of Ireland,1,0,1,0
+6/03,Poland,0,0,0,0
+6/03,Philippines,12,2,10,0
+6/03,New Zealand,1,0,1,0
+6/03,Mongolia,9,0,9,0
+6/03,Malaysia,5,2,3,0
+6/03,Kuwait,1,0,1,0
+6/03,Japan,0,0,0,0
+6/03,Italy,9,0,9,0
+6/03,Indonesia,2,0,2,0
+6/03,India,3,0,3,0
+6/03,Germany,10,0,9,1
+6/03,France,7,0,6,1
+6/03,Finland,1,0,1,0
+6/03,Colombia,1,0,1,0
+6/03,China,7077,617,4885,1575
+6/03,Bulgaria,0,0,0,0
+6/03,Brazil,2,0,2,0
+6/03,Belgium,0,0,0,0
+6/03,Australia,5,0,5,0
+6/04,Belgium,0,0,0,0
+6/04,Australia,5,0,5,0
+6/04,Canada,216,31,121,64
+6/04,China,7078,617,5014,1447
+6/04,Colombia,1,0,1,0
+6/04,Finland,1,0,1,0
+6/04,France,7,0,6,1
+6/04,Germany,10,0,9,1
+6/04,India,3,0,3,0
+6/04,Indonesia,2,0,2,0
+6/04,Italy,9,0,9,0
+6/04,Japan,0,0,0,0
+6/04,Kuwait,1,0,1,0
+6/04,Malaysia,5,2,3,0
+6/04,Mongolia,9,0,9,0
+6/04,New Zealand,1,0,1,0
+6/04,Philippines,12,2,10,0
+6/04,Poland,0,0,0,0
+6/04,Republic of Ireland,1,0,1,0
+6/04,Republic of Korea,3,0,3,0
+6/04,Romania,1,0,1,0
+6/04,Russian Federation,1,0,0,1
+6/04,Singapore,206,31,165,10
+6/04,Slovenia,0,0,0,0
+6/04,South Africa,1,1,0,0
+6/04,Spain,1,0,1,0
+6/04,Sweden,3,0,3,0
+6/04,Switzerland,1,0,1,0
+6/04,Taiwan,678,81,272,325
+6/04,Thailand,8,2,6,0
+6/04,United Kingdom,4,0,4,0
+6/04,United States,69,0,34,35
+6/04,Viet Nam,63,5,58,0
+6/04,Brazil,2,0,2,0
+6/04,Bulgaria,0,0,0,0
+6/05,France,7,0,6,1
+6/05,Viet Nam,63,5,58,0
+6/05,United States,69,0,34,35
+6/05,United Kingdom,4,0,4,0
+6/05,Thailand,8,2,6,0
+6/05,Taiwan,677,81,257,339
+6/05,Switzerland,1,0,1,0
+6/05,Sweden,3,0,3,0
+6/05,Spain,1,0,1,0
+6/05,South Africa,1,1,0,0
+6/05,Slovenia,0,0,0,0
+6/05,Singapore,206,31,165,10
+6/05,Russian Federation,1,0,0,1
+6/05,Romania,1,0,1,0
+6/05,Republic of Korea,3,0,3,0
+6/05,Republic of Ireland,1,0,1,0
+6/05,Poland,0,0,0,0
+6/05,Philippines,12,2,10,0
+6/05,New Zealand,1,0,1,0
+6/05,Mongolia,9,0,9,0
+6/05,Malaysia,5,2,3,0
+6/05,Kuwait,1,0,1,0
+6/05,Japan,0,0,0,0
+6/05,Italy,9,0,9,0
+6/05,Indonesia,2,0,2,0
+6/05,India,3,0,3,0
+6/05,Germany,10,0,9,1
+6/05,Belgium,0,0,0,0
+6/05,Finland,1,0,1,0
+6/05,Colombia,1,0,1,0
+6/05,China,7078,620,5114,1344
+6/05,Canada,218,31,120,67
+6/05,Bulgaria,0,0,0,0
+6/05,Brazil,2,0,2,0
+6/05,Australia,5,0,5,0
+6/06,New Zealand,1,0,1,0
+6/06,Australia,5,0,5,0
+6/06,Belgium,0,0,0,0
+6/06,Brazil,2,0,2,0
+6/06,Bulgaria,0,0,0,0
+6/06,Canada,219,31,120,68
+6/06,China,7080,624,5220,1236
+6/06,Colombia,1,0,1,0
+6/06,Finland,1,0,1,0
+6/06,France,7,0,6,1
+6/06,Germany,10,0,9,1
+6/06,India,3,0,3,0
+6/06,Indonesia,2,0,2,0
+6/06,Italy,9,0,9,0
+6/06,Japan,0,0,0,0
+6/06,Kuwait,1,0,1,0
+6/06,Malaysia,5,2,3,0
+6/06,Mongolia,9,0,9,0
+6/06,Philippines,12,2,10,0
+6/06,Poland,0,0,0,0
+6/06,Republic of Ireland,1,0,1,0
+6/06,Republic of Korea,3,0,3,0
+6/06,Romania,1,0,1,0
+6/06,Russian Federation,1,0,0,1
+6/06,Singapore,206,31,165,10
+6/06,Slovenia,0,0,0,0
+6/06,South Africa,1,1,0,0
+6/06,Spain,1,0,1,0
+6/06,Sweden,3,0,3,0
+6/06,Switzerland,1,0,1,0
+6/06,Taiwan,676,81,257,338
+6/06,Thailand,8,2,6,0
+6/06,United Kingdom,4,0,4,0
+6/06,United States,68,0,35,33
+6/06,Viet Nam,63,5,58,0
+6/07,Brazil,2,0,2,0
+6/07,Belgium,0,0,0,0
+6/07,Viet Nam,63,5,58,0
+6/07,United States,68,0,35,33
+6/07,United Kingdom,4,0,4,0
+6/07,Thailand,8,2,6,0
+6/07,Taiwan,676,81,257,338
+6/07,Switzerland,1,0,1,0
+6/07,Sweden,3,0,3,0
+6/07,Spain,1,0,1,0
+6/07,South Africa,1,1,0,0
+6/07,Slovenia,0,0,0,0
+6/07,Singapore,206,31,165,10
+6/07,Russian Federation,1,0,0,1
+6/07,Romania,1,0,1,0
+6/07,Republic of Korea,3,0,3,0
+6/07,Republic of Ireland,1,0,1,0
+6/07,Poland,0,0,0,0
+6/07,Philippines,12,2,10,0
+6/07,New Zealand,1,0,1,0
+6/07,Mongolia,9,0,9,0
+6/07,Malaysia,5,2,3,0
+6/07,Kuwait,1,0,1,0
+6/07,Japan,0,0,0,0
+6/07,Italy,9,0,9,0
+6/07,Indonesia,2,0,2,0
+6/07,India,3,0,3,0
+6/07,Germany,10,0,9,1
+6/07,France,7,0,6,1
+6/07,Finland,1,0,1,0
+6/07,Colombia,1,0,1,0
+6/07,China,7080,624,5220,1236
+6/07,Canada,219,31,120,68
+6/07,Bulgaria,0,0,0,0
+6/07,Australia,5,0,5,0
+6/08,Australia,5,0,5,0
+6/08,Viet Nam,63,5,58,0
+6/08,United States,68,0,35,33
+6/08,United Kingdom,4,0,4,0
+6/08,Thailand,8,2,6,0
+6/08,Taiwan,676,81,257,338
+6/08,Switzerland,1,0,1,0
+6/08,Sweden,3,0,3,0
+6/08,Spain,1,0,1,0
+6/08,South Africa,1,1,0,0
+6/08,Slovenia,0,0,0,0
+6/08,Singapore,206,31,165,10
+6/08,Russian Federation,1,0,0,1
+6/08,Romania,1,0,1,0
+6/08,Republic of Korea,3,0,3,0
+6/08,Republic of Ireland,1,0,1,0
+6/08,Poland,0,0,0,0
+6/08,Philippines,12,2,10,0
+6/08,New Zealand,1,0,1,0
+6/08,Mongolia,9,0,9,0
+6/08,Malaysia,5,2,3,0
+6/08,Kuwait,1,0,1,0
+6/08,Japan,0,0,0,0
+6/08,Italy,9,0,9,0
+6/08,Indonesia,2,0,2,0
+6/08,India,3,0,3,0
+6/08,Germany,10,0,9,1
+6/08,France,7,0,6,1
+6/08,Finland,1,0,1,0
+6/08,Colombia,1,0,1,0
+6/08,China,7080,624,5220,1236
+6/08,Canada,219,31,120,68
+6/08,Bulgaria,0,0,0,0
+6/08,Brazil,2,0,2,0
+6/08,Belgium,0,0,0,0
+6/09,United States,68,0,35,33
+6/09,Thailand,9,2,6,1
+6/09,Taiwan,680,81,257,342
+6/09,Switzerland,1,0,1,0
+6/09,Sweden,3,0,3,0
+6/09,Spain,1,0,1,0
+6/09,South Africa,1,1,0,0
+6/09,Slovenia,0,0,0,0
+6/09,Singapore,206,31,168,7
+6/09,Russian Federation,1,0,0,1
+6/09,Romania,1,0,1,0
+6/09,Republic of Korea,3,0,3,0
+6/09,Republic of Ireland,1,0,1,0
+6/09,Poland,0,0,0,0
+6/09,Philippines,12,2,10,0
+6/09,New Zealand,1,0,1,0
+6/09,Mongolia,9,0,9,0
+6/09,Malaysia,5,2,3,0
+6/09,Kuwait,1,0,1,0
+6/09,Japan,0,0,0,0
+6/09,Italy,9,0,9,0
+6/09,Indonesia,2,0,2,0
+6/09,India,3,0,3,0
+6/09,Germany,10,0,9,1
+6/09,France,7,0,6,1
+6/09,Finland,1,0,1,0
+6/09,Colombia,1,0,1,0
+6/09,China,7082,628,5552,902
+6/09,Canada,229,32,128,69
+6/09,Bulgaria,0,0,0,0
+6/09,Brazil,2,0,2,0
+6/09,Belgium,0,0,0,0
+6/09,Australia,5,0,5,0
+6/09,Viet Nam,63,5,58,0
+6/09,United Kingdom,4,0,4,0
+6/10,Bulgaria,0,0,0,0
+6/10,Brazil,3,0,2,1
+6/10,Australia,5,0,5,0
+6/10,Belgium,0,0,0,0
+6/10,Viet Nam,63,5,58,0
+6/10,United States,69,0,36,33
+6/10,United Kingdom,4,0,4,0
+6/10,Thailand,9,2,6,1
+6/10,Taiwan,686,81,319,286
+6/10,Switzerland,1,0,1,0
+6/10,Sweden,3,0,3,0
+6/10,Spain,1,0,1,0
+6/10,South Africa,1,1,0,0
+6/10,Slovenia,0,0,0,0
+6/10,Singapore,206,31,168,7
+6/10,Russian Federation,1,0,0,1
+6/10,Romania,1,0,1,0
+6/10,Republic of Korea,3,0,3,0
+6/10,Republic of Ireland,1,0,1,0
+6/10,Poland,0,0,0,0
+6/10,Philippines,12,2,10,0
+6/10,New Zealand,1,0,1,0
+6/10,Mongolia,9,0,9,0
+6/10,Malaysia,5,2,3,0
+6/10,Kuwait,1,0,1,0
+6/10,Japan,0,0,0,0
+6/10,Italy,9,0,9,0
+6/10,Indonesia,2,0,2,0
+6/10,India,3,0,3,0
+6/10,Germany,10,0,9,1
+6/10,France,7,0,6,1
+6/10,Finland,1,0,1,0
+6/10,Colombia,1,0,1,0
+6/10,China,7083,633,5663,787
+6/10,Canada,229,32,131,66
+6/11,Canada,230,32,134,64
+6/11,United States,71,0,36,35
+6/11,United Kingdom,4,0,4,0
+6/11,Thailand,9,2,6,1
+6/11,Taiwan,687,81,344,262
+6/11,Switzerland,1,0,1,0
+6/11,Sweden,3,0,3,0
+6/11,Spain,1,0,1,0
+6/11,South Africa,1,1,0,0
+6/11,Slovenia,0,0,0,0
+6/11,Singapore,206,31,168,7
+6/11,Russian Federation,1,0,0,1
+6/11,Romania,1,0,1,0
+6/11,Republic of Korea,3,0,3,0
+6/11,Republic of Ireland,1,0,1,0
+6/11,Poland,0,0,0,0
+6/11,Philippines,12,2,10,0
+6/11,New Zealand,1,0,1,0
+6/11,Mongolia,9,0,9,0
+6/11,Malaysia,5,2,3,0
+6/11,Kuwait,1,0,1,0
+6/11,Japan,0,0,0,0
+6/11,Italy,9,0,9,0
+6/11,Indonesia,2,0,2,0
+6/11,India,3,0,3,0
+6/11,Germany,10,0,9,1
+6/11,France,7,0,6,1
+6/11,Finland,1,0,1,0
+6/11,Colombia,1,0,1,0
+6/11,China,7084,633,5759,692
+6/11,Viet Nam,63,5,58,0
+6/11,Bulgaria,0,0,0,0
+6/11,Brazil,3,0,2,1
+6/11,Belgium,0,0,0,0
+6/11,Australia,5,0,5,0
+6/12,Malaysia,5,2,3,0
+6/12,Viet Nam,63,5,58,0
+6/12,Belgium,0,0,0,0
+6/12,Brazil,3,0,2,1
+6/12,Bulgaria,0,0,0,0
+6/12,Canada,238,32,141,65
+6/12,China,7084,634,5835,615
+6/12,Colombia,1,0,1,0
+6/12,Finland,1,0,1,0
+6/12,France,7,0,6,1
+6/12,Germany,10,0,9,1
+6/12,India,3,0,3,0
+6/12,Indonesia,2,0,2,0
+6/12,Italy,9,0,9,0
+6/12,Japan,0,0,0,0
+6/12,Kuwait,1,0,1,0
+6/12,Australia,5,0,5,0
+6/12,Mongolia,9,0,9,0
+6/12,New Zealand,1,0,1,0
+6/12,Philippines,14,2,12,0
+6/12,Poland,0,0,0,0
+6/12,Republic of Ireland,1,0,1,0
+6/12,Republic of Korea,3,0,3,0
+6/12,Romania,1,0,1,0
+6/12,Russian Federation,1,0,0,1
+6/12,Singapore,206,31,169,6
+6/12,Slovenia,0,0,0,0
+6/12,South Africa,1,1,0,0
+6/12,Spain,1,0,1,0
+6/12,Sweden,3,0,3,0
+6/12,Switzerland,1,0,1,0
+6/12,Taiwan,688,81,347,260
+6/12,Thailand,9,2,6,1
+6/12,United Kingdom,4,0,4,0
+6/12,United States,70,0,36,34
+6/13,Belgium,0,0,0,0
+6/13,Viet Nam,63,5,58,0
+6/13,United Kingdom,4,0,4,0
+6/13,Thailand,9,2,6,1
+6/13,Taiwan,693,81,385,227
+6/13,Switzerland,1,0,1,0
+6/13,Sweden,3,0,3,0
+6/13,Spain,1,0,1,0
+6/13,South Africa,1,1,0,0
+6/13,Slovenia,0,0,0,0
+6/13,Singapore,206,31,169,6
+6/13,Russian Federation,1,0,0,1
+6/13,Romania,1,0,1,0
+6/13,Republic of Korea,3,0,3,0
+6/13,Republic of Ireland,1,0,1,0
+6/13,Poland,0,0,0,0
+6/13,Philippines,14,2,12,0
+6/13,United States,71,0,36,35
+6/13,New Zealand,1,0,1,0
+6/13,Mongolia,9,0,9,0
+6/13,Malaysia,5,2,3,0
+6/13,Kuwait,1,0,1,0
+6/13,Japan,0,0,0,0
+6/13,Italy,9,0,9,0
+6/13,Indonesia,2,0,2,0
+6/13,India,3,0,3,0
+6/13,Germany,10,0,9,1
+6/13,France,7,0,6,1
+6/13,Finland,1,0,1,0
+6/13,Colombia,1,0,1,0
+6/13,China,7083,636,5911,536
+6/13,Canada,242,32,150,60
+6/13,Bulgaria,0,0,0,0
+6/13,Brazil,3,0,2,1
+6/13,Australia,5,0,5,0
+6/14,Philippines,14,2,12,0
+6/14,Viet Nam,63,5,58,0
+6/14,United States,71,0,36,35
+6/14,United Kingdom,4,0,4,0
+6/14,Thailand,9,2,6,1
+6/14,Taiwan,693,81,385,227
+6/14,Switzerland,1,0,1,0
+6/14,Sweden,3,0,3,0
+6/14,Spain,1,0,1,0
+6/14,South Africa,1,1,0,0
+6/14,Slovenia,0,0,0,0
+6/14,Singapore,206,31,169,6
+6/14,Russian Federation,1,0,0,1
+6/14,Romania,1,0,1,0
+6/14,Republic of Korea,3,0,3,0
+6/14,Republic of Ireland,1,0,1,0
+6/14,Poland,0,0,0,0
+6/14,New Zealand,1,0,1,0
+6/14,Mongolia,9,0,9,0
+6/14,Malaysia,5,2,3,0
+6/14,Kuwait,1,0,1,0
+6/14,Japan,0,0,0,0
+6/14,Italy,9,0,9,0
+6/14,Indonesia,2,0,2,0
+6/14,India,3,0,3,0
+6/14,Germany,10,0,9,1
+6/14,France,7,0,6,1
+6/14,Finland,1,0,1,0
+6/14,Colombia,1,0,1,0
+6/14,China,7083,636,5911,536
+6/14,Canada,242,32,150,60
+6/14,Bulgaria,0,0,0,0
+6/14,Brazil,3,0,2,1
+6/14,Belgium,0,0,0,0
+6/14,Australia,5,0,5,0
+6/15,Brazil,3,0,2,1
+6/15,Belgium,0,0,0,0
+6/15,Viet Nam,63,5,58,0
+6/15,United States,71,0,36,35
+6/15,United Kingdom,4,0,4,0
+6/15,Thailand,9,2,6,1
+6/15,Taiwan,693,81,385,227
+6/15,Switzerland,1,0,1,0
+6/15,Sweden,3,0,3,0
+6/15,Spain,1,0,1,0
+6/15,South Africa,1,1,0,0
+6/15,Slovenia,0,0,0,0
+6/15,Singapore,206,31,169,6
+6/15,Russian Federation,1,0,0,1
+6/15,Romania,1,0,1,0
+6/15,Republic of Korea,3,0,3,0
+6/15,Republic of Ireland,1,0,1,0
+6/15,Poland,0,0,0,0
+6/15,Philippines,14,2,12,0
+6/15,New Zealand,1,0,1,0
+6/15,Mongolia,9,0,9,0
+6/15,Malaysia,5,2,3,0
+6/15,Kuwait,1,0,1,0
+6/15,Japan,0,0,0,0
+6/15,Italy,9,0,9,0
+6/15,Indonesia,2,0,2,0
+6/15,India,3,0,3,0
+6/15,Germany,10,0,9,1
+6/15,France,7,0,6,1
+6/15,Finland,1,0,1,0
+6/15,Colombia,1,0,1,0
+6/15,China,7083,636,5911,536
+6/15,Canada,242,32,150,60
+6/15,Bulgaria,0,0,0,0
+6/15,Australia,5,0,5,0
+6/16,Colombia,1,0,1,0
+6/16,Viet Nam,63,5,58,0
+6/16,United States,72,0,36,36
+6/16,United Kingdom,4,0,4,0
+6/16,Thailand,9,2,6,1
+6/16,Taiwan,698,83,443,172
+6/16,Switzerland,1,0,1,0
+6/16,Sweden,3,0,3,0
+6/16,Spain,1,0,1,0
+6/16,South Africa,1,1,0,0
+6/16,Slovenia,0,0,0,0
+6/16,Singapore,206,31,169,6
+6/16,Russian Federation,1,0,0,1
+6/16,Romania,1,0,1,0
+6/16,Republic of Korea,3,0,3,0
+6/16,Republic of Ireland,1,0,1,0
+6/16,Poland,0,0,0,0
+6/16,Philippines,14,2,12,0
+6/16,New Zealand,1,0,1,0
+6/16,Mongolia,9,0,9,0
+6/16,Malaysia,5,2,3,0
+6/16,Kuwait,1,0,1,0
+6/16,Japan,0,0,0,0
+6/16,Italy,9,0,9,0
+6/16,Indonesia,2,0,2,0
+6/16,India,3,0,3,0
+6/16,Germany,10,0,9,1
+6/16,France,7,0,6,1
+6/16,Finland,1,0,1,0
+6/16,China,7082,641,6043,398
+6/16,Canada,243,32,156,55
+6/16,Bulgaria,0,0,0,0
+6/16,Brazil,3,0,2,1
+6/16,Belgium,0,0,0,0
+6/16,Australia,5,0,5,0
+6/17,Bulgaria,0,0,0,0
+6/17,Australia,5,0,5,0
+6/17,Belgium,0,0,0,0
+6/17,United States,73,0,36,37
+6/17,United Kingdom,4,0,4,0
+6/17,Thailand,9,2,6,1
+6/17,Taiwan,697,83,460,154
+6/17,Switzerland,1,0,1,0
+6/17,Sweden,3,0,3,0
+6/17,Spain,1,0,1,0
+6/17,South Africa,1,1,0,0
+6/17,Slovenia,0,0,0,0
+6/17,Singapore,206,31,169,6
+6/17,Russian Federation,1,0,0,1
+6/17,Romania,1,0,1,0
+6/17,Republic of Korea,3,0,3,0
+6/17,Republic of Ireland,1,0,1,0
+6/17,Poland,0,0,0,0
+6/17,Philippines,14,2,12,0
+6/17,New Zealand,1,0,1,0
+6/17,Mongolia,9,0,9,0
+6/17,Malaysia,5,2,3,0
+6/17,Kuwait,1,0,1,0
+6/17,Japan,0,0,0,0
+6/17,Italy,9,0,9,0
+6/17,Indonesia,2,0,2,0
+6/17,India,3,0,3,0
+6/17,Germany,10,0,9,1
+6/17,France,7,0,6,1
+6/17,Finland,1,0,1,0
+6/17,Viet Nam,63,5,58,0
+6/17,Colombia,1,0,1,0
+6/17,China,7082,641,6113,328
+6/17,Canada,247,32,171,44
+6/17,Brazil,3,0,2,1
+6/18,Republic of Ireland,1,0,1,0
+6/18,Australia,5,0,5,0
+6/18,Belgium,0,0,0,0
+6/18,Brazil,3,0,2,1
+6/18,Bulgaria,0,0,0,0
+6/18,Canada,246,33,176,37
+6/18,China,7082,642,6156,284
+6/18,Colombia,1,0,1,0
+6/18,Finland,1,0,1,0
+6/18,France,7,0,6,1
+6/18,Germany,10,0,9,1
+6/18,India,3,0,3,0
+6/18,Indonesia,2,0,2,0
+6/18,Italy,9,0,9,0
+6/18,Japan,0,0,0,0
+6/18,Kuwait,1,0,1,0
+6/18,Malaysia,5,2,3,0
+6/18,Mongolia,9,0,9,0
+6/18,New Zealand,1,0,1,0
+6/18,Philippines,14,2,12,0
+6/18,Poland,0,0,0,0
+6/18,Republic of Korea,3,0,3,0
+6/18,Romania,1,0,1,0
+6/18,Russian Federation,1,0,0,1
+6/18,Singapore,206,31,169,6
+6/18,Slovenia,0,0,0,0
+6/18,South Africa,1,1,0,0
+6/18,Spain,1,0,1,0
+6/18,Sweden,3,0,3,0
+6/18,Switzerland,1,0,1,0
+6/18,Taiwan,697,83,469,145
+6/18,Thailand,9,2,6,1
+6/18,United Kingdom,4,0,4,0
+6/18,United States,75,0,36,39
+6/18,Viet Nam,63,5,58,0
+6/19,Belgium,0,0,0,0
+6/19,United States,75,0,36,39
+6/19,United Kingdom,4,0,4,0
+6/19,Thailand,9,2,6,1
+6/19,Taiwan,695,84,472,139
+6/19,Australia,5,0,5,0
+6/19,Switzerland,1,0,1,0
+6/19,Sweden,3,0,3,0
+6/19,Spain,1,0,1,0
+6/19,South Africa,1,1,0,0
+6/19,Slovenia,0,0,0,0
+6/19,Singapore,206,31,170,5
+6/19,Russian Federation,1,0,0,1
+6/19,Romania,1,0,1,0
+6/19,Republic of Korea,3,0,3,0
+6/19,Republic of Ireland,1,0,1,0
+6/19,Poland,0,0,0,0
+6/19,Philippines,14,2,12,0
+6/19,New Zealand,1,0,1,0
+6/19,Mongolia,9,0,9,0
+6/19,Malaysia,5,2,3,0
+6/19,Kuwait,1,0,1,0
+6/19,Japan,0,0,0,0
+6/19,Italy,9,0,9,0
+6/19,Indonesia,2,0,2,0
+6/19,India,3,0,3,0
+6/19,Germany,10,0,9,1
+6/19,France,7,0,6,1
+6/19,Finland,1,0,1,0
+6/19,Colombia,1,0,1,0
+6/19,China,7082,643,6183,256
+6/19,Canada,245,34,175,36
+6/19,Bulgaria,0,0,0,0
+6/19,Brazil,3,0,2,1
+6/19,Viet Nam,63,5,58,0
+6/20,Brazil,3,0,2,1
+6/20,Belgium,0,0,0,0
+6/20,Viet Nam,63,5,58,0
+6/20,United States,74,0,36,38
+6/20,United Kingdom,4,0,4,0
+6/20,Thailand,9,2,6,1
+6/20,Taiwan,695,84,480,131
+6/20,Switzerland,1,0,1,0
+6/20,Sweden,3,0,3,0
+6/20,Spain,1,0,1,0
+6/20,South Africa,1,1,0,0
+6/20,Slovenia,0,0,0,0
+6/20,Singapore,206,31,170,5
+6/20,Russian Federation,1,0,0,1
+6/20,Romania,1,0,1,0
+6/20,Republic of Korea,3,0,3,0
+6/20,Republic of Ireland,1,0,1,0
+6/20,Poland,0,0,0,0
+6/20,Philippines,14,2,12,0
+6/20,New Zealand,1,0,1,0
+6/20,Mongolia,9,0,9,0
+6/20,Malaysia,5,2,3,0
+6/20,Kuwait,1,0,1,0
+6/20,Japan,0,0,0,0
+6/20,Italy,9,0,9,0
+6/20,Indonesia,2,0,2,0
+6/20,India,3,0,3,0
+6/20,Germany,10,0,9,1
+6/20,France,7,0,6,1
+6/20,Finland,1,0,1,0
+6/20,Colombia,1,0,1,0
+6/20,China,7082,643,6210,229
+6/20,Canada,245,34,180,31
+6/20,Bulgaria,0,0,0,0
+6/20,Australia,5,0,5,0
+6/21,Australia,5,0,5,0
+6/21,Viet Nam,63,5,58,0
+6/21,United States,74,0,36,38
+6/21,United Kingdom,4,0,4,0
+6/21,Thailand,9,2,6,1
+6/21,Taiwan,695,84,480,131
+6/21,Switzerland,1,0,1,0
+6/21,Sweden,3,0,3,0
+6/21,Spain,1,0,1,0
+6/21,South Africa,1,1,0,0
+6/21,Slovenia,0,0,0,0
+6/21,Singapore,206,31,170,5
+6/21,Russian Federation,1,0,0,1
+6/21,Romania,1,0,1,0
+6/21,Republic of Korea,3,0,3,0
+6/21,Republic of Ireland,1,0,1,0
+6/21,Poland,0,0,0,0
+6/21,Philippines,14,2,12,0
+6/21,New Zealand,1,0,1,0
+6/21,Mongolia,9,0,9,0
+6/21,Malaysia,5,2,3,0
+6/21,Kuwait,1,0,1,0
+6/21,Japan,0,0,0,0
+6/21,Italy,9,0,9,0
+6/21,Indonesia,2,0,2,0
+6/21,India,3,0,3,0
+6/21,Germany,10,0,9,1
+6/21,France,7,0,6,1
+6/21,Finland,1,0,1,0
+6/21,Colombia,1,0,1,0
+6/21,China,7082,643,6210,229
+6/21,Canada,245,34,180,31
+6/21,Bulgaria,0,0,0,0
+6/21,Brazil,3,0,2,1
+6/21,Belgium,0,0,0,0
+6/22,Malaysia,5,2,3,0
+6/22,Australia,5,0,5,0
+6/22,Belgium,0,0,0,0
+6/22,Brazil,3,0,2,1
+6/22,Bulgaria,0,0,0,0
+6/22,Canada,245,34,180,31
+6/22,China,7082,643,6210,229
+6/22,Colombia,1,0,1,0
+6/22,Finland,1,0,1,0
+6/22,France,7,0,6,1
+6/22,Germany,10,0,9,1
+6/22,India,3,0,3,0
+6/22,Indonesia,2,0,2,0
+6/22,Italy,9,0,9,0
+6/22,Japan,0,0,0,0
+6/22,Kuwait,1,0,1,0
+6/22,Mongolia,9,0,9,0
+6/22,New Zealand,1,0,1,0
+6/22,Philippines,14,2,12,0
+6/22,Poland,0,0,0,0
+6/22,Republic of Ireland,1,0,1,0
+6/22,Republic of Korea,3,0,3,0
+6/22,Romania,1,0,1,0
+6/22,Russian Federation,1,0,0,1
+6/22,Singapore,206,31,170,5
+6/22,Slovenia,0,0,0,0
+6/22,South Africa,1,1,0,0
+6/22,Spain,1,0,1,0
+6/22,Sweden,3,0,3,0
+6/22,Switzerland,1,0,1,0
+6/22,Taiwan,695,84,480,131
+6/22,Thailand,9,2,6,1
+6/22,United Kingdom,4,0,4,0
+6/22,United States,74,0,36,38
+6/22,Viet Nam,63,5,58,0
+6/23,United States,74,0,36,38
+6/23,Belgium,0,0,0,0
+6/23,Brazil,3,0,2,1
+6/23,Bulgaria,0,0,0,0
+6/23,Canada,246,35,182,29
+6/23,China,7082,643,6307,132
+6/23,Colombia,1,0,1,0
+6/23,Finland,1,0,1,0
+6/23,France,7,0,6,1
+6/23,Germany,10,0,9,1
+6/23,India,3,0,3,0
+6/23,Indonesia,2,0,2,0
+6/23,Italy,9,0,9,0
+6/23,Japan,0,0,0,0
+6/23,Kuwait,1,0,1,0
+6/23,Malaysia,5,2,3,0
+6/23,Australia,5,0,5,0
+6/23,Mongolia,9,0,9,0
+6/23,New Zealand,1,0,1,0
+6/23,Philippines,14,2,12,0
+6/23,Poland,0,0,0,0
+6/23,Republic of Ireland,1,0,1,0
+6/23,Republic of Korea,3,0,3,0
+6/23,Romania,1,0,1,0
+6/23,Russian Federation,1,0,0,1
+6/23,Singapore,206,31,170,5
+6/23,Slovenia,0,0,0,0
+6/23,South Africa,1,1,0,0
+6/23,Spain,1,0,1,0
+6/23,Sweden,3,0,3,0
+6/23,Switzerland,1,0,1,0
+6/23,Taiwan,692,84,486,122
+6/23,Thailand,9,2,7,0
+6/23,United Kingdom,4,0,4,0
+6/23,Viet Nam,63,5,58,0
+6/24,Belgium,0,0,0,0
+6/24,Brazil,3,0,2,1
+6/24,Bulgaria,0,0,0,0
+6/24,Canada,249,37,188,24
+6/24,China,7082,643,6319,120
+6/24,Colombia,1,0,1,0
+6/24,Finland,1,0,1,0
+6/24,France,7,0,6,1
+6/24,Germany,10,0,9,1
+6/24,India,3,0,3,0
+6/24,Indonesia,2,0,2,0
+6/24,Italy,9,0,9,0
+6/24,Japan,0,0,0,0
+6/24,Kuwait,1,0,1,0
+6/24,Malaysia,5,2,3,0
+6/24,Mongolia,9,0,9,0
+6/24,New Zealand,1,0,1,0
+6/24,Australia,5,0,5,0
+6/24,Philippines,14,2,12,0
+6/24,Poland,0,0,0,0
+6/24,Republic of Ireland,1,0,1,0
+6/24,Republic of Korea,3,0,3,0
+6/24,Romania,1,0,1,0
+6/24,Russian Federation,1,0,0,1
+6/24,Singapore,206,31,170,5
+6/24,Slovenia,0,0,0,0
+6/24,South Africa,1,1,0,0
+6/24,Spain,1,0,1,0
+6/24,Sweden,3,0,3,0
+6/24,Switzerland,1,0,1,0
+6/24,Taiwan,687,84,492,111
+6/24,Thailand,9,2,7,0
+6/24,United Kingdom,4,0,4,0
+6/24,United States,75,0,36,39
+6/24,Viet Nam,63,5,58,0
+6/25,Poland,0,0,0,0
+6/25,United States,75,0,36,39
+6/25,United Kingdom,4,0,4,0
+6/25,Thailand,9,2,7,0
+6/25,Taiwan,686,84,492,110
+6/25,Switzerland,1,0,1,0
+6/25,Sweden,3,0,3,0
+6/25,Spain,1,0,1,0
+6/25,South Africa,1,1,0,0
+6/25,Slovenia,0,0,0,0
+6/25,Singapore,206,31,170,5
+6/25,Russian Federation,1,0,0,1
+6/25,Romania,1,0,1,0
+6/25,Republic of Korea,3,0,3,0
+6/25,Republic of Ireland,1,0,1,0
+6/25,Philippines,14,2,12,0
+6/25,New Zealand,1,0,1,0
+6/25,Mongolia,9,0,9,0
+6/25,Malaysia,5,2,3,0
+6/25,Kuwait,1,0,1,0
+6/25,Japan,1,0,0,1
+6/25,Italy,9,0,9,0
+6/25,Indonesia,2,0,2,0
+6/25,India,3,0,3,0
+6/25,Germany,10,0,9,1
+6/25,France,7,0,6,1
+6/25,Finland,1,0,1,0
+6/25,Colombia,1,0,1,0
+6/25,China,7083,644,6336,103
+6/25,Canada,250,37,188,25
+6/25,Bulgaria,0,0,0,0
+6/25,Brazil,3,0,2,1
+6/25,Belgium,0,0,0,0
+6/25,Australia,5,0,5,0
+6/25,Viet Nam,63,5,58,0
+6/26,Canada,251,37,190,24
+6/26,Australia,5,0,5,0
+6/26,Brazil,3,0,2,1
+6/26,Viet Nam,63,5,58,0
+6/26,United States,74,0,36,38
+6/26,United Kingdom,4,0,4,0
+6/26,Thailand,9,2,7,0
+6/26,Taiwan,682,84,491,107
+6/26,Switzerland,1,0,1,0
+6/26,Sweden,3,0,3,0
+6/26,Spain,1,0,1,0
+6/26,South Africa,1,1,0,0
+6/26,Slovenia,0,0,0,0
+6/26,Singapore,206,32,170,4
+6/26,Russian Federation,1,0,0,1
+6/26,Romania,1,0,1,0
+6/26,Belgium,0,0,0,0
+6/26,Republic of Korea,3,0,3,0
+6/26,Republic of Ireland,1,0,1,0
+6/26,Poland,0,0,0,0
+6/26,Philippines,14,2,12,0
+6/26,New Zealand,1,0,1,0
+6/26,Mongolia,9,0,9,0
+6/26,Malaysia,5,2,3,0
+6/26,Kuwait,1,0,1,0
+6/26,Japan,1,0,0,1
+6/26,Italy,9,0,9,0
+6/26,Indonesia,2,0,2,0
+6/26,India,3,0,3,0
+6/26,Germany,10,0,9,1
+6/26,France,7,0,6,1
+6/26,Finland,1,0,1,0
+6/26,Colombia,1,0,1,0
+6/26,China,7083,644,6341,98
+6/26,Bulgaria,0,0,0,0
+6/27,Taiwan,681,84,492,105
+6/27,Australia,5,0,5,0
+6/27,Belgium,0,0,0,0
+6/27,Brazil,3,0,2,1
+6/27,Bulgaria,0,0,0,0
+6/27,Canada,251,37,191,23
+6/27,China,7083,645,6344,94
+6/27,Colombia,1,0,1,0
+6/27,Finland,1,0,1,0
+6/27,France,7,0,6,1
+6/27,Germany,10,0,9,1
+6/27,India,3,0,3,0
+6/27,Indonesia,2,0,2,0
+6/27,Italy,5,0,5,0
+6/27,Japan,0,0,0,0
+6/27,Kuwait,1,0,1,0
+6/27,Malaysia,5,2,3,0
+6/27,Mongolia,9,0,9,0
+6/27,New Zealand,1,0,1,0
+6/27,Philippines,14,2,12,0
+6/27,Poland,0,0,0,0
+6/27,Republic of Ireland,1,0,1,0
+6/27,Republic of Korea,3,0,3,0
+6/27,Romania,1,0,1,0
+6/27,Russian Federation,1,0,0,1
+6/27,Singapore,206,32,171,3
+6/27,Slovenia,0,0,0,0
+6/27,South Africa,1,1,0,0
+6/27,Spain,1,0,1,0
+6/27,Sweden,3,0,3,0
+6/27,Switzerland,1,0,1,0
+6/27,Thailand,9,2,7,0
+6/27,United Kingdom,4,0,4,0
+6/27,United States,74,0,64,10
+6/27,Viet Nam,63,5,58,0
+6/28,Malaysia,5,2,3,0
+6/28,Belgium,0,0,0,0
+6/28,Brazil,3,0,2,1
+6/28,Bulgaria,0,0,0,0
+6/28,Canada,251,37,191,23
+6/28,China,7083,645,6344,94
+6/28,Colombia,1,0,1,0
+6/28,Finland,1,0,1,0
+6/28,France,7,0,6,1
+6/28,Germany,10,0,9,1
+6/28,India,3,0,3,0
+6/28,Indonesia,2,0,2,0
+6/28,Italy,5,0,5,0
+6/28,Japan,0,0,0,0
+6/28,Kuwait,1,0,1,0
+6/28,Viet Nam,63,5,58,0
+6/28,Mongolia,9,0,9,0
+6/28,New Zealand,1,0,1,0
+6/28,Philippines,14,2,12,0
+6/28,Poland,0,0,0,0
+6/28,Republic of Ireland,1,0,1,0
+6/28,Republic of Korea,3,0,3,0
+6/28,Romania,1,0,1,0
+6/28,Russian Federation,1,0,0,1
+6/28,Singapore,206,32,171,3
+6/28,Slovenia,0,0,0,0
+6/28,South Africa,1,1,0,0
+6/28,Spain,1,0,1,0
+6/28,Sweden,3,0,3,0
+6/28,Switzerland,1,0,1,0
+6/28,Taiwan,681,84,492,105
+6/28,Thailand,9,2,7,0
+6/28,United Kingdom,4,0,4,0
+6/28,United States,74,0,64,10
+6/28,Australia,5,0,5,0
+6/29,Bulgaria,0,0,0,0
+6/29,Belgium,0,0,0,0
+6/29,United States,74,0,64,10
+6/29,Australia,5,0,5,0
+6/29,United Kingdom,4,0,4,0
+6/29,Thailand,9,2,7,0
+6/29,Taiwan,681,84,492,105
+6/29,Switzerland,1,0,1,0
+6/29,Sweden,3,0,3,0
+6/29,Spain,1,0,1,0
+6/29,South Africa,1,1,0,0
+6/29,Slovenia,0,0,0,0
+6/29,Singapore,206,32,171,3
+6/29,Russian Federation,1,0,0,1
+6/29,Romania,1,0,1,0
+6/29,Republic of Korea,3,0,3,0
+6/29,Viet Nam,63,5,58,0
+6/29,Republic of Ireland,1,0,1,0
+6/29,Poland,0,0,0,0
+6/29,Philippines,14,2,12,0
+6/29,New Zealand,1,0,1,0
+6/29,Mongolia,9,0,9,0
+6/29,Malaysia,5,2,3,0
+6/29,Kuwait,1,0,1,0
+6/29,Japan,0,0,0,0
+6/29,Italy,5,0,5,0
+6/29,Indonesia,2,0,2,0
+6/29,India,3,0,3,0
+6/29,Germany,10,0,9,1
+6/29,France,7,0,6,1
+6/29,Finland,1,0,1,0
+6/29,Colombia,1,0,1,0
+6/29,China,7083,645,6344,94
+6/29,Canada,251,37,191,23
+6/29,Brazil,3,0,2,1
+6/30,Belgium,0,0,0,0
+6/30,Viet Nam,63,5,58,0
+6/30,United States,73,0,63,10
+6/30,United Kingdom,4,0,4,0
+6/30,Thailand,9,2,7,0
+6/30,Taiwan,678,84,495,99
+6/30,Switzerland,1,0,1,0
+6/30,Sweden,3,0,3,0
+6/30,Spain,1,0,1,0
+6/30,South Africa,1,1,0,0
+6/30,Slovenia,0,0,0,0
+6/30,Singapore,206,32,171,3
+6/30,Russian Federation,1,0,0,1
+6/30,Romania,1,0,1,0
+6/30,Republic of Korea,3,0,3,0
+6/30,Republic of Ireland,1,0,1,0
+6/30,Poland,0,0,0,0
+6/30,Philippines,14,2,12,0
+6/30,New Zealand,1,0,1,0
+6/30,Mongolia,9,0,9,0
+6/30,Malaysia,5,2,3,0
+6/30,Kuwait,1,0,1,0
+6/30,Japan,0,0,0,0
+6/30,Italy,5,0,5,0
+6/30,Indonesia,2,0,2,0
+6/30,India,3,0,3,0
+6/30,Germany,10,0,9,1
+6/30,France,7,0,6,1
+6/30,Finland,1,0,1,0
+6/30,Colombia,1,0,1,0
+6/30,China,7083,646,6357,80
+6/30,Canada,252,37,192,23
+6/30,Bulgaria,0,0,0,0
+6/30,Brazil,3,0,2,1
+6/30,Australia,5,0,5,0
+7/01,Viet Nam,63,5,58,0
+7/01,Taiwan,678,84,498,96
+7/01,Switzerland,1,0,1,0
+7/01,Sweden,3,0,3,0
+7/01,Spain,1,0,1,0
+7/01,South Africa,1,1,0,0
+7/01,Slovenia,0,0,0,0
+7/01,Singapore,206,32,171,3
+7/01,Russian Federation,1,0,0,1
+7/01,Romania,1,0,1,0
+7/01,Republic of Korea,3,0,3,0
+7/01,Republic of Ireland,1,0,1,0
+7/01,Poland,0,0,0,0
+7/01,Philippines,14,2,12,0
+7/01,New Zealand,1,0,1,0
+7/01,Mongolia,9,0,9,0
+7/01,Malaysia,5,2,3,0
+7/01,Kuwait,1,0,1,0
+7/01,Japan,0,0,0,0
+7/01,Italy,5,0,5,0
+7/01,Indonesia,2,0,2,0
+7/01,India,3,0,3,0
+7/01,Germany,10,0,9,1
+7/01,France,7,0,6,1
+7/01,Finland,1,0,1,0
+7/01,Colombia,1,0,1,0
+7/01,China,7083,646,6360,77
+7/01,Canada,252,38,192,22
+7/01,Bulgaria,0,0,0,0
+7/01,Brazil,1,0,1,0
+7/01,Belgium,0,0,0,0
+7/01,Australia,5,0,5,0
+7/01,United Kingdom,4,0,4,0
+7/01,United States,73,0,63,10
+7/01,Thailand,9,2,7,0
+7/02,Belgium,0,0,0,0
+7/02,Australia,5,0,5,0
+7/02,Brazil,1,0,1,0
+7/02,Bulgaria,0,0,0,0
+7/02,Canada,252,38,192,22
+7/02,China,7083,646,6363,74
+7/02,Colombia,1,0,1,0
+7/02,Finland,1,0,1,0
+7/02,France,7,0,6,1
+7/02,Germany,10,0,9,1
+7/02,India,3,0,3,0
+7/02,Indonesia,2,0,2,0
+7/02,Italy,4,0,4,0
+7/02,Japan,0,0,0,0
+7/02,Kuwait,1,0,1,0
+7/02,Malaysia,5,2,3,0
+7/02,Mongolia,9,0,9,0
+7/02,New Zealand,1,0,1,0
+7/02,Philippines,14,2,12,0
+7/02,Poland,0,0,0,0
+7/02,Republic of Ireland,1,0,1,0
+7/02,Republic of Korea,3,0,3,0
+7/02,Romania,1,0,1,0
+7/02,Russian Federation,1,0,0,1
+7/02,Singapore,206,32,171,3
+7/02,Slovenia,0,0,0,0
+7/02,South Africa,1,1,0,0
+7/02,Spain,1,0,1,0
+7/02,Sweden,3,0,3,0
+7/02,Switzerland,1,0,1,0
+7/02,Taiwan,676,84,498,94
+7/02,Thailand,9,2,7,0
+7/02,United Kingdom,4,0,4,0
+7/02,United States,73,0,63,10
+7/02,Viet Nam,63,5,58,0
+7/03,Viet Nam,63,5,58,0
+7/03,Thailand,9,2,7,0
+7/03,Taiwan,674,84,498,92
+7/03,Switzerland,1,0,1,0
+7/03,Sweden,3,0,3,0
+7/03,Spain,1,0,1,0
+7/03,South Africa,1,1,0,0
+7/03,Slovenia,0,0,0,0
+7/03,Singapore,206,32,171,3
+7/03,Russian Federation,1,0,0,1
+7/03,Romania,1,0,1,0
+7/03,Republic of Korea,3,0,3,0
+7/03,Republic of Ireland,1,0,1,0
+7/03,Poland,0,0,0,0
+7/03,Philippines,14,2,12,0
+7/03,New Zealand,1,0,1,0
+7/03,Mongolia,9,0,9,0
+7/03,Malaysia,5,2,3,0
+7/03,Kuwait,1,0,1,0
+7/03,Japan,0,0,0,0
+7/03,Italy,4,0,4,0
+7/03,Indonesia,2,0,2,0
+7/03,India,3,0,3,0
+7/03,Germany,10,0,9,1
+7/03,France,7,0,6,1
+7/03,Finland,1,0,1,0
+7/03,Colombia,1,0,1,0
+7/03,China,7083,646,6363,74
+7/03,Canada,251,38,193,20
+7/03,Bulgaria,0,0,0,0
+7/03,Brazil,1,0,1,0
+7/03,Belgium,0,0,0,0
+7/03,Australia,5,0,5,0
+7/03,United States,73,0,65,8
+7/03,United Kingdom,4,0,4,0
+7/04,Colombia,1,0,1,0
+7/04,Viet Nam,63,5,58,0
+7/04,Taiwan,674,84,500,90
+7/04,Switzerland,1,0,1,0
+7/04,Sweden,3,0,3,0
+7/04,Spain,1,0,1,0
+7/04,South Africa,1,1,0,0
+7/04,Slovenia,0,0,0,0
+7/04,Singapore,206,32,171,3
+7/04,Russian Federation,1,0,0,1
+7/04,Romania,1,0,1,0
+7/04,Republic of Korea,3,0,3,0
+7/04,Republic of Ireland,1,0,1,0
+7/04,Poland,0,0,0,0
+7/04,Philippines,14,2,12,0
+7/04,New Zealand,1,0,1,0
+7/04,Mongolia,9,0,9,0
+7/04,Malaysia,5,2,3,0
+7/04,Kuwait,1,0,1,0
+7/04,Japan,0,0,0,0
+7/04,Italy,4,0,4,0
+7/04,Indonesia,2,0,2,0
+7/04,India,3,0,3,0
+7/04,Germany,10,0,9,1
+7/04,France,7,0,6,1
+7/04,Finland,1,0,1,0
+7/04,China,7083,646,6365,72
+7/04,Canada,251,38,193,20
+7/04,Bulgaria,0,0,0,0
+7/04,Brazil,1,0,1,0
+7/04,Belgium,0,0,0,0
+7/04,Australia,5,0,5,0
+7/04,United States,73,0,65,8
+7/04,United Kingdom,4,0,4,0
+7/04,Thailand,9,2,7,0
+7/05,Belgium,0,0,0,0
+7/05,Australia,5,0,5,0
+7/05,Bulgaria,0,0,0,0
+7/05,Canada,251,38,193,20
+7/05,China,7083,646,6365,72
+7/05,Colombia,1,0,1,0
+7/05,Finland,1,0,1,0
+7/05,France,7,0,6,1
+7/05,Germany,10,0,9,1
+7/05,India,3,0,3,0
+7/05,Indonesia,2,0,2,0
+7/05,Italy,4,0,4,0
+7/05,Japan,0,0,0,0
+7/05,Kuwait,1,0,1,0
+7/05,Malaysia,5,2,3,0
+7/05,Mongolia,9,0,9,0
+7/05,New Zealand,1,0,1,0
+7/05,Philippines,14,2,12,0
+7/05,Poland,0,0,0,0
+7/05,Republic of Ireland,1,0,1,0
+7/05,Republic of Korea,3,0,3,0
+7/05,Romania,1,0,1,0
+7/05,Russian Federation,1,0,0,1
+7/05,Singapore,206,32,171,3
+7/05,Slovenia,0,0,0,0
+7/05,South Africa,1,1,0,0
+7/05,Spain,1,0,1,0
+7/05,Sweden,3,0,3,0
+7/05,Switzerland,1,0,1,0
+7/05,Taiwan,674,84,500,90
+7/05,Thailand,9,2,7,0
+7/05,United Kingdom,4,0,4,0
+7/05,United States,73,0,65,8
+7/05,Brazil,1,0,1,0
+7/05,Viet Nam,63,5,58,0
+7/06,Viet Nam,63,5,58,0
+7/06,United States,73,0,65,8
+7/06,United Kingdom,4,0,4,0
+7/06,Thailand,9,2,7,0
+7/06,Taiwan,674,84,500,90
+7/06,Switzerland,1,0,1,0
+7/06,Sweden,3,0,3,0
+7/06,Spain,1,0,1,0
+7/06,South Africa,1,1,0,0
+7/06,Slovenia,0,0,0,0
+7/06,Singapore,206,32,171,3
+7/06,Russian Federation,1,0,0,1
+7/06,Romania,1,0,1,0
+7/06,Republic of Korea,3,0,3,0
+7/06,Republic of Ireland,1,0,1,0
+7/06,Poland,0,0,0,0
+7/06,Philippines,14,2,12,0
+7/06,New Zealand,1,0,1,0
+7/06,Mongolia,9,0,9,0
+7/06,Malaysia,5,2,3,0
+7/06,Kuwait,1,0,1,0
+7/06,Japan,0,0,0,0
+7/06,Italy,4,0,4,0
+7/06,Indonesia,2,0,2,0
+7/06,India,3,0,3,0
+7/06,Germany,10,0,9,1
+7/06,France,7,0,6,1
+7/06,Finland,1,0,1,0
+7/06,Colombia,1,0,1,0
+7/06,China,7083,646,6365,72
+7/06,Canada,251,38,193,20
+7/06,Bulgaria,0,0,0,0
+7/06,Brazil,1,0,1,0
+7/06,Belgium,0,0,0,0
+7/06,Australia,5,0,5,0
+7/07,Australia,5,0,5,0
+7/07,Brazil,1,0,1,0
+7/07,Bulgaria,0,0,0,0
+7/07,Canada,251,38,193,20
+7/07,China,7083,646,6365,72
+7/07,Colombia,1,0,1,0
+7/07,Finland,1,0,1,0
+7/07,France,7,0,6,1
+7/07,Germany,10,0,9,1
+7/07,India,3,0,3,0
+7/07,Indonesia,2,0,2,0
+7/07,Italy,4,0,4,0
+7/07,Japan,0,0,0,0
+7/07,Kuwait,1,0,1,0
+7/07,Malaysia,5,2,3,0
+7/07,Mongolia,9,0,9,0
+7/07,Viet Nam,63,5,58,0
+7/07,New Zealand,1,0,1,0
+7/07,Philippines,14,2,12,0
+7/07,Poland,0,0,0,0
+7/07,Republic of Ireland,1,0,1,0
+7/07,Republic of Korea,3,0,3,0
+7/07,Romania,1,0,1,0
+7/07,Russian Federation,1,0,0,1
+7/07,Singapore,206,32,171,3
+7/07,Slovenia,0,0,0,0
+7/07,South Africa,1,1,0,0
+7/07,Spain,1,0,1,0
+7/07,Sweden,3,0,3,0
+7/07,Switzerland,1,0,1,0
+7/07,Taiwan,674,84,500,90
+7/07,Thailand,9,2,7,0
+7/07,United Kingdom,4,0,4,0
+7/07,United States,73,0,65,8
+7/07,Belgium,0,0,0,0
+7/08,Australia,5,0,5,0
+7/08,Viet Nam,63,5,58,0
+7/08,United States,74,0,64,10
+7/08,United Kingdom,4,0,4,0
+7/08,Thailand,9,2,7,0
+7/08,Taiwan,671,84,502,85
+7/08,Switzerland,1,0,1,0
+7/08,Sweden,3,0,3,0
+7/08,Spain,1,0,1,0
+7/08,South Africa,1,1,0,0
+7/08,Slovenia,0,0,0,0
+7/08,Singapore,206,32,171,3
+7/08,Russian Federation,1,0,0,1
+7/08,Romania,1,0,1,0
+7/08,Republic of Korea,3,0,3,0
+7/08,Republic of Ireland,1,0,1,0
+7/08,Poland,0,0,0,0
+7/08,Philippines,14,2,12,0
+7/08,New Zealand,1,0,1,0
+7/08,Mongolia,9,0,9,0
+7/08,Malaysia,5,2,3,0
+7/08,Kuwait,1,0,1,0
+7/08,Japan,0,0,0,0
+7/08,Italy,4,0,4,0
+7/08,Indonesia,2,0,2,0
+7/08,India,3,0,3,0
+7/08,Germany,10,0,9,1
+7/08,France,7,0,6,1
+7/08,Finland,1,0,1,0
+7/08,Colombia,1,0,1,0
+7/08,China,7083,646,6365,72
+7/08,Canada,250,38,194,18
+7/08,Bulgaria,0,0,0,0
+7/08,Brazil,1,0,1,0
+7/08,Belgium,0,0,0,0
+7/09,New Zealand,1,0,1,0
+7/09,Australia,5,0,5,0
+7/09,Belgium,0,0,0,0
+7/09,Brazil,1,0,1,0
+7/09,Bulgaria,0,0,0,0
+7/09,Canada,249,38,193,18
+7/09,China,7083,646,6371,66
+7/09,Colombia,1,0,1,0
+7/09,Finland,1,0,1,0
+7/09,France,7,0,6,1
+7/09,Germany,10,0,9,1
+7/09,India,3,0,3,0
+7/09,Indonesia,2,0,2,0
+7/09,Italy,4,0,4,0
+7/09,Japan,0,0,0,0
+7/09,Kuwait,1,0,1,0
+7/09,Malaysia,5,2,3,0
+7/09,Mongolia,9,0,9,0
+7/09,Philippines,14,2,12,0
+7/09,Poland,0,0,0,0
+7/09,Republic of Ireland,1,0,1,0
+7/09,Republic of Korea,3,0,3,0
+7/09,Romania,1,0,1,0
+7/09,Russian Federation,1,0,0,1
+7/09,Singapore,206,32,171,3
+7/09,Slovenia,0,0,0,0
+7/09,South Africa,1,1,0,0
+7/09,Spain,1,0,1,0
+7/09,Sweden,3,0,3,0
+7/09,Switzerland,1,0,1,0
+7/09,Taiwan,671,84,504,83
+7/09,Thailand,9,2,7,0
+7/09,United Kingdom,4,0,4,0
+7/09,United States,75,0,67,8
+7/09,Viet Nam,63,5,58,0
+7/10,Viet Nam,63,5,58,0
+7/10,United Kingdom,4,0,4,0
+7/10,Thailand,9,2,7,0
+7/10,Taiwan,671,84,506,81
+7/10,Switzerland,1,0,1,0
+7/10,Sweden,3,0,3,0
+7/10,Spain,1,0,1,0
+7/10,South Africa,1,1,0,0
+7/10,Slovenia,0,0,0,0
+7/10,Singapore,206,32,172,2
+7/10,Russian Federation,1,0,0,1
+7/10,Romania,1,0,1,0
+7/10,Republic of Korea,3,0,3,0
+7/10,Republic of Ireland,1,0,1,0
+7/10,Poland,0,0,0,0
+7/10,Philippines,14,2,12,0
+7/10,New Zealand,1,0,1,0
+7/10,Mongolia,9,0,9,0
+7/10,Malaysia,5,2,3,0
+7/10,Kuwait,1,0,1,0
+7/10,Japan,0,0,0,0
+7/10,Italy,4,0,4,0
+7/10,Indonesia,2,0,2,0
+7/10,India,3,0,3,0
+7/10,Germany,10,0,9,1
+7/10,France,7,0,6,1
+7/10,Finland,1,0,1,0
+7/10,Colombia,1,0,1,0
+7/10,China,7083,646,6373,64
+7/10,Canada,250,38,194,18
+7/10,Bulgaria,0,0,0,0
+7/10,Brazil,1,0,1,0
+7/10,Belgium,0,0,0,0
+7/10,Australia,5,0,5,0
+7/10,United States,75,0,67,8
+7/11,Belgium,0,0,0,0
+7/11,Australia,5,0,5,0
+7/11,Viet Nam,63,5,58,0
+7/11,United States,75,0,67,8
+7/11,United Kingdom,4,0,4,0
+7/11,Thailand,9,2,7,0
+7/11,Taiwan,671,84,507,80
+7/11,Switzerland,1,0,1,0
+7/11,Sweden,3,0,3,0
+7/11,Spain,1,0,1,0
+7/11,South Africa,1,1,0,0
+7/11,Slovenia,0,0,0,0
+7/11,Singapore,206,32,172,2
+7/11,Russian Federation,1,0,0,1
+7/11,Romania,1,0,1,0
+7/11,Republic of Korea,3,0,3,0
+7/11,Republic of Ireland,1,0,1,0
+7/11,Poland,0,0,0,0
+7/11,Philippines,14,2,12,0
+7/11,New Zealand,1,0,1,0
+7/11,Mongolia,9,0,9,0
+7/11,Malaysia,5,2,3,0
+7/11,Kuwait,1,0,1,0
+7/11,Japan,0,0,0,0
+7/11,Italy,4,0,4,0
+7/11,Indonesia,2,0,2,0
+7/11,India,3,0,3,0
+7/11,Germany,10,0,9,1
+7/11,France,7,1,6,0
+7/11,Finland,1,0,1,0
+7/11,Colombia,1,0,1,0
+7/11,China,7083,646,6375,62
+7/11,Canada,250,38,194,18
+7/11,Bulgaria,0,0,0,0
+7/11,Brazil,1,0,1,0
