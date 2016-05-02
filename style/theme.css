@@ -188,7 +188,7 @@ body {
 
 .left {
     float: left;
-    width: 715px;
+    width: 675px;
     height: 200px;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -221,7 +221,7 @@ body {
 
 .right {
     float: left;
-    width: 715px;
+    width: 675px;
     height: 200px;
     overflow-x: hidden;
     overflow-y: hidden;
