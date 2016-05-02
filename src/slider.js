@@ -6,8 +6,8 @@ var slider_generator = function(){
 	var initDone	= false;
 
 	var margin = {top: 20, right: 20, bottom: 20, left: 20};
-	var width = 280 - margin.left - margin.right;
-	var height = 100 - margin.bottom - margin.top;
+	var width = 680 - margin.left - margin.right;
+	var height = 50 - margin.bottom - margin.top;
 
 
 	var formatDate = d3.time.format("%b %d")
@@ -19,7 +19,7 @@ var slider_generator = function(){
 
 	startingValue = new Date('2003-03-18');
 
-	var svg = d3.select('#slider').append("svg")
+	var svg = d3.select('#newslider').append("svg")
 		.attr("width", width + margin.left + margin.right)
 		.attr("height", height + margin.top + margin.bottom)
 		.append("g")
@@ -43,7 +43,7 @@ var slider_generator = function(){
 			return this.parentNode.appendChild(this.cloneNode(true));
 		})
 		.attr("class", "halo")
-		.style("stroke", "black")
+		.style("stroke", "#aaaaaa")
 		.style("stroke-width", 4)
 		.style("stroke-linecap", "round");
 
@@ -84,7 +84,7 @@ var slider_generator = function(){
 
 	handle.append("path")
 		.attr("transform", "translate(0," + height / 2.5 + ")")
-		.attr("d", "M 0 -20 V 20")
+		.attr("d", "M 0 -7 V 7")
 		.style("stroke", "black")
 		.style("stroke-width", 3)
 		.style("stroke-linecap", "round")
@@ -92,7 +92,7 @@ var slider_generator = function(){
 
 	handle.append("text")
 		.text(startingValue)
-		.attr("transform", "translate(" + (-18) + " ," + (height / 3 - 25) + ")")
+		.attr("transform", "translate(" + (-18) + " ," + (height / 3 - 12) + ")")
 		.style("fill", "black");
 
 	slider.call(brush.event);
@@ -119,40 +119,4 @@ var slider_generator = function(){
 	*/
 	return{init: init};
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
