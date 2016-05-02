@@ -91,11 +91,13 @@ A lot of attention was paid to formatting the axes, ticks, labels, and titles so
 We also added a title bar at the head of the page which includes external links providing resources with more information about SARS.
 
 ## Development Process
-- [x] Data Cleaning
-- [x] Create Prototype in Tableau
-- [x] Storyboard of the Interface
-- [x] Implement Design in D3
+Our group delegated tasking on the major components of our visualization to the three members, but we spent a lot of time coding all together in the library. 
 
+####Guanming's Tasking
+Summary How many hours? What took the most time?
+- [x] Task
+ * sub task
+ 
 ####Ryan's Tasking
 I spent roughly 20 hrs working on this application overall. A fair amount of time involved getting more up to speed with javascript, D3, and CSS since I am new to these tools. Getting the map on the page was rather straightforward using the Datamap javascript library, but a lot of time was spent refining the display and behavior of the map for our purposes. Time was also spent tailoring the code used to update the map to minimize the time it took to redraw the map as it updated. A significant amount of time was also spent in fine tuning other components and overall layout.
 - [x] Implement the Interactive Data Map (~ 12 hrs)
@@ -118,3 +120,9 @@ I spent roughly 20 hrs working on this application overall. A fair amount of tim
 - [x] Storyboarding (~1 hr)
  * Contributed the page layout storyboards
 - [x] Contributed to readme (~2 hrs)
+
+####Xiaochuan's Tasking
+Summary How many hours? What took the most time?
+- [x] Task
+ * sub task
+ 
