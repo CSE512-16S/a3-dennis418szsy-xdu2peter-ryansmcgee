@@ -6,28 +6,41 @@
 - Ryan McGee
 - Xiaochuan Du
 
-## The spreading of SARS in 2003
+## The 2003 SARS Outbreak
+
+Our data domain is investigating the spread of SARS in the 2003 outbreak of this disease. We are interested in the geospatial pattern of the disease's spread around the world over the course of the outbreak as well as understanding how different countries experienced the epidemic.
 
 Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
 
-The data is from the WHO website, and it consist of SARS cases from March 17, 2003 to July 11, 2003 of about 30 different countries and area. Variables in the data are
+### Data Source 
 
+Data on SARS cases during the 2003 outbreak is available from the World Health Organization (WHO). We acquired data from the the WHO website for use in our visualization. This data set consists of information about SARS cases from March 17, 2003 to July 11, 2003 for about 30 different countries. 
+
+Variables in the data include:
 * Country
 * Date
-* The cumulative number of cases
-* The number of death
-* The number of recovery
-* The number of current cases, by subtracting the number of death and the number of recovery from the cumulative number of cases.
+* The cumulative number of cases (per country, on each date)
+* The cumulative number of deaths (per country, on each date)
+* The cumulative number of recoveries (per country, on each date)
+* The number of current (active) cases (per country, on each date)
 
-## Running Instructions
+## Our Interactive Visualization
+
+### Running Instructions
 
 Access our visualization at [http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/](http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
 
-Major interactions include a slider that controls map of which day to be shown, and clicking of a contry to see the corresponding area chart. Some backgroud information is displayed on the left side, and external links of more information are at the top right cornor. 
+###Overview of Major Interactions:
+* <b>Move the date slider</b> to explore the global spread of active SARS cases on the map. 
+* <b>Mouseover a country</b> to view the number of cases in that country on the given date.
+* <b>Click on a country</b> to chart its cases over the duration of the epidemic.
+* External links with more information about the outbreak are available in the top right corner.
 
-The data map is quite big so please view it on a large screen/window.
+##Design
 
-## Story Board
+
+
+### Story Board
 
 In Tableau, we explored several designs of how to present the data. We think a map representation like this is appropriate.
 
