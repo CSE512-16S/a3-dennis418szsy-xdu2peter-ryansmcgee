@@ -4,8 +4,8 @@ var worldArea = function(containerId){
 	containerId = "#" + containerId;
 
 	var margin = {top: 20, right: 20, bottom: 30, left: 50};
-	var width = 700 - margin.left - margin.right;
-	var height = 320 - margin.top - margin.bottom;
+	var width = 600 - margin.left - margin.right;
+	var height = 200 - margin.top - margin.bottom;
 
 	var parseDate = d3.time.format("%m/%d").parse;
 
@@ -95,6 +95,7 @@ var worldArea = function(containerId){
 			.attr("dy", ".50em")
 			.style("text-anchor", "end")
 			.style("font-size","12px")
+			.style("fill", "#888888")
 			.text("Number of Cases");
 
 		svg.selectAll('.axis line, .axis path')
@@ -105,19 +106,20 @@ var worldArea = function(containerId){
 			.data(color.domain())
 			.enter().append("g")
 			.attr("class", "legend")
-			.attr("transform", function(d, i) { return "translate(0," + (75+(-1*i*20)) + ")"; });
+			.attr("transform", function(d, i) { return "translate(0," + (55+(-1*i*16)) + ")"; });
 
 		legend.append("rect")
 			.attr("x", 150)
-			.attr("width", 18)
-			.attr("height", 18)
+			.attr("width", 12)
+			.attr("height", 12)
 			.style("fill", color);
 
 		legend.append("text")
 			.attr("x", 140)
-			.attr("y", 9)
+			.attr("y", 7)
 			.attr("dy", ".35em")
 			.style("text-anchor", "end")
+			.style("font-size", "12px")
 			.text(function(d) {
 				if(d == "2"){
 					return "Recovered";
@@ -134,7 +136,7 @@ var worldArea = function(containerId){
             .attr("x", width/2)
             .attr("y", 10)
             .attr("text-anchor", "middle")
-            .style("font-size", "20px") 
+            .style("font-size", "16px") 
             .style("fill", "black")
             .style("stroke", "black")
             .text("SARS Cases Globally");
