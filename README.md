@@ -8,7 +8,7 @@
 
 ## The spreading of SARS in 2003
 
-Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6\% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
+Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
 
 The data is from the WHO website, and it consist of SARS cases from March 17, 2003 to July 11, 2003 of about 30 different countries and area. Variables in the data are
 
@@ -31,33 +31,53 @@ The data map is quite big so please view it on a large screen/window.
 
 In Tableau, we explored several designs of how to present the data. We think a map representation like this is appropriate.
 
+<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/worldmap.png)
+=======
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldmap.png)
+>>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 Color is used to encode the number of current cases. Dark means a larger population of people having SARS. Tableau has this nice feature that enable you to play a video on how the map changes over time. There is also a slider that controls the date of the map. We think these are nice, and we decided to implement a slider in our interactive visualization. 
 
-To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. A scetch using data from the world looks like this,
+To show more than just the current cases, we decide to include area charts that shows the number of death and recovery as well. Red, yellow and blue are the colors for different area, taking into consideration of Deuteranopia(red-green color blindness). A scetch using data from the world looks like this,
 
+<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/worldAreaChart.png)
 
 We also want to enable viewer to create area chart of individual country like this,
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/ChinaAreaChart.png)
+=======
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
+
+We also want to enable viewer to create area chart of individual country like this,
+
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/ChinaAreaChart.png)
+>>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 This will be another interactive feature, namely when the viewer click on a country on the map, the corresponding area chart will be drawn besides the world area chart.
 
 The basic overview of the interface is here:
 
+<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/newSketch.jpg)
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/proposedNewSketch.png)
+=======
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch.png)
+>>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 ## Changes Between the Storyboard and the Final Visualization
 
 Once we implemented the interface, we realized that we want the world map to be as big as possible. Stacking the two area charts decreases the height of the map, so we put them side by side.
 
+<<<<<<< HEAD
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/proposedNewSketch2.png)
+=======
+![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch2.png)
+>>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
-Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added, a title and external links about .
+Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added a title and external links about SARS.
 
 
 ## Development Process
