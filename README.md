@@ -12,7 +12,7 @@ Our data domain is investigating the spread of SARS in the 2003 outbreak of this
 
 Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the SARS coronavirus (SARS-CoV), and between November 2002 and July 2003, an outbreak of SARS in southern China caused an eventual 8,096 cases and 774 deaths reported in multiple countries with the majority of cases in Hong Kong (9.6% fatality rate) according to the World Health Organization (WHO). Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003. For this assignment, we are interested in visualized the spreading of SARS across time and countries. 
 
-### Data Source 
+### Data Domain
 
 Data on SARS cases during the 2003 outbreak is available from the World Health Organization (WHO). We acquired data from the the WHO website for use in our visualization. This data set consists of information about SARS cases from March 17, 2003 to July 11, 2003 for about 30 different countries. 
 
@@ -50,7 +50,7 @@ As mentioned above, we think a map representation is appropriate for this data d
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldmap.png)
 
-Tableau has this nice feature that enables you to play a video of how the map changes over time. There is also a slider that controls the date of the map. This is nice because Tableau allows us to explore both the color encodings of our data and how the data looks as you use a slider to interact with it. By playing with this in Tableau, we identified a few things that we will need to consider in our implementation. First, the range of values for the number of cases are not uniform over its rather large range. Most countries have very few cases (<10) on any given day, but a few countries have very many cases (>100 or >1000+) cases on many days. We need to have a color scale that has enough dynamic range to distiguish differences both among the relatively low values and between the low and high values. Also, it is important to make sure the lightest color in the range is not so light that it doesn't stand out from the background. In our implementation, we will use a color scale with 16 different colors to provide enough levels for the necessary value distinctions, and use a "minimum" (lightest color) that is sufficiently contrasted with white background and unshaded countries.
+Tableau has this nice feature that enables you to play a video of how the map changes over time. There is also a slider that controls the date of the map. This is nice because Tableau allows us to explore both the color encodings of our data and how the data looks as you use a slider to interact with it. By playing with this in Tableau, we identified a few things that we will need to consider in our implementation. First, the range of values for the number of cases are not uniform over its rather large range. Most countries have very few cases (<10) on any given day, but a few countries have very many cases (>100 or >1000+) cases on many days. We need to have a color scale that has enough dynamic range to distiguish differences both among the relatively low values and between the low and high values. Also, it is important to make sure the lightest color in the range is not so light that it doesn't stand out from the background. In our implementation, we will use a color scale with at least 10 different colors to provide enough levels for the necessary value distinctions, and use a "minimum" (lightest color) that is sufficiently contrasted with white background and unshaded countries.
 
 In addition to encoding information with country colors, the map itself provides an intuitive interface for users to interact with and gain more detailed information. We will display tool tips with the current number of active cases and cumulative numbers of deaths and recoveries for a given country when the user mouses over that country. Clicking on a country will also be used as an interaction feature (details below).
 
@@ -58,7 +58,7 @@ The map will provide a good overview of the spread of the disease, but it may be
 
 While information about number of current cases for each country will be visualized in the map, it would also be nice to be able to see a plot - like the one for the global totals - to get an additional look at how cases/deaths/recoveries rise and fall over the whole time scale in each country. There are too many countries, each with a different scale of number of cases, to make displaying an area plot for each country (such as with small multiples) feasible in one view. Therefore, we will allow the user to interact with the map and click on countries to display the area chart for a selected country. One country will be charted at a time.
 
-We used Tableau again to get a feel for what these area charts will look like. We decided to use the following color encodings: orange for active cases, red for deaths, and blue for recoveries. This scheme plays on common perceptions (red=bad, orange=similar to red (bad) but less so, blue=ok). This will also avoid using both red and green, taking into consideration of Deuteranopia(red-green color blindness). A scetch using data from the world totals looks like this,
+We used Tableau again to get a feel for what these area charts will look like. We decided to use the following color encodings: orange for active cases, red for deaths, and blue for recoveries. This scheme plays on common perceptions (red=bad, orange=similar to red (bad) but less so, blue=ok). This will also avoid using both red and green, taking into consideration of Deuteranopia(red-green color blindness). We will be consistent in using these colors for these categories across each component of our overall visualization (e.g. use an orange color gradient in the map, which is encoding active cases). A sketch using data from the world totals looks like this:
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/worldAreaChart.png)
 
@@ -74,12 +74,21 @@ We have plotted out a basic overview of the layout/interface. The map, being the
 
 ## Changes Between the Storyboard and the Final Visualization
 
-Once we implemented the interface, we realized that we want the world map to be as big as possible. Stacking the two area charts decreases the height of the map, so we put them side by side.
+Tableau proved to be a very effective prototyping tool that allowed us to tease out a lot of the design considerations before we began implementation. As such, most of our final visualization remained in line with our design/storyboard.
+
+Early after beginning to implement the layout and interface, we realized that screen real estate was a bit of an issue. We wanted to make sure all components of the visualization would be visible on nearly all screen sizes, so we tried to position and scale all components to fit on rather small Surface tablet and Macbook air screens (the smallest screens in our group). At first each of our components were too large to fit simultaneously on these displays. We wanted the world map to be as big as possible so we realized that stacking the two area charts below the map decreases the possible height of the map. So we ended up putting the area charts side by side below the map to free up vertical screen real estate. We made a revised layout storyboard after this early redesign:
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch2.png)
 
-Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added a title and external links about SARS.
+Another change was opting to use a single slider centered underneath the map rather than having individual (but linked) sliders on each of the area charts. This simplified the interface and makes it less confusing for the user what slider to use.
 
+The colors were refined in the implementation beyond what we had in the storyboard/design. We planned to use at least 10 colors in the gradient for the map, but ended up using a 16-color scale to provide the desired resolution at different ranges of values. We also experimented with both linear and log-based color gradients. The log scale gave more dramatic differentiation when the number of cases was very low, but made it so that once a country got past an intermediate number of cases it always appeared dark. We opted to use a linear scale which still gave enough differentiation at low values but also made changes across all value ranges apparent as you move across dates. With the linear scale, but not the log scale, you can easily see the rise and fall in number of cases in countries with wide ranges of values like China.
+
+We also carefully considered the colors used in the area charts. We stuck with the red=death, orange=active case, and blue=recovered scheme. But we chose to use a light/desturated blue so that the trends in active cases and deaths, which are the most interesting categories to look at, would stand out prominently. We also chose a slightly darkened red for good contrast with the orange. A legend was added to the Global data area chart which serves as a legend for all figures since they are consistent in coloration.
+
+A lot of attention was paid to formatting the axes, ticks, labels, and titles so that they convey the important information without being cluttered or distracting. This involved tweaking font sizes, giving some less important font a gray tone, and so on.
+
+We also added a title bar at the head of the page which includes external links providing resources with more information about SARS.
 
 ## Development Process
 - [x] Data Cleaning
