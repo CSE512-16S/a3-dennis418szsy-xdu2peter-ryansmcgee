@@ -95,3 +95,26 @@ We also added a title bar at the head of the page which includes external links 
 - [x] Create Prototype in Tableau
 - [x] Storyboard of the Interface
 - [x] Implement Design in D3
+
+####Ryan's Tasking
+I spent roughly 20 hrs working on this application overall. A fair amount of time involved getting more up to speed with javascript, D3, and CSS since I am new to these tools. Getting the map on the page was rather straightforward using the Datamap javascript library, but a lot of time was spent refining the display and behavior of the map for our purposes. Time was also spent tailoring the code used to update the map to minimize the time it took to redraw the map as it updated. A significant amount of time was also spent in fine tuning other components and overall layout.
+- [x] Implement the Interactive Data Map (~ 12 hrs)
+ * Create lookup dictionaries for converting WHO country names to country codes used in Datamap API
+ * Implement reading in and storing data from data files
+ * Implement generating and initializing world data map, including customizing display parameters
+ * Implement update function to color countries according to data and given date
+ * Provide function interface to slider for specifiying date to display
+ * Implement tooltips for country data on mouseover
+ * Implement ability to click on countries and direct area chart to update to display info for selected country
+ * Optimizing for responsiveness of map (it was initially rather laggy relative to slider inputs, but now very responsive)
+ * Sizing and positioning the map in the web layout
+ * Optimizing choice of color gradient scale and encoding
+- [x] Fine tuning area chart visualization aspects (~2 hrs)
+ * Formatted area chart axes, labels, and titles for aesthetic expressiveness/effectiveness with minimal clutter and distraction
+ * Choice of final colors for active/death/recovery
+ * Minor adjustments to legend to be in same order as chart stack and out of the way of the title
+- [x] Working with page layout (~2 hrs)
+ * Worked some to move/scale a few things to achieve final page layout and make sure all components simultaneously visible on relatively small screens (bulk of layout was done by Guanming)
+- [x] Storyboarding (~1 hr)
+ * Contributed the page layout storyboards
+- [x] Contributed to readme (~2 hrs)
