@@ -122,7 +122,21 @@ I spent roughly 20 hrs working on this application overall. A fair amount of tim
 - [x] Contributed to readme (~2 hrs)
 
 ####Xiaochuan's Tasking
-Summary How many hours? What took the most time?
-- [x] Task
- * sub task
+I spent roughly 19 hrs working on this application overall. Reading slides and examples in javascript, D3, and CSS took a lot of time because I have no experience with any of them before. Collecting data fromt the WHO website took a fair amount of time because they are posted on the website but no .csv files for downloading. I also transofrming the data into the desired format and created .csv and .json. Several cleaning techniques are performed using Trifacta. I then created our initial design and interaction in Tableau. An interactive map and several area chart are drawn as a prototype of our components. Learning D3 and javascript took the most time. I explored several examples about brush and slider, then implemented for our visualization.
+
+- [x] Collecting data and cleaning (~5 hr)
+ * Copy and paste data from the WHO website since they don't have a .csv file
+ * Calculating the number of current cases per country, on each date in excel
+ * Data cleaning in Trifacta
+ * Transforming into correct format, .json
+- [x] Storyboarding in Tableau (~3 hr)
+ * Think of appropriate representation in Tableau
+ * Constructed prototype
+- [x] Implement interactive slider/brush (~ 8 hrs)
+ * Learning from examples of slider and brush in D3
+ * Implement distance-to-date transformation of the slider
+ * Connecting to the Update function in Map
+ * Fine tuning of the font and format of the date
+- [x] Contributed to readme (~3 hrs)
+
  
