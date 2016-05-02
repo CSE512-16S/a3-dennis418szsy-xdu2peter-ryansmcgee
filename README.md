@@ -55,20 +55,13 @@ The basic overview of the interface is here:
 
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/newSketch.jpg)
 
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/proposedNewSketch.png)
-=======
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch.png)
->>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 ## Changes Between the Storyboard and the Final Visualization
 
 Once we implemented the interface, we realized that we want the world map to be as big as possible. Stacking the two area charts decreases the height of the map, so we put them side by side.
 
-<<<<<<< HEAD
-![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/pic/proposedNewSketch2.png)
-=======
 ![summary](https://github.com/CSE512-16S/a3-dennis418szsy-xdu2peter-ryansmcgee/blob/master/storyboard/proposedNewSketch2.png)
->>>>>>> 84331c75b5af476a3f6e32dd92f3d3c0d9975794
 
 Things got move around a little bit. For example, we added a section for the slider that control the world map. Color is tuned for better visual expression. We also added a title and external links about SARS.
 
