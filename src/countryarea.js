@@ -10,8 +10,8 @@ var makeAreaChart = {
         $(containerId + " svg").remove()
 
         var margin = {top: 20, right: 20, bottom: 30, left: 50};
-        var width = 700 - margin.left - margin.right;
-        var height = 320 - margin.top - margin.bottom;
+        var width = 600 - margin.left - margin.right;
+        var height = 200 - margin.top - margin.bottom;
 
         var selectedCountry = clickedCountry;
 
@@ -117,7 +117,7 @@ var makeAreaChart = {
                 .attr("x", width - 18)
                 .attr("dx", ".71em")
                 .style("text-anchor", "end")
-                .text("Date");
+                //.text("Date");
 
             svg.append("g")
                 .attr("class", "y axis")
@@ -128,6 +128,7 @@ var makeAreaChart = {
                 .attr("dy", ".71em")
                 .style("text-anchor", "end")
                 .style("font-size","12px")
+                .style("fill", "#888888")
                 .text("Number of Cases");
 
             svg.selectAll('.axis line, .axis path')
@@ -138,7 +139,7 @@ var makeAreaChart = {
                     .attr("x", width/2)
                     .attr("y", 10)
                     .attr("text-anchor", "middle")
-                    .style("font-size", "20px") 
+                    .style("font-size", "16px") 
                     .style("fill", "black")
                     .style("stroke", "black")
                     .text("SARS Cases in " + selectedCountry);
@@ -165,37 +166,4 @@ var makeAreaChart = {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
