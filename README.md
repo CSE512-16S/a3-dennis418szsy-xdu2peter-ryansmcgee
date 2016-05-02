@@ -21,7 +21,7 @@ The data is from the WHO website, and it consist of SARS cases from March 17, 20
 
 ## Running Instructions
 
-Access our visualization at [http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/index.html](http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/index.html) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
+Access our visualization at [http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/](http://cse512-16s.github.io/a3-dennis418szsy-xdu2peter-ryansmcgee/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
 
 Major interactions include a slider that controls map of which day to be shown, and clicking of a contry to see the corresponding area chart. Some backgroud information is displayed on the left side, and external links of more information are at the top right cornor. 
 
